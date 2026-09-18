@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zen Downloader — Download Any Video, Instantly</title>
+<meta name="description" content="Download videos from YouTube, TikTok, Instagram, Facebook, X, Snapchat, Pinterest and more. Parallel downloads, pause and resume, best quality. 1-day free trial. Made By Bilal Melwana.">
+<link rel="icon" href="ZenDownloader.ico">
+<style>
+:root{
+  --grad:linear-gradient(120deg,#06B6D4,#3B82F6,#8B5CF6,#EC4899);
+  --c1:#06B6D4; --c2:#3B82F6; --c3:#8B5CF6; --c4:#EC4899;
+  --bg:#05070C; --panel:#0F1320; --panel2:#0A0D16; --input:#141A2A;
+  --text:#F4F7FB; --soft:#8B95A8; --border:#222A3D; --wa:#25D366;
+}
+*{box-sizing:border-box;margin:0;padding:0;font-family:'Segoe UI Variable','Segoe UI',system-ui,-apple-system,sans-serif;font-weight:700}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);overflow-x:hidden;line-height:1.6}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+.gtext{background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+
+nav{position:sticky;top:0;z-index:50;background:rgba(5,7,12,.86);backdrop-filter:blur(14px);border-bottom:1px solid var(--border)}
+.nav-in{display:flex;align-items:center;justify-content:space-between;height:68px}
+.brand{display:flex;align-items:center;gap:11px}
+.logo{width:36px;height:36px;border-radius:11px;background:var(--grad);display:flex;align-items:center;justify-content:center;box-shadow:0 0 22px rgba(139,92,246,.6)}
+.logo svg{width:20px;height:20px;fill:#fff}
+.brand b{font-size:18px;font-weight:900;letter-spacing:-.3px}
+.ver{font-size:10px;font-weight:900;padding:3px 9px;border-radius:7px;background:var(--grad);color:#fff}
+.nav-links{display:flex;gap:26px}
+.nav-links a{color:var(--soft);text-decoration:none;font-size:13.5px;font-weight:800}
+.nav-links a:hover{color:var(--text)}
+@media(max-width:860px){.nav-links{display:none}}
+
+header{position:relative;text-align:center;padding:76px 0 60px;overflow:hidden}
+header::before{content:"";position:absolute;inset:-40% 0 auto 0;height:640px;pointer-events:none;
+  background:radial-gradient(720px 340px at 50% 0,rgba(139,92,246,.30),transparent 62%),
+             radial-gradient(520px 260px at 18% 12%,rgba(6,182,212,.22),transparent 60%),
+             radial-gradient(520px 260px at 84% 14%,rgba(236,72,153,.22),transparent 60%)}
+.badge{position:relative;display:inline-flex;align-items:center;gap:9px;padding:9px 19px;border-radius:999px;
+  border:1.5px solid transparent;background-image:linear-gradient(var(--panel),var(--panel)),var(--grad);
+  background-origin:border-box;background-clip:padding-box,border-box;font-size:12px;font-weight:900;letter-spacing:.5px;margin-bottom:22px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--c1);box-shadow:0 0 10px var(--c1)}
+h1{position:relative;font-size:clamp(34px,6vw,60px);font-weight:900;letter-spacing:-1.6px;line-height:1.08}
+.sub{position:relative;color:var(--soft);font-size:clamp(14px,2vw,17px);max-width:660px;margin:16px auto 0;font-weight:700}
+.plats{position:relative;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:2px;margin:24px auto 0;max-width:800px}
+.plats span{font-size:13.5px;font-weight:800;color:var(--text)}
+.plats i{color:var(--soft);font-style:normal;margin:0 8px}
+
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:11px;text-decoration:none;font-weight:900;
+  border-radius:16px;cursor:pointer;border:none;transition:transform .16s,box-shadow .16s}
+.btn:hover{transform:translateY(-3px)}
+.btn-big{background:var(--grad);color:#fff;font-size:clamp(15px,2.2vw,19px);padding:22px 46px;letter-spacing:.3px;
+  box-shadow:0 0 0 1px rgba(139,92,246,.55),0 20px 60px rgba(139,92,246,.5)}
+.btn-big:hover{box-shadow:0 0 0 1px rgba(139,92,246,.95),0 26px 74px rgba(139,92,246,.7)}
+.btn-wa{background:var(--wa);color:#fff;font-size:14px;padding:15px 28px;box-shadow:0 12px 34px rgba(37,211,102,.4)}
+.btn-ghost{color:var(--text);font-size:14px;padding:15px 28px;border:1.5px solid transparent;
+  background-image:linear-gradient(var(--panel),var(--panel)),var(--grad);background-origin:border-box;background-clip:padding-box,border-box}
+.cta-row{position:relative;display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:18px}
+.meta{position:relative;color:var(--soft);font-size:13px;margin-top:20px;font-weight:800}
+.meta b{color:var(--text)}
+.hero-btn{position:relative;margin-top:34px}
+
+.shot{position:relative;max-width:940px;margin:56px auto 0;border-radius:20px;padding:2px;background:var(--grad);box-shadow:0 40px 110px rgba(0,0,0,.72)}
+.shot-in{background:var(--panel2);border-radius:18px;overflow:hidden}
+.shot-bar{display:flex;gap:7px;padding:12px 16px;background:var(--panel);border-bottom:1px solid var(--border)}
+.shot-bar i{width:11px;height:11px;border-radius:50%;background:#2A3348;display:block}
+.shot-body{padding:24px}
+.row{display:flex;gap:12px;align-items:center;background:var(--panel);border:1px solid var(--border);border-radius:13px;padding:11px;margin-bottom:10px;text-align:left}
+.row:last-child{margin-bottom:0}
+.th{width:96px;height:56px;border-radius:9px;background:linear-gradient(135deg,#2a1a3a,#3a1f4f);flex:none}
+.rt{font-size:13px;font-weight:900}
+.rc{display:flex;gap:6px;margin:5px 0 7px}
+.chip{font-size:9.5px;font-weight:900;padding:3px 9px;border-radius:999px;background:var(--grad);color:#fff}
+.chip.g{background:var(--input);color:var(--soft)}
+.pbar{height:7px;border-radius:4px;background:var(--input);overflow:hidden}
+.pbar>b{display:block;height:100%;background:var(--grad);border-radius:4px}
+.rs{font-size:11px;color:var(--soft);margin-top:6px;font-weight:800}
+
+section{padding:74px 0}
+.s-head{text-align:center;margin-bottom:44px}
+.s-head h2{font-size:clamp(26px,3.6vw,38px);font-weight:900;letter-spacing:-.8px}
+.s-head p{color:var(--soft);margin-top:10px;font-size:15px;font-weight:700}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(272px,1fr));gap:18px}
+.card{border-radius:18px;padding:2px;background:var(--grad)}
+.card-in{background:var(--panel);border-radius:16px;padding:26px;height:100%}
+.card .ic{font-size:26px;margin-bottom:12px;display:block}
+.card h3{font-size:17px;font-weight:900;margin-bottom:7px}
+.card p{color:var(--soft);font-size:14px;font-weight:700}
+
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px}
+.step{border-radius:18px;padding:2px;background:var(--grad)}
+.step-in{background:var(--panel);border-radius:16px;padding:24px;height:100%}
+.num{width:38px;height:38px;border-radius:11px;background:var(--grad);color:#fff;font-size:16px;font-weight:900;
+  display:flex;align-items:center;justify-content:center;margin-bottom:14px;box-shadow:0 8px 22px rgba(139,92,246,.45)}
+.step h4{font-size:15.5px;font-weight:900;margin-bottom:6px}
+.step p{color:var(--soft);font-size:13.5px;font-weight:700}
+.step b{color:var(--text)}
+
+.plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));gap:18px}
+.plan{border-radius:18px;padding:2px;background:var(--grad)}
+.plan.best{padding:3px}
+.plan-in{background:var(--panel);border-radius:16px;padding:26px 22px;height:100%;display:flex;flex-direction:column}
+.plan-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.plan-name{font-size:17px;font-weight:900}
+.tag{font-size:9.5px;font-weight:900;padding:4px 10px;border-radius:999px;background:var(--grad);color:#fff;letter-spacing:.4px}
+.price{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.price .now{font-size:31px;font-weight:900;letter-spacing:-1px}
+.price .was{font-size:14px;color:var(--soft);text-decoration:line-through;font-weight:800}
+.plan-note{color:var(--soft);font-size:13px;margin-top:9px;font-weight:700}
+.plan ul{list-style:none;margin-top:16px;padding-top:16px;border-top:1px solid var(--border)}
+.plan li{font-size:13px;color:var(--soft);margin:7px 0;font-weight:700;display:flex;gap:8px}
+.plan li::before{content:"\2713";color:var(--c1);font-weight:900}
+
+.divider{height:2px;margin:52px 0 46px;border-radius:2px;
+  background:linear-gradient(90deg,transparent,var(--c1),var(--c2),var(--c3),var(--c4),transparent);
+  box-shadow:0 0 22px rgba(139,92,246,.5)}
+.final{text-align:center}
+.final p{color:var(--soft);font-size:14px;margin-top:16px;font-weight:800}
+
+footer{border-top:1px solid var(--border);padding:44px 0 56px;text-align:center;background:var(--panel2)}
+.made{display:inline-block;padding:12px 22px;border-radius:14px;border:1.5px solid transparent;
+  background-image:linear-gradient(var(--panel),var(--panel)),var(--grad);background-origin:border-box;
+  background-clip:padding-box,border-box;font-size:14px;font-weight:900;margin-bottom:20px}
+.f-links{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-bottom:20px}
+.copy{color:var(--soft);font-size:12.5px;font-weight:700}
+
+@media(max-width:620px){
+  .btn-big{width:100%;padding:20px 20px;font-size:15px}
+  .cta-row .btn,.f-links .btn{width:100%}
+  header{padding:54px 0 44px}
+  section{padding:54px 0}
+  .th{width:74px;height:44px}
+}
+</style>
+</head>
+<body>
+
+<nav><div class="wrap nav-in">
+  <div class="brand">
+    <span class="logo"><svg viewBox="0 0 24 24"><path d="M11 3h2v9.2l3.1-3.1 1.4 1.4L12 16 6.5 10.5l1.4-1.4L11 12.2V3zM5 18h14v2.4H5z"/></svg></span>
+    <b>Zen Downloader</b><span class="ver">3.1</span>
+  </div>
+  <div class="nav-links">
+    <a href="#features">FEATURES</a>
+    <a href="#buy">HOW TO BUY</a>
+    <a href="#activate">ACTIVATE KEY</a>
+    <a href="#pricing">PRICING</a>
+  </div>
+</div></nav>
+
+<header><div class="wrap">
+  <span class="badge"><span class="dot"></span> INCLUDES A 1-DAY FREE TRIAL &mdash; NO SIGN-UP</span>
+  <h1>Download Anything,<br><span class="gtext">Instantly.</span></h1>
+  <p class="sub">The fastest way to save videos in their best quality &mdash; from every platform you use, all in one beautiful app.</p>
+
+  <div class="plats">
+    <span>YouTube</span><i>&bull;</i><span>TikTok</span><i>&bull;</i><span>Instagram</span><i>&bull;</i>
+    <span>Facebook</span><i>&bull;</i><span>X</span><i>&bull;</i><span>Snapchat</span><i>&bull;</i>
+    <span>Pinterest</span><i>&bull;</i><span>And More</span>
+  </div>
+
+  <div class="hero-btn">
+    <a class="btn btn-big" href="https://github.com/bilalmelwana06/zen-downloader/releases/download/v3.1/ZenDownloaderSetup.exe">&#11015;&nbsp; FREE DOWNLOAD</a>
+  </div>
+
+  <div class="cta-row">
+    <a class="btn btn-wa" href="https://wa.me/923023404198?text=Hello%21%20I%20need%20support%20with%20Zen%20Downloader." target="_blank" rel="noopener">&#128241;&nbsp; WHATSAPP SUPPORT</a>
+    <a class="btn btn-ghost" href="https://whatsapp.com/channel/0029Vb8oxCSFcow3mWseYc0G" target="_blank" rel="noopener">&#9733;&nbsp; FOLLOW ME</a>
+  </div>
+
+  <p class="meta">Version <b>3.1</b> &nbsp;&bull;&nbsp; Windows 10 &amp; 11 &nbsp;&bull;&nbsp; <b>1-Day Free Trial</b> Included</p>
+
+  <div class="shot"><div class="shot-in">
+    <div class="shot-bar"><i></i><i></i><i></i></div>
+    <div class="shot-body">
+      <div class="row"><div class="th"></div><div style="flex:1;min-width:0">
+        <div class="rt">How I Built a Video Downloader from Scratch</div>
+        <div class="rc"><span class="chip">YouTube</span><span class="chip g">4K &bull; MP4</span></div>
+        <div class="pbar"><b style="width:64%"></b></div>
+        <div class="rs"><span class="gtext">64%</span> &nbsp;&bull;&nbsp; 6.4 MB/s &nbsp;&bull;&nbsp; ETA 00:14</div></div></div>
+      <div class="row"><div class="th"></div><div style="flex:1;min-width:0">
+        <div class="rt">Aesthetic edit #foryou #viral</div>
+        <div class="rc"><span class="chip">TikTok</span><span class="chip g">1080p</span></div>
+        <div class="pbar"><b style="width:100%;background:#22C55E"></b></div>
+        <div class="rs" style="color:#22C55E">&#10003; COMPLETED</div></div></div>
+      <div class="row"><div class="th"></div><div style="flex:1;min-width:0">
+        <div class="rt">Tamasha 24/7 UNCUT &mdash; Highlights</div>
+        <div class="rc"><span class="chip">Facebook</span><span class="chip g">720p</span></div>
+        <div class="pbar"><b style="width:31%"></b></div>
+        <div class="rs"><span class="gtext">31%</span> &nbsp;&bull;&nbsp; 4.1 MB/s &nbsp;&bull;&nbsp; ETA 00:42</div></div></div>
+    </div>
+  </div></div>
+</div></header>
+
+<section id="features"><div class="wrap">
+  <div class="s-head"><h2>Built To Be <span class="gtext">The Best</span></h2>
+  <p>Everything you need, nothing you don't.</p></div>
+  <div class="grid">
+    <div class="card"><div class="card-in"><span class="ic">&#9889;</span>
+      <h3>Parallel Downloads</h3><p>Grab several videos at the same time. Choose how many run together &mdash; up to five at once.</p></div></div>
+    <div class="card"><div class="card-in"><span class="ic">&#9208;</span>
+      <h3>Pause &amp; Resume</h3><p>Stop any download and pick it up later from exactly where it left off. Nothing is wasted.</p></div></div>
+    <div class="card"><div class="card-in"><span class="ic">&#127916;</span>
+      <h3>Real Thumbnails</h3><p>Every download shows the real video preview with live speed, ETA and size as it goes.</p></div></div>
+    <div class="card"><div class="card-in"><span class="ic">&#127919;</span>
+      <h3>Best Quality, Always</h3><p>4K, 1440p, 1080p or MP3 &mdash; pick a quality, or let Best Quality grab the highest available.</p></div></div>
+    <div class="card"><div class="card-in"><span class="ic">&#128260;</span>
+      <h3>Always Up To Date</h3><p>The engine refreshes itself, so your downloads keep working even when websites change.</p></div></div>
+    <div class="card"><div class="card-in"><span class="ic">&#128193;</span>
+      <h3>History &amp; Open Folder</h3><p>Your list stays saved even after closing the app, and one click opens the file's folder.</p></div></div>
+  </div>
+</div></section>
+
+<section id="buy" style="background:var(--panel2)"><div class="wrap">
+  <div class="s-head"><h2>How To <span class="gtext">Buy</span></h2>
+  <p>Simple, personal and fast &mdash; everything happens on WhatsApp.</p></div>
+  <div class="steps">
+    <div class="step"><div class="step-in"><div class="num">1</div>
+      <h4>Install &amp; Try Free</h4><p>Download the app and use it free for <b>1 full day</b> &mdash; no card, no sign-up.</p></div></div>
+    <div class="step"><div class="step-in"><div class="num">2</div>
+      <h4>Open Upgrade</h4><p>Inside the app click <b>Upgrade</b>. You'll see every plan with its current offer.</p></div></div>
+    <div class="step"><div class="step-in"><div class="num">3</div>
+      <h4>Tap Buy On WhatsApp</h4><p>Choose a plan and press <b>Buy On WhatsApp</b>. A ready message opens in your chat with me.</p></div></div>
+    <div class="step"><div class="step-in"><div class="num">4</div>
+      <h4>Pay &amp; Get Your Key</h4><p>Pay by <b>JazzCash, Easypaisa or bank transfer</b>. I send your license key on WhatsApp right away.</p></div></div>
+  </div>
+</div></section>
+
+<section id="activate"><div class="wrap">
+  <div class="s-head"><h2>How To <span class="gtext">Activate Your Key</span></h2>
+  <p>Takes about ten seconds.</p></div>
+  <div class="steps">
+    <div class="step"><div class="step-in"><div class="num">1</div>
+      <h4>Open The App</h4><p>Launch <b>Zen Downloader</b> and click <b>Upgrade</b> at the top right.</p></div></div>
+    <div class="step"><div class="step-in"><div class="num">2</div>
+      <h4>Paste Your Key</h4><p>Under <b>"Already have a license key?"</b> paste the key I sent you on WhatsApp.</p></div></div>
+    <div class="step"><div class="step-in"><div class="num">3</div>
+      <h4>Press Activate</h4><p>Click <b>Activate</b>. Your plan turns on instantly and the app is fully unlocked.</p></div></div>
+    <div class="step"><div class="step-in"><div class="num">4</div>
+      <h4>That's It</h4><p>Your key stays active on <b>that one PC</b>. Changing computer? Just message me on WhatsApp.</p></div></div>
+  </div>
+  <div class="cta-row" style="margin-top:40px">
+    <a class="btn btn-wa" href="https://wa.me/923023404198?text=Hello%21%20I%20need%20help%20activating%20my%20Zen%20Downloader%20key." target="_blank" rel="noopener">&#128241;&nbsp; WHATSAPP SUPPORT</a>
+    <a class="btn btn-ghost" href="https://whatsapp.com/channel/0029Vb8oxCSFcow3mWseYc0G" target="_blank" rel="noopener">&#9733;&nbsp; FOLLOW ME</a>
+  </div>
+</div></section>
+
+<section id="pricing" style="background:var(--panel2)"><div class="wrap">
+  <div class="s-head"><h2>Simple, <span class="gtext">Honest Pricing</span></h2>
+  <p>Start with a 1-day free trial. Upgrade inside the app whenever you're ready.</p></div>
+
+  <div class="plans">
+    <div class="plan"><div class="plan-in">
+      <div class="plan-top"><span class="plan-name">Monthly</span></div>
+      <div class="price"><span class="now gtext">Rs 299</span></div>
+      <p class="plan-note">30 days of full access</p>
+      <ul><li>All platforms</li><li>Best quality &amp; 4K</li><li>WhatsApp support</li></ul>
+    </div></div>
+
+    <div class="plan"><div class="plan-in">
+      <div class="plan-top"><span class="plan-name">6-Month</span><span class="tag">SAVE 60%</span></div>
+      <div class="price"><span class="now gtext">Rs 599</span><span class="was">Rs 1,500</span></div>
+      <p class="plan-note">180 days &bull; renews at Rs 1,500</p>
+      <ul><li>Everything in Monthly</li><li>Launch offer price</li><li>Priority support</li></ul>
+    </div></div>
+
+    <div class="plan"><div class="plan-in">
+      <div class="plan-top"><span class="plan-name">Yearly</span><span class="tag">1ST YEAR OFFER</span></div>
+      <div class="price"><span class="now gtext">Rs 1,000</span><span class="was">Rs 3,000</span></div>
+      <p class="plan-note">365 days &bull; renews at Rs 3,000</p>
+      <ul><li>Everything in 6-Month</li><li>Best yearly value</li><li>All future 3.x updates</li></ul>
+    </div></div>
+
+    <div class="plan best"><div class="plan-in">
+      <div class="plan-top"><span class="plan-name">Lifetime</span><span class="tag">BEST VALUE</span></div>
+      <div class="price"><span class="now gtext">Rs 3,000</span><span class="was">Rs 10,000</span></div>
+      <p class="plan-note">Pay once &bull; yours forever</p>
+      <ul><li>Everything, forever</li><li>No renewals, ever</li><li>Limited-time offer</li></ul>
+    </div></div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="final">
+    <a class="btn btn-big" href="https://github.com/bilalmelwana06/zen-downloader/releases/download/v3.1/ZenDownloaderSetup.exe">&#11015;&nbsp; DOWNLOAD FREE AND EXPERIENCE 1 DAY FREE TRIAL</a>
+    <p>No card. No sign-up. Buy a plan later from inside the app.</p>
+  </div>
+</div></section>
+
+<footer><div class="wrap">
+  <div class="made">Made By Bilal Melwana &nbsp;&bull;&nbsp; WhatsApp +92 302 340 4198</div>
+  <div class="f-links">
+    <a class="btn btn-wa" href="https://wa.me/923023404198?text=Hello%21%20I%20need%20support%20with%20Zen%20Downloader." target="_blank" rel="noopener">&#128241;&nbsp; WHATSAPP SUPPORT</a>
+    <a class="btn btn-ghost" href="https://whatsapp.com/channel/0029Vb8oxCSFcow3mWseYc0G" target="_blank" rel="noopener">&#9733;&nbsp; FOLLOW ME</a>
+  </div>
+  <p class="copy">&copy; 2026 Zen Downloader &nbsp;&bull;&nbsp; All rights reserved</p>
+</div></footer>
+
+</body>
+</html>
