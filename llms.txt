@@ -1,0 +1,33 @@
+# Zenra AI
+
+> Software studio that builds custom AI tools, websites, online stores and blockchain apps for businesses worldwide, and makes its own Windows apps for creators (Zenra AI Viral Clips, Zenra Video Downloader, Zenra Video Splitter).
+
+Contact: support@zenraai.com — project inquiries: https://zenraai.com/contact/
+
+## Services
+- [Services — AI Tools, Websites, E-commerce & More | Zenra AI](https://zenraai.com/services/): AI tool development, website development, e-commerce, Facebook and Instagram marketing and blockchain development for businesses worldwide.
+- [AI Tool Development — Custom AI Assistants & Automation | Zenra AI](https://zenraai.com/services/ai-tool-development/): Custom AI assistants, document processing, workflow automation and AI-powered apps — built around your data and workflow, with a fixed quote.
+- [AI Website Development — Fast, SEO-Ready Websites | Zenra AI](https://zenraai.com/services/ai-website-development/): Fast, search-ready business websites with useful AI features: AI chat from your own content, smart search and lead tracking. Fixed quote.
+- [E-commerce Development — Shopify & WooCommerce Stores | Zenra AI](https://zenraai.com/services/ecommerce-development/): Shopify and WooCommerce stores built to sell: design, payments, shipping, product catalogs and month-to-month store management for brands worldwide.
+- [Facebook & Instagram Marketing — Reels & Meta Ads | Zenra AI](https://zenraai.com/services/facebook-instagram-marketing/): Facebook and Instagram marketing measured in leads and sales: content and Reels, Meta ads, conversion tracking and clear monthly reports.
+- [Blockchain Development — Smart Contracts & dApps | Zenra AI](https://zenraai.com/services/blockchain-development/): Smart contracts, ERC-20 and NFT tokens, staking, vesting and wallet-connected dApps on Ethereum and EVM chains — tested and built on proven standards.
+
+## Products
+- [Products — Viral Clips, Video Downloader & Splitter | Zenra AI](https://zenraai.com/tools/): Windows apps by Zenra AI: Viral Clips turns long videos into shorts, Video Downloader saves videos in 4K, and Video Splitter splits videos for free.
+- [Zenra AI Viral Clips — Turn Long Videos Into Viral Shorts With AI](https://zenraai.com/tools/zenra-ai-viral-clips/): Windows app that turns long videos into viral 9:16 clips: finds the best moments, keeps the speaker in frame, adds captions and titles. 30-day free trial.
+- [Zenra Video Downloader — Videos, Playlists & Channels in 4K](https://zenraai.com/tools/zenra-video-downloader/): Windows video downloader for YouTube, TikTok, Instagram, Facebook, X and Snapchat. Download playlists and whole channels in bulk, in up to 4K or MP3. 1-day free trial.
+- [Zenra Video Splitter — Split Any Video Into Equal Clips (Free)](https://zenraai.com/tools/zenra-video-splitter/): Free Windows app that splits any video into equal clips in seconds, in original quality, with cuts at natural pauses. Ideal for Status, Shorts and Reels.
+
+## Insights
+- [How to turn one long video into 30 short clips | Zenra AI](https://zenraai.com/blog/turn-long-videos-into-short-clips/): A practical workflow for turning podcasts, interviews and vlogs into Shorts, Reels and TikToks — what makes a clip work, and how to do it in hours, not days.
+- [What is AI tool development? 5 ways custom AI tools help small businesses](https://zenraai.com/blog/what-is-ai-tool-development/): What custom AI tools are, where they save real time and money, and how to start a first project without wasting budget.
+- [E-commerce website vs. Facebook page: which is better for selling online?](https://zenraai.com/blog/ecommerce-website-vs-facebook-page/): Selling through social media is a great start. Here's how it compares with your own online store, and the signs it's time to build one.
+- [How to download videos on a PC in HD and 4K (2026 guide) | Zenra AI](https://zenraai.com/blog/how-to-download-videos-on-pc/): A step-by-step guide to saving videos, playlists and audio on Windows in the quality you want — and how to do it responsibly.
+- [Insights — AI, Websites, E-commerce & Video Guides | Zenra AI](https://zenraai.com/blog/): Practical guides from Zenra AI on custom AI tools, websites, online stores, social media and video — written by the team that builds them.
+
+## Company
+- [Zenra AI — Custom AI Tools, Websites & E-commerce Development](https://zenraai.com/): Custom AI tools, fast websites and online stores, Meta ads and smart contracts for businesses worldwide — with fixed quotes and weekly progress.
+- [About Zenra AI — Software Studio for AI Tools & Websites](https://zenraai.com/about/): Zenra AI is a remote software studio building AI tools, websites and online stores for businesses worldwide — and its own Windows apps.
+- [Contact Zenra AI — Start a Project or Get a Quote](https://zenraai.com/contact/): Tell us about your project — AI tools, websites, online stores, Meta ads or smart contracts. We reply within one business day.
+- [Privacy Policy | Zenra AI](https://zenraai.com/privacy/): How Zenra AI collects, uses and protects information on zenraai.com and in our apps, including analytics cookies, the contact form and license checks.
+- [Terms of Use | Zenra AI](https://zenraai.com/terms/): The terms for using zenraai.com and Zenra AI apps: software license, plans and payments, refunds, acceptable use and liability.
