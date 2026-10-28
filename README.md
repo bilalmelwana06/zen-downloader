@@ -1,2 +1,2 @@
 # zenra video downloader
-zenra video downloader- Fast multi-platform video downloader for YouTube, TikTok, Instagram, Facebook and more. Powered By Zenra Ai
+Zenra Video Downloader — bulk download videos from YouTube, TikTok Instagram Facebook X & more. Powered By Zenra AI
