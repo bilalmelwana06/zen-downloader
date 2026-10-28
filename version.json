@@ -1,6 +1,6 @@
 {
-  "version": "3.2",
-  "url": "https://github.com/bilalmelwana06/zen-downloader/releases/download/v3.2/ZenraVideoDownloader.exe",
-  "sha256": "7d4abc361829264bf6baebbed48f795f6f30e81b08af8ad4a822367801ca702e",
-  "notes": "Zen Downloader is now Zenra Video Downloader - new name, same app. Your downloads and license are safe."
+  "version": "3.3",
+  "url": "https://github.com/bilalmelwana06/zen-downloader/releases/download/v3.3/ZenraVideoDownloader.exe",
+  "sha256": "d491ad328c179b9d470c10067836d29164fd71d7d6e08cef639141b3858ca2c1",
+  "notes": "New Zenra look, clean file names, whole channels resume."
 }
