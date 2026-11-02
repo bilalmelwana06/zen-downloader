@@ -9,6 +9,14 @@ window.ZENRA_CONFIG = {
         Leave it empty ("") and no analytics code is loaded at all. */
   gaMeasurementId: "G-JQ1KWSK23P",
 
+  /* 1b) GOOGLE TAG MANAGER  (for Google Ads and other marketing tags)
+        Your container ID, e.g. "GTM-XXXXXXX". Leave it empty ("") to switch GTM off. */
+  gtmId: "GTM-MCQC8VR9",
+
+  /* 1c) META (FACEBOOK) PIXEL  (Facebook & Instagram ads, retargeting audiences)
+        Your Pixel / Dataset ID (numbers only). Leave it empty ("") to switch the pixel off. */
+  metaPixelId: "1411805884269549",
+
   /* 2) MICROSOFT CLARITY  (optional, free: heatmaps and session recordings)
         Paste your Clarity project ID between the quotes, e.g. "abcd1234ef".
         Leave it empty ("") and Clarity is not loaded. */
