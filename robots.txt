@@ -1,4 +1,57 @@
+# robots.txt for zenraai.com
+# Search engines and AI assistants are welcome to read, index and cite every page.
+
 User-agent: *
+Allow: /
+
+# Search engines (Google, Bing, Apple, DuckDuckGo, Yandex, Naver, Seznam, Baidu, Petal)
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: DuckDuckBot
+User-agent: YandexBot
+User-agent: Yeti
+User-agent: SeznamBot
+User-agent: Baiduspider
+User-agent: PetalBot
+Allow: /
+
+# AI search and answers (ChatGPT, Claude, Perplexity, Copilot, Meta AI, DuckAssist, You.com, Mistral, Amazon)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+User-agent: meta-webindexer
+User-agent: meta-externalfetcher
+User-agent: YouBot
+User-agent: MistralAI-Index
+User-agent: MistralAI-User
+User-agent: Amzn-SearchBot
+User-agent: Amzn-User
+User-agent: Diffbot
+Allow: /
+
+# AI models (OpenAI, Anthropic, Google Gemini, Apple, Meta, Mistral, Amazon, Common Crawl, Ai2)
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: MistralAI-Training
+User-agent: Amazonbot
+User-agent: CCBot
+User-agent: AI2Bot
+Allow: /
+
+# Ads and link previews (Google AdSense and Ads, Facebook, X, LinkedIn)
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google
+User-agent: facebookexternalhit
+User-agent: Twitterbot
+User-agent: LinkedInBot
 Allow: /
 
 Sitemap: https://zenraai.com/sitemap.xml

@@ -1,0 +1,4021 @@
+# Zenra AI — full text of the main pages
+
+> Zenra AI is an AI and software development studio, founded in 2025 and working remote-first with clients worldwide. It designs, builds and launches AI agents, custom AI tools, websites and web apps, online stores, and Windows, Mac and mobile apps. It also makes its own apps for creators: Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter.
+
+Source: https://zenraai.com — this file is generated from the website. Short version: https://zenraai.com/llms.txt
+
+---
+
+URL: https://zenraai.com/
+Title: Zenra AI — AI Agents, AI Tools, Web, E-commerce & App Development
+Description: Zenra AI builds AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps for businesses worldwide — fixed quotes, delivery in days.
+
+# We build AI software that grows your business.
+
+AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — planned, built and launched by one accountable team. A fixed quote before we start, delivery in days, and everything in your name.
+
+- Fixed-price quotes
+- Delivered in days
+- You own 100% of the work
+- NDA on request
+
+## Five services. One accountable team.
+
+Start with the one you need today. Add an AI agent, new features or ongoing support when you're ready — with the same people who built it.
+
+### AI agent development
+
+AI agents that answer customers, reply to new leads and handle back-office work across your apps — with approval for anything important.
+
+- Support agents
+- Sales & lead agents
+- Operations agents
+- Website & WhatsApp
+
+Page: https://zenraai.com/services/ai-agent-development/
+
+### Custom AI tool development
+
+AI assistants, document extraction and AI features built around your own data — proven on your real examples before the full build.
+
+- AI assistants
+- Document AI
+- Knowledge search
+- AI in your product
+
+Page: https://zenraai.com/services/ai-tool-development/
+
+### Custom web development
+
+Fast, secure websites and web apps — from a sharp company site to a client portal or SaaS product — ready for Google and AI search.
+
+- Business websites
+- Web apps & portals
+- Landing pages
+- SEO & AI-search ready
+
+Page: https://zenraai.com/services/custom-web-development/
+
+### E-commerce store development
+
+Shopify, WooCommerce and custom stores built to sell — with payments, shipping, migrations and monthly store management.
+
+- Shopify
+- WooCommerce
+- Store migrations
+- Store management
+
+Page: https://zenraai.com/services/ecommerce-development/
+
+### App development
+
+Windows, Mac, iPhone and Android apps — with installers, licensing, payments, automatic updates and the app store launch.
+
+- Windows apps
+- Mac apps
+- iPhone & Android
+- Auto-updates & licensing
+
+Page: https://zenraai.com/services/app-development/
+
+### Fixed price, agreed first
+
+Scope, milestones and price agreed in writing. No surprise invoices.
+
+### Delivered in days
+
+Most projects go live within days, with a live preview while we build.
+
+### You own everything
+
+Code, designs, domains and accounts belong to you from day one.
+
+### Replies within a day
+
+A reply within one business day, in clear English, with answers you can act on.
+
+## Software we build — and use ourselves.
+
+We design, ship and support our own apps — on Windows today, with Mac versions on the way — with licensing, payments and automatic updates for real users. The same team and standards go into client work.
+
+**Zenra Video Downloader**Available now
+
+### Download videos, playlists and channels in HD and 4K.
+
+Save videos from YouTube, TikTok, Instagram, Facebook, X, Snapchat and more — one at a time, or whole playlists, channels and accounts at once.
+
+- Version **3.3**
+- Windows 10 and 11
+- Mac version coming soon
+- 1-day free trial
+
+- #### Five downloads at once
+
+  Run up to five side by side, with the live speed on screen.
+- #### Playlists, channels & accounts
+
+  Paste one link and save every video into its own folder.
+- #### 4K, 1080p or MP3
+
+  Standard MP4 files that play on every phone, TV and player.
+- #### Always up to date
+
+  Updates itself, resumes big downloads and skips duplicates.
+
+Launching soonPre-orders open
+
+### Zenra AI Viral Clips
+
+Turns a long podcast, interview or vlog into ready-to-post 9:16 clips — the AI finds the best moments, keeps the speaker in frame and adds word-by-word captions.
+
+WindowsMac — coming soon
+
+View Viral Clips
+
+Page: https://zenraai.com/tools/zenra-ai-viral-clips/
+
+Free
+
+### Zenra Video Splitter
+
+Splits any video into equal clips in seconds, in original quality, with cuts moved to natural pauses — no re-encoding, no upload.
+
+WindowsMac — coming soon
+
+View the splitter
+
+Page: https://zenraai.com/tools/zenra-video-splitter/
+
+## How every project runs
+
+A clear path from the first call to launch — with something you can see and test within days.
+
+1. ### Discovery call
+
+   A free 30-minute call about your goals, your users and what success looks like. No obligation.
+
+   Notes and a recommended next step
+2. ### Proposal & fixed quote
+
+   Scope, milestones, timeline and price in writing. Work starts only when you approve it.
+
+   A written proposal you can share
+3. ### Design & prototype
+
+   Designs or a working prototype first, so you can judge the direction before the full build.
+
+   Designs or a prototype to review
+4. ### Build fast, with live previews
+
+   Short milestones, progress updates and a working preview link — most projects are delivered within days.
+
+   A live preview link while we build
+5. ### Launch & improve
+
+   We launch, hand over every login and document, and stay on for support and improvements.
+
+   A handover pack and post-launch support
+
+## Ways to work together
+
+Pick the model that fits the work. Many clients start with a project and move to a monthly plan after launch.
+
+### Fixed-scope project
+
+A defined build with one price, paid by milestone.
+
+**Best for:** a new website, web app, store, AI tool or AI agent.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly retainer
+
+An agreed amount of work every month, on flexible terms.
+
+**Best for:** store management, agent improvements and new features.
+
+**Billing:** monthly, agreed in advance.
+
+### Support & maintenance
+
+Updates, backups, monitoring and small fixes, so everything keeps running.
+
+**Best for:** systems we built — or ones you already have.
+
+**Billing:** a simple monthly plan.
+
+## Why teams choose Zenra AI
+
+Big-agency standards without the layers. The people you talk to are the people who build — and they answer quickly.
+
+- ### AI-first, not AI-everything
+
+  We use AI where it measurably saves time or money — and plain, reliable software everywhere else.
+- ### Product-company habits
+
+  We ship and support our own apps, so we plan for real users, updates and support from day one.
+- ### No hand-offs
+
+  Strategy, design, development and support in one team, with one point of contact.
+- ### Security by default
+
+  Least-privilege access, no shared passwords, secrets kept out of code — and an NDA whenever you need one.
+- ### Built to hand over
+
+  Clean, documented work in your own accounts, so any capable developer can continue it.
+- ### Worldwide, on your time
+
+  Remote-first, in English, with calls scheduled around your time zone.
+
+## Who we work with
+
+Founders and growing companies around the world — usually with a clear goal and a small team that needs to move fast.
+
+- ### Startups & founders
+
+  MVPs, AI prototypes, launch websites and web apps that win the first customers.
+- ### E-commerce & retail brands
+
+  Shopify and WooCommerce stores, migrations, store management and AI shopping assistants.
+- ### Service businesses
+
+  Websites that bring inquiries, booking flows and AI agents that reply to new leads in seconds.
+- ### Creators & media
+
+  Video and content AI tools, channel websites and apps like our own Viral Clips.
+- ### Operations-heavy teams
+
+  AI agents and internal tools that remove copy-paste work between inboxes, apps and spreadsheets.
+- ### Software companies
+
+  AI features, agents and integrations added to your product — without rewriting what already works.
+
+## Questions clients ask first
+
+Something else on your mind? [Ask us directly](https://zenraai.com/contact/) — we reply within one business day.
+
+How much does a project cost?
+
+Projects start from $199 for a landing page, $499 for a business website, an online store or an AI chatbot, $799 for an AI agent pilot and $999 for a desktop app. After a short chat we send a fixed quote in writing, split into milestones, so you know the full price before any work starts. See all [starting prices](https://zenraai.com/services/#pricing).
+
+How long does a project take?
+
+Not long. Most projects — a website, an online store, an AI tool or a first version of your app — are delivered within a few days. Bigger projects usually take about 5–6 days, sometimes a little more or less. We agree the exact timeline with you before we start, and it's written into your proposal.
+
+Do you build mobile and desktop apps?
+
+Yes. We build Windows, Mac, iPhone and Android apps — with installers, licensing, payments, automatic updates and the App Store and Google Play launch. See [app development](https://zenraai.com/services/app-development/).
+
+Do you work with clients in my country?
+
+Yes. We work remotely with clients around the world, in English, and schedule calls around your time zone.
+
+Who owns the work when it's finished?
+
+You do. Once the project is paid, the code, designs and content are yours. Domains, hosting, stores and AI accounts are set up in your name from the start.
+
+Will you sign an NDA?
+
+Yes. We're happy to sign a mutual NDA before you share confidential details.
+
+How do we stay in touch during a project?
+
+By email, WhatsApp or video call — whatever suits you — plus short progress updates and a link to the latest working version while we build.
+
+How do payments work?
+
+Usually a deposit to start and the rest by milestone. We agree on an international payment method that works for you, and the details are in your proposal.
+
+What happens after launch?
+
+We hand over every login, file and document, fix anything that isn't working as agreed, and offer optional monthly support, improvements and new features.
+
+## Insights
+
+Practical guides on AI, websites, online stores and video — from the team that builds them. [All articles](https://zenraai.com/blog/)
+
+AI4 min read
+
+### AI agent vs chatbot: what's the difference, and which do you need?
+
+A chatbot answers questions. An AI agent also takes actions in your apps. How they differ, what each costs to run, and how to choose.
+
+Read the article
+
+Page: https://zenraai.com/blog/ai-agent-vs-chatbot/
+
+Apps4 min read
+
+### Desktop app vs web app: which should your business build?
+
+Compare speed, offline use, updates, cost and reach — with real examples — and find out which one fits your users and your budget.
+
+Read the article
+
+Page: https://zenraai.com/blog/desktop-app-vs-web-app/
+
+E-commerce4 min read
+
+### Shopify vs WooCommerce: which is better for your online store?
+
+A plain comparison of costs, ease of use, control, payments and growth — and a simple way to decide which fits your store.
+
+Read the article
+
+Page: https://zenraai.com/blog/shopify-vs-woocommerce/
+
+## Tell us what you're building.
+
+Share a few details. Within one business day you'll get questions or next steps — and after a short call, a written plan with a fixed quote.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/about/
+Title: About Zenra AI — AI & Software Development Studio
+Description: Zenra AI is a remote-first studio building AI agents, custom AI tools, websites, online stores and Windows, Mac and mobile apps for businesses worldwide.
+
+# About Zenra AI
+
+We're an AI and software development studio. We build AI agents, custom AI tools, websites, web apps, online stores and Windows, Mac and mobile apps for businesses around the world — and our own apps for creators.
+
+Most businesses don't need more software. They need the right software — built well, explained clearly and owned by them.
+
+That's why Zenra AI exists. We start by understanding the problem, build only what helps, and make sure you own — and can run — everything we deliver.
+
+We began by building products of our own: a video downloader, a video splitter and an AI app that turns long videos into short clips. Shipping software to real users — with licensing, payments, automatic updates and support — taught us what makes technology work outside a demo.
+
+Today we bring the same discipline to client work. Strategy, design, development and support sit with one team, so you get one plan, one point of contact and people who care whether the project works long after launch.
+
+## Zenra AI in brief
+
+The short version — for new clients, partners, journalists and AI assistants.
+
+## Key facts
+
+- CompanyZenra AI — an AI and software development studio
+- Founded2025
+- Where we workRemote-first, with clients worldwide, in English
+- ServicesAI agents, custom AI tools, websites and web apps, online stores, and Windows, Mac & mobile apps
+- Our appsZenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter
+- How we workFixed quotes in USD, paid by milestone — most projects delivered within days
+- Contact[support@zenraai.com](mailto:support@zenraai.com)
+
+## What we believe
+
+Six principles that shape every project, from a landing page to an AI system.
+
+- ### Build only what helps
+
+  We'll tell you when something isn't worth building — even if it means a smaller project for us.
+- ### Show, don't tell
+
+  Working software beats long reports. You see real progress within days and judge it with your own eyes.
+- ### Honest by default
+
+  Fixed quotes, realistic timelines and straight answers — including the ones you'd rather not hear.
+- ### Your business, your ownership
+
+  Code, accounts and data belong to you from day one. No lock-in.
+- ### Security is not optional
+
+  Careful access, no shared passwords and safe defaults on every project.
+- ### Always learning
+
+  AI moves fast. We test new tools on our own products first, so you get what works — not what's hyped.
+
+### Remote-first studio
+
+We work online with clients around the world.
+
+### English, on your time
+
+Written updates while we build and calls on your time zone.
+
+### Fixed quotes in USD
+
+One clear price for defined work, paid by milestone.
+
+### Products we run
+
+Three apps for Windows — designed, shipped and supported in-house, with Mac versions coming soon.
+
+## Software we've built
+
+Our own products are the clearest example of how we work.
+
+[**Zenra Video Downloader** — Videos, playlists and channels in 4K](https://zenraai.com/tools/zenra-video-downloader/)
+[**Zenra AI Viral Clips** — Long videos into viral 9:16 clips](https://zenraai.com/tools/zenra-ai-viral-clips/)
+[**Zenra Video Splitter** — Split any video into equal clips — free](https://zenraai.com/tools/zenra-video-splitter/)
+
+## How we work
+
+Remote-first, written-first and built around your time zone — with a fixed quote before we start and delivery in days, not months.
+
+- ### One team, idea to launch
+
+  No hand-offs between agencies. The people who plan your project build, launch and improve it.
+- ### Product-company habits
+
+  We plan for real users, updates and support from day one — because we run our own apps.
+- ### Secure access
+
+  We ask only for the access we need, never share passwords and hand everything back at the end.
+- ### Plain English
+
+  Clear explanations, no jargon, and a reply within one business day.
+
+## Follow Zenra AI
+
+News, product launches and updates from the team — on the platforms you already use.
+
+- [**YouTube** — @zenraai](https://www.youtube.com/@zenraai)
+- [**Facebook** — ZenraAi](https://www.facebook.com/ZenraAi)
+- [**Instagram** — @zenraai\_](https://www.instagram.com/zenraai_/)
+- [**TikTok** — @zenraai](https://www.tiktok.com/@zenraai)
+- [**LinkedIn** — Zenra AI](https://www.linkedin.com/company/zenraai/)
+- [**X** — @ZenraAi\_](https://x.com/ZenraAi_)
+- [**Threads** — @zenraai\_](https://www.threads.com/@zenraai_)
+- [**Pinterest** — ZenraAi](https://www.pinterest.com/ZenraAi/)
+- [**Reddit** — u/ZenraAi](https://www.reddit.com/user/ZenraAi/)
+- [**Bilibili** — Zenra AI](https://space.bilibili.com/3747576828398109)
+- [**WhatsApp** — Updates channel](https://whatsapp.com/channel/0029Vb8oxCSFcow3mWseYc0G)
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/how-we-work/
+Title: How We Work — Process, Pricing & Communication | Zenra AI
+Description: How Zenra AI runs projects: a free discovery call, a fixed quote, delivery in days, live previews, milestone payments, security, ownership and support.
+
+# How we work
+
+A calm, predictable process — from the first call to launch and beyond. You always know what's being built, what it costs and what happens next.
+
+- Free discovery call
+- Fixed quote in writing
+- Delivered in days
+- You own everything
+
+## Five steps, no surprises
+
+Every project follows the same path, whatever its size.
+
+1. ### Discovery call
+
+   A free 30-minute call about your goals, users, timeline and budget. No obligation.
+
+   Notes and a recommended next step
+2. ### Proposal & fixed quote
+
+   A written proposal with scope, milestones, delivery date, price and what we need from you. Work starts only when you approve it.
+
+   A proposal you can share with your team
+3. ### Design & prototype
+
+   Designs, a clickable prototype or a working proof of concept — so you can judge the direction before the full build.
+
+   Designs or a prototype to review
+4. ### Build fast, with live previews
+
+   We build in short milestones and send progress updates with a link to the latest working version — most projects are delivered within days.
+
+   A live preview link while we build
+5. ### Launch & support
+
+   We launch, hand over every login, file and document, and fix anything that isn't working as agreed.
+
+   A handover pack and post-launch support
+
+## What you can expect while we build
+
+Communication is the part clients remember. Ours is written down, regular and easy to follow.
+
+- ### Short written updates
+
+  What we finished, what's next and anything we need from you — in a few clear lines.
+- ### A live preview link
+
+  Click through the real, working version. No screenshots, no waiting for the end.
+- ### One point of contact
+
+  One person who knows your project end to end and answers your questions.
+- ### Replies within one business day
+
+  By email or WhatsApp — and faster when something is urgent.
+- ### Calls on your time zone
+
+  Short video calls for demos and decisions, scheduled when it suits you.
+- ### Decisions on record
+
+  Scope, changes and approvals written down, so nothing gets lost.
+
+## Ways to work together
+
+Fixed-price projects for defined builds, and monthly options for ongoing work.
+
+### Fixed-scope project
+
+A defined build with one price, paid by milestone.
+
+**Best for:** a new website, web app, store, AI tool or AI agent.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly retainer
+
+An agreed amount of work every month, on flexible terms.
+
+**Best for:** store management, agent improvements and new features.
+
+**Billing:** monthly, agreed in advance.
+
+### Support & maintenance
+
+Updates, backups, monitoring and small fixes, so everything keeps running.
+
+**Best for:** systems we built — or ones you already have.
+
+**Billing:** a simple monthly plan.
+
+## Clear pricing, paid in milestones
+
+You know the full price before we start, and you pay as approved work is delivered.
+
+- Clear starting prices — from $199 for a landing page ([see all prices](https://zenraai.com/services/#pricing))
+- A fixed price for the agreed scope
+- Usually a deposit to start, then payment by milestone
+- Changes outside the scope are quoted before we do them
+- International payment options agreed in your proposal
+- Hosting, platform subscriptions and AI usage paid by you directly — never marked up
+
+## Quality and security
+
+The habits that keep your project safe — built into how we work, not added at the end.
+
+- ### Version control
+
+  All code lives in Git, in a repository you own, with a clear history of every change.
+- ### Testing before release
+
+  Features are tested on a preview or staging version before anything reaches your customers.
+- ### Least-privilege access
+
+  We ask only for the access we need, and you can remove it at any time.
+- ### No shared passwords
+
+  Accounts are created in your name; secrets stay in secure settings, never in code.
+- ### Backups
+
+  Backups and a rollback plan for websites, stores and databases we run.
+- ### NDA on request
+
+  We're happy to sign a mutual NDA before you share confidential details.
+
+## Everything is yours
+
+When the project is paid, you own the work — and you can run it without us.
+
+- Source code in your own repository
+- Domains, hosting, stores and AI accounts in your name from day one
+- Design files and the content we created
+- Documentation and a recorded or live handover session
+- Admin access transferred — and our access removed whenever you ask
+
+## Questions about working with us
+
+Can't find your answer? [Send us your question](https://zenraai.com/contact/) — we reply within one business day.
+
+Do I need a detailed brief?
+
+No. A few sentences, a budget range and a couple of examples you like are enough. The discovery call fills in the rest, and we write the detailed scope for you to approve.
+
+Can we change the scope during the project?
+
+Yes. Small adjustments are part of normal work. Bigger changes are quoted in writing before we do them, so the price never changes by surprise.
+
+What do you need from us?
+
+A main contact who can make decisions, quick feedback on the previews we share, and the content and access listed in your proposal. We tell you exactly what we need and when.
+
+How fast do you deliver?
+
+Fast. Most projects are delivered within a few days, and bigger projects usually take about 5–6 days — sometimes a little more or less. We agree the exact timeline with you before we start, and it's written into your proposal.
+
+Which time zone do you work in?
+
+We work remotely with clients worldwide and plan calls around your time zone. Most communication is written, so you always have a record of decisions.
+
+What if we're not happy with the work?
+
+You see progress as we build, so problems surface early and are fixed early. Payments follow approved milestones, and we'll always tell you plainly if something isn't working.
+
+Do you offer support after launch?
+
+Yes. We fix anything that doesn't work as agreed, and you can choose a monthly support, maintenance or improvement plan if you want us to stay on.
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/services/
+Title: AI & Software Development Services | Zenra AI
+Description: AI agent development, custom AI tools, websites and web apps, e-commerce stores, and Windows, Mac and mobile apps — built by one team for clients worldwide.
+
+# AI & software development services
+
+AI agents, custom AI tools, websites, web apps, online stores and Windows, Mac and mobile apps — designed, built and supported by one team. Each service works on its own or together with the others.
+
+## AI agent development
+
+AI agents that work across your apps — answering customers, replying to leads, updating records and writing reports — with approval for anything important.
+
+Typical projects
+:   - Customer support agent on your website and WhatsApp
+    - Lead reply and qualification agent
+    - Invoice and order processing agent
+
+Best for
+:   - Teams buried in repetitive messages
+    - Businesses with slow lead response
+    - Operations with lots of manual data entry
+
+## Custom AI tool development
+
+Custom AI tools that do one job brilliantly — built around your data and proven on your real examples before the full build.
+
+Typical projects
+:   - AI assistant trained on your documents
+    - Invoice, form and email data extraction
+    - AI features inside your product
+
+Best for
+:   - Companies with lots of documents or data
+    - Products that need an AI feature
+    - Teams that ready-made AI apps don't fit
+
+## Custom web development
+
+Fast, secure websites and web apps built around how your business works — easy to update and ready for Google and AI search.
+
+Typical projects
+:   - Company website with an AI assistant
+    - Client portal, dashboard or SaaS app
+    - Redesign that keeps your rankings
+
+Best for
+:   - Service businesses that need inquiries
+    - Startups launching a product
+    - Companies with an outdated site
+
+## E-commerce store development
+
+Online stores that are easy to buy from and easy to run — on Shopify, WooCommerce or a custom stack, and managed for you if you prefer.
+
+Typical projects
+:   - New Shopify or WooCommerce store
+    - Platform migration without losing SEO
+    - Monthly store management
+
+Best for
+:   - Brands selling through social media
+    - Stores that need better conversion
+    - Owners who want the store run for them
+
+## App development
+
+Windows, Mac, iPhone and Android apps built for real users — with installers, licensing, payments, automatic updates and the app store launch.
+
+Typical projects
+:   - Windows or Mac desktop app
+    - iPhone and Android app
+    - A website or tool turned into an app
+
+Best for
+:   - Businesses whose customers need an app
+    - Teams that need a desktop tool
+    - Founders launching an app product
+
+## Starting prices
+
+Clear prices from day one. Every project gets a fixed quote after a short chat, and most are delivered within days.
+
+| Project | Starting price | Typical delivery |
+| --- | --- | --- |
+| [Landing page](https://zenraai.com/services/custom-web-development/) | From $199 | 1–2 days |
+| [Business website](https://zenraai.com/services/custom-web-development/) | From $499 | 3–5 days |
+| [Web app or client portal](https://zenraai.com/services/custom-web-development/) | From $1,499 | About 5–6 days |
+| [Shopify or WooCommerce store](https://zenraai.com/services/ecommerce-development/) | From $499 | 3–5 days |
+| [AI chatbot trained on your documents](https://zenraai.com/services/ai-tool-development/) | From $499 | 2–4 days |
+| [Custom AI tool](https://zenraai.com/services/ai-tool-development/) | From $999 | About 5–6 days |
+| [AI agent pilot (one workflow)](https://zenraai.com/services/ai-agent-development/) | From $799 | 3–5 days |
+| [Windows or Mac desktop app](https://zenraai.com/services/app-development/) | From $999 | About 5–6 days |
+| [iPhone and Android app](https://zenraai.com/services/app-development/) | From $1,499 | About 5–6 days, plus store review |
+
+Prices in US dollars. Hosting, platform subscriptions and AI usage are paid by you directly, never marked up.
+
+## Popular combinations
+
+Services work best together. These are the pairings clients ask for most.
+
+### Website + AI agent
+
+A fast website with an agent that answers visitors, books calls and replies to new leads around the clock.
+
+### Online store + support agent
+
+A store built to sell, plus an agent that answers product and “where is my order?” questions on your store and WhatsApp.
+
+### Web app + AI tools
+
+Your own web app with AI built in — smart search, document processing, summaries and reports.
+
+## Not sure where to start?
+
+Begin with a free 30-minute call. We'll suggest the simplest way to reach your goal — even if that means building less.
+
+1. ### Discovery call
+
+   A free 30-minute call about your goals, users and budget. No obligation.
+
+   Notes and a recommended next step
+2. ### Proposal & fixed quote
+
+   Scope, milestones, timeline and price in writing. Work starts only when you approve it.
+
+   A written proposal you can share
+3. ### Build fast, with live previews
+
+   Short milestones, progress updates and a working preview link — most projects are delivered within days.
+
+   A live preview link while we build
+4. ### Launch & grow
+
+   We launch, hand over every login and document, and stay on for support or improvements.
+
+   A handover pack and support
+
+## Ways to work together
+
+Fixed-price projects for defined builds, and monthly options for ongoing work.
+
+### Fixed-scope project
+
+A defined build with one price, paid by milestone.
+
+**Best for:** a new website, web app, store, AI tool or AI agent.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly retainer
+
+An agreed amount of work every month, on flexible terms.
+
+**Best for:** store management, agent improvements and new features.
+
+**Billing:** monthly, agreed in advance.
+
+### Support & maintenance
+
+Updates, backups, monitoring and small fixes, so everything keeps running.
+
+**Best for:** systems we built — or ones you already have.
+
+**Billing:** a simple monthly plan.
+
+## Questions about our services
+
+Can't find your answer? [Send us your question](https://zenraai.com/contact/) — we reply within one business day.
+
+Can you handle more than one service for us?
+
+Yes — that's how many clients work with us. A website, a store and an AI agent can be planned together, with one team and one point of contact.
+
+Do you work with our existing systems?
+
+Yes. We regularly add features to existing websites, stores and apps, connect tools you already use, and take over projects built by someone else.
+
+Can we start small?
+
+Yes. A landing page, an AI prototype, a pilot agent or a first version of your app is a good first step. You see how we work before committing to anything bigger.
+
+How do you price projects?
+
+Every project gets a fixed quote, paid by milestone, and starts from the prices in the table above — from $199 for a landing page. Ongoing work, like store management or agent care, has a monthly fee agreed in advance.
+
+How fast can you deliver?
+
+Most projects are delivered within a few days. Bigger builds usually take about 5–6 days — sometimes a little more or less — and we agree the exact timeline with you before we start.
+
+Do you work with clients outside your time zone?
+
+Yes. We work remotely with clients worldwide, send written progress updates while we build and schedule calls around your time zone.
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/services/ai-agent-development/
+Title: AI Agent Development Services — Custom AI Agents | Zenra AI
+Description: Custom AI agents for customer support, sales and operations — connected to your apps, with approvals, logs and human handoff. Delivered in days, fixed quote.
+
+# AI agent development
+
+AI agents that do real work across your apps — answering customers, replying to leads, updating records and preparing reports — with clear limits, approval for anything important, and a person one click away.
+
+- Fixed quote before we start
+- Delivered in days
+- You own everything
+
+## At a glance
+
+- DeliveryMost agents in a few days; bigger builds in about 5–6 days
+- PriceFrom $799 — a fixed quote, paid by milestone
+- You receiveA working agent, admin controls, logs, documentation and training
+- Built-in safetyApprovals, human handoff, audit logs and a stop switch
+
+## Is this for you?
+
+AI agent development is a good fit when one of these sounds familiar.
+
+- Your team answers the same questions all day
+- New leads wait hours for a first reply
+- People copy data between inboxes, apps and spreadsheets
+- Weekly reports take hours to put together
+
+## What we build
+
+From one agent that does one job well to a team of agents that work together — always with clear limits.
+
+### Customer support agents
+
+Answer questions from your help center, policies and order data on your website, WhatsApp or email — and hand off to a person when needed.
+
+### Sales & lead agents
+
+Reply to new leads in seconds, ask qualifying questions, book calls and keep your CRM up to date.
+
+### Operations agents
+
+Process invoices, orders and forms, update records across your apps and flag anything unusual for review.
+
+### Research & reporting agents
+
+Collect data from your tools and the web, then write the weekly report, summary or brief for you.
+
+### Voice agents
+
+Answer and route calls, book appointments and take messages — with natural speech and a summary of every call.
+
+### Browser agents
+
+Work in websites and portals that have no API: fill in forms, check statuses and download files.
+
+### Multi-agent systems
+
+Specialized agents that plan, check and hand work to each other for longer, multi-step jobs.
+
+### Integrations & MCP
+
+Connect agents to your CRM, help desk, store, email and databases through APIs, webhooks and the Model Context Protocol.
+
+### Monitoring & improvement
+
+Dashboards for quality, speed and cost, test sets that catch problems early, and regular tuning.
+
+## Agents you can trust with real work
+
+An agent is only useful if it's safe to let it act. These controls are built into every agent we ship.
+
+- ### Three levels of autonomy
+
+  Agents act alone on safe tasks, ask before anything important, and never touch what's off-limits — you set the rules.
+- ### Least-privilege access
+
+  Each agent gets only the tools and data its job needs, with separate keys you can revoke at any time.
+- ### A person in the loop
+
+  Uncertain cases and high-impact actions go to your team for approval, with the context to decide quickly.
+- ### Tested before launch
+
+  Every agent is tested on real cases from your business — including the tricky ones — before it goes live.
+- ### Every step logged
+
+  See what the agent read, decided and did, so any answer can be checked and corrected.
+- ### Predictable running costs
+
+  The right-sized model for each step, caching and usage limits keep the cost per task low and capped.
+
+## Chatbot, automation or AI agent?
+
+Three different tools for three different jobs. We'll recommend the simplest one that works for you.
+
+| Compared | Chatbot | Automation | AI agent |
+| --- | --- | --- | --- |
+| What it does | Answers questions | Runs fixed steps between apps | Works through a task and takes actions |
+| Handles new situations | Within its knowledge | No — only the rules it was given | Yes, within the limits you set |
+| Uses your apps | Rarely | Yes, in a fixed order | Yes, choosing the right tool each time |
+| Best for | FAQs and simple support | Predictable, repeated workflows | Varied work that needs judgment |
+
+Read the full guide: [AI agent vs chatbot — what's the difference, and which do you need?](https://zenraai.com/blog/ai-agent-vs-chatbot/)
+
+## How the project runs
+
+Clear stages, a fixed quote and a working preview while we build — most projects are delivered within days.
+
+1. ### Pick the right job
+
+   We map the workflow, measure it today and choose the task where an agent pays off fastest.
+
+   A one-page agent brief with success criteria
+2. ### Design the agent
+
+   Tools, data, permissions, approval rules and when to hand off to a person — written down before we build.
+
+   An agent design you approve
+3. ### Prototype & test
+
+   A working agent in a safe sandbox, tested on real examples from your business, including the tricky ones.
+
+   Test results on your own cases
+4. ### Pilot with approvals
+
+   The agent works alongside your team; important actions wait for a person to approve them.
+
+   A live pilot with full logs
+5. ### Launch & improve
+
+   Full rollout, monitoring of quality and cost, and regular tuning as your business changes.
+
+   Dashboards, documentation and support
+
+## Technologies we use
+
+We pick tools that suit your project and your team. A typical selection:
+
+### AI models
+
+- OpenAI GPT
+- Anthropic Claude
+- Google Gemini
+- Llama & open-source models
+- Groq
+
+### Agent frameworks
+
+- LangGraph
+- CrewAI
+- OpenAI Agents SDK
+- Claude Agent SDK
+- n8n
+
+### Tools & integrations
+
+- Model Context Protocol (MCP)
+- REST & GraphQL APIs
+- Webhooks
+- WhatsApp Business API
+- Playwright
+- Supabase & PostgreSQL
+
+## Ways to work together
+
+Start with a fixed-scope project, or keep us on monthly — whichever fits the work.
+
+### Agent pilot
+
+One agent and one workflow, built and tested with your team in a few days.
+
+**Best for:** proving the value before a bigger rollout.
+
+**Billing:** one fixed price.
+
+### Production agent
+
+The complete agent: integrations, approvals, monitoring and training.
+
+**Best for:** a defined workflow you want handled every day.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly agent care
+
+Monitoring, tuning, new skills and support as usage grows.
+
+**Best for:** teams that rely on their agents every day.
+
+**Billing:** monthly, flexible terms.
+
+## Common questions
+
+About AI agent development. Can't find your answer? [Send us your question](https://zenraai.com/contact/?service=ai-agents). Guide: [AI agent vs chatbot — what's the difference?](https://zenraai.com/blog/ai-agent-vs-chatbot/)
+
+What is an AI agent?
+
+An AI agent is software that uses an AI model to work through a task step by step and take actions with tools — for example reading a support message, checking the order in your store and sending the reply. A simple chatbot only answers; an agent can also act.
+
+How is an agent different from automation tools like Zapier or n8n?
+
+Automation follows fixed rules. An agent can read messy input, decide what to do and handle cases nobody wrote a rule for. We often combine both: automation for the predictable steps, an agent for the judgment calls.
+
+Will the agent make mistakes?
+
+Sometimes, like any new team member — so we design for it. Agents get narrow permissions, important actions need approval, uncertain cases go to a person, and every step is logged so it can be checked and improved.
+
+Is our data safe?
+
+Agents only get the access their job needs. We use AI providers that don't train on your API data, keep keys and secrets out of the code, and can run models on your own servers when privacy requires it.
+
+Which apps can the agent work with?
+
+Most tools with an API — CRMs, help desks, online stores, email, calendars, spreadsheets and databases — and websites without an API through browser automation. We confirm every integration during discovery.
+
+How much does an AI agent cost?
+
+A pilot agent for one workflow starts from $799, and a production agent with several integrations, approvals and monitoring usually from $1,999. You get a fixed quote before we start. AI usage is billed to your own AI account, and we estimate it upfront.
+
+How long does it take?
+
+Fast. Most agents are ready within a few days. A bigger agent with several integrations, approvals and monitoring usually takes about 5–6 days — sometimes a little more or less. We agree the exact timeline with you before we start.
+
+Can one agent work on our website and WhatsApp?
+
+Yes. The same agent can answer on your website chat, WhatsApp and email, using one shared knowledge base and handing conversations to your team when needed.
+
+Do you work with small businesses?
+
+Yes. Many of our clients are small teams. We usually start with one agent for one clear job — like answering common customer questions or replying to new leads — so you see results before investing more.
+
+## Often paired with
+
+[**Custom AI tool development** — AI assistants, document AI and AI features](https://zenraai.com/services/ai-tool-development/)[**Custom web development** — Websites, web apps and landing pages](https://zenraai.com/services/custom-web-development/)
+
+## Let's give your team an AI agent.
+
+Tell us which task takes the most time. We'll reply within one business day and suggest the first agent worth building.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/services/ai-tool-development/
+Title: Custom AI Tool & Chatbot Development Services | Zenra AI
+Description: Custom AI tools and chatbots built on your own data: AI assistants, document extraction, knowledge search and AI features for your product. Fixed quote.
+
+# Custom AI tool development
+
+Custom AI tools that do one job brilliantly — answer questions from your documents, pull data out of invoices and forms, or add AI features to your product. Built around your data, and proven on your real examples before the full build.
+
+- Fixed quote before we start
+- Delivered in days
+- You own everything
+
+## At a glance
+
+- DeliveryA prototype in a few days; a full tool in about 5–6 days
+- PriceFrom $499 — a fixed quote, paid by milestone
+- You receiveSource code, admin settings, documentation and training
+- AI modelsOpenAI, Claude, Gemini or open-source — swappable later
+
+## Is this for you?
+
+Custom AI tool development is a good fit when one of these sounds familiar.
+
+- You have documents, emails or videos to process at scale
+- Your team searches the same files for the same answers
+- You want an AI feature inside your own product
+- Ready-made AI apps don't fit your workflow or data rules
+
+## What we build
+
+Focused tools that solve one problem well. Need AI that takes actions across your apps? See [AI agent development](https://zenraai.com/services/ai-agent-development/).
+
+### AI assistants & chatbots
+
+Answer customers and staff from your own documents, website and policies — with sources, guardrails and a hand-off to a person.
+
+### Document & data extraction
+
+Read invoices, contracts, forms and emails, pull out the fields you need and send them straight into your systems.
+
+### Knowledge search
+
+One search box across your files, wiki, tickets and inbox that answers in plain language, with links to the source.
+
+### AI features in your product
+
+Summaries, smart search, recommendations and content generation added to your web or mobile app through a clean API.
+
+### Voice & speech AI
+
+Transcription, call and meeting summaries, action items and speech-to-text in many languages.
+
+### Video & media AI
+
+Transcription, clipping, captions, tagging and moderation at scale. We built Zenra AI Viral Clips this way.
+
+### Computer vision tools
+
+Detect faces, objects and text in images and video — for quality checks, cataloguing and smart cropping.
+
+### Desktop & internal apps
+
+Windows and Mac tools and internal dashboards with user roles, licensing and automatic updates — see [app development](https://zenraai.com/services/app-development/).
+
+### AI strategy & prototyping
+
+A short discovery sprint to find where AI pays off for you — and a prototype that proves it.
+
+## How we approach AI projects
+
+AI is only useful when it fits the work. These rules keep projects practical, measurable and affordable.
+
+- ### Start with the workflow
+
+  We map the task, measure how long it takes today and decide where AI genuinely helps — and where plain software is better.
+- ### Prove it on your data
+
+  A small working prototype on real examples comes before the full build, so you can judge quality early.
+- ### Choose the right model
+
+  We compare OpenAI, Anthropic, Google and open-source models on quality, speed, cost and privacy — and keep them swappable.
+- ### Keep people in control
+
+  Confidence checks, review steps and clear logs for anything that affects your customers or your money.
+- ### Keep running costs predictable
+
+  Caching, batching and smart model routing keep the cost per task low and easy to forecast.
+- ### Protect your data
+
+  Least-privilege access, encrypted secrets and providers that don't train on your data — or models on your own servers.
+
+Built in-house
+
+## Our own AI product: Zenra AI Viral Clips
+
+A Windows app that watches a long video like an editor: it transcribes the speech, finds the strongest moments, follows whoever is talking and renders captioned 9:16 clips on the user's own PC, up to 4K.
+
+What it does
+:   Turns one long video into ready-to-post clips with captions, titles and hashtags.
+
+Under the hood
+:   Speech-to-text, face and speaker tracking, an AI editor for moment selection, GPU-accelerated rendering.
+
+Product work
+:   Licensing, payments, automatic updates and support for real users.
+
+## How the project runs
+
+Clear stages, a fixed quote and a working preview while we build — most projects are delivered within days.
+
+1. ### Discovery & task mapping
+
+   We look at the task end to end, collect real examples and agree what a good result looks like.
+
+   A short brief with success criteria
+2. ### Prototype on your data
+
+   A focused prototype that runs on your examples, so you can test the quality before committing to the full build.
+
+   A working prototype and test results
+3. ### Build & integrate
+
+   We turn the prototype into a reliable tool: interface, integrations, error handling, logs and admin settings.
+
+   Live previews and progress notes
+4. ### Launch & improve
+
+   We launch, train your team, watch quality and cost, and tune the tool as real usage comes in.
+
+   Handover, documentation and support
+
+## Technologies we use
+
+We pick tools that suit your project and your team. A typical selection:
+
+### AI models & APIs
+
+- OpenAI GPT
+- Anthropic Claude
+- Google Gemini
+- Llama & open-source models
+- Groq
+- Whisper speech-to-text
+
+### Languages & frameworks
+
+- Python
+- FastAPI
+- Node.js
+- TypeScript
+- React
+- PySide6 (desktop)
+
+### Data & infrastructure
+
+- PostgreSQL
+- Supabase
+- Vector search (pgvector)
+- Docker
+- ONNX Runtime
+- FFmpeg
+
+## Ways to work together
+
+Start with a fixed-scope project, or keep us on monthly — whichever fits the work.
+
+### Prototype sprint
+
+A focused build that proves the idea on your real data — usually ready in a few days.
+
+**Best for:** testing an idea before committing to a full build.
+
+**Billing:** one fixed price.
+
+### Fixed-scope build
+
+The full tool: interface, integrations, admin settings and monitoring.
+
+**Best for:** a defined tool with clear success criteria.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly improvement
+
+Ongoing tuning, new features and support as usage grows.
+
+**Best for:** teams rolling AI out step by step.
+
+**Billing:** monthly, flexible terms.
+
+## Common questions
+
+About custom AI tool development. Can't find your answer? [Send us your question](https://zenraai.com/contact/?service=ai-tools). Guide: [What is AI tool development?](https://zenraai.com/blog/what-is-ai-tool-development/)
+
+How much does a custom AI tool cost?
+
+An AI chatbot trained on your documents starts from $499, and a custom AI tool from $999. A system connected to several apps costs more. After a short chat we send a fixed quote — and we can start with a small prototype, so you see value before committing to the full build.
+
+How long does it take?
+
+Fast. A prototype is usually ready within a few days, and a production-ready tool in about 5–6 days, depending on how many systems it connects to. The exact timeline is agreed with you before we start and written into your proposal.
+
+What's the difference between an AI tool and an AI agent?
+
+An AI tool does one job when you use it — like extracting data from an invoice or answering a question from your documents. An AI agent works through multi-step tasks and takes actions across your apps on its own. Many projects start with a tool and grow into an agent.
+
+Is our data safe?
+
+We use your data only for your project and keep access to the minimum. We can use AI providers that don't train on API data, or run models on your own servers or devices when privacy requires it.
+
+Which AI model will you use?
+
+Whichever fits the task best. We compare quality, speed, cost and privacy, and design the tool so the model can be changed later without a rebuild.
+
+Can you add AI to our existing software?
+
+Yes. We add AI features through an API or a small service that sits next to your system, without rewriting what already works.
+
+Who pays for the AI usage?
+
+You do, directly. AI accounts are set up in your name, so you control usage and billing. We show you the expected running costs before launch.
+
+Can the tool run offline or on our own servers?
+
+Often, yes. Open-source models can run on your own servers or even on a user's PC — our own Viral Clips app does much of its work offline.
+
+Can you build an AI chatbot trained on our documents?
+
+Yes. We build AI chatbots and assistants that answer from your own documents, website and policies, show where each answer came from, and hand the conversation to a person when they're unsure. It can run on your website, WhatsApp or inside your own app.
+
+## Often paired with
+
+[**AI agent development** — Agents for support, sales and operations](https://zenraai.com/services/ai-agent-development/)[**App development** — Windows, Mac, iPhone and Android apps](https://zenraai.com/services/app-development/)
+
+## Let's find where AI pays off for you.
+
+Tell us about the task you want AI to handle. We'll reply within one business day — and suggest the smallest prototype that proves the value.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/services/app-development/
+Title: Windows, Mac & Mobile App Development Services | Zenra AI
+Description: Windows, Mac, iPhone and Android apps built for real users — installers, auto-updates, licensing, payments and app store launch. Fixed quote, fast delivery.
+
+# Windows, Mac & mobile app development
+
+Desktop and mobile apps your customers will actually use — for Windows, Mac, iPhone and Android. We handle the whole job: design, development, installers, licensing, payments, automatic updates and the app store launch.
+
+- Fixed quote before we start
+- Delivered in days
+- You own everything
+
+## At a glance
+
+- DeliveryMost apps in a few days; bigger apps in about 5–6 days
+- PriceFrom $999 — a fixed quote, paid by milestone
+- You receiveSource code, installers or store builds, documentation and training
+- PlatformsWindows, macOS, iOS and Android — one codebase where it fits
+
+## Is this for you?
+
+Windows, Mac & mobile app development is a good fit when one of these sounds familiar.
+
+- Your customers need an app, not just a website
+- You want a Windows or Mac tool for your team or your customers
+- You need licensing, payments and updates that simply work
+- Your current app is slow, unstable or hard to update
+
+## What we build
+
+From a focused desktop tool to an app on every platform — designed, built, launched and kept up to date.
+
+### Windows desktop apps
+
+Fast Windows apps with a proper installer, Start menu and taskbar shortcuts, and one-click automatic updates.
+
+### Mac apps
+
+macOS apps for Apple silicon and Intel Macs — packaged, signed and notarized so they open without warnings.
+
+### iPhone & Android apps
+
+Mobile apps built once for both platforms with Flutter or React Native, or fully native when you need it.
+
+### Installers & auto-updates
+
+Installers, update servers and update notices, so every user stays on the latest version.
+
+### Licensing & payments
+
+Free trials, license keys, subscriptions and in-app purchases — the same kind of system our own apps run on.
+
+### AI inside your app
+
+Speech, vision and language features that run in the cloud or on the device, like our own Viral Clips app.
+
+### Backends & APIs
+
+Accounts, databases, push notifications and admin dashboards on Supabase, Firebase or your own server.
+
+### App Store & Google Play launch
+
+Store listings, screenshots, privacy forms and submission, handled end to end under your own account.
+
+### Updates & maintenance
+
+Bug fixes, new OS versions, new features and crash monitoring after launch.
+
+## What every app comes with
+
+The parts that decide whether people keep using an app — built in from the start, not sold as extras.
+
+- A proper installer, or App Store and Google Play builds
+- Automatic updates, so every user stays on the latest version
+- Crash and error reporting, so problems are fixed fast
+- Fast start-up and low memory use
+- A clear, readable design that works on every screen size
+- Licensing, payments or sign-in when your app needs them
+- Code signing in your name where the platform requires it
+- Source code in your repository, plus a handover guide
+
+Built in-house
+
+## Our own app: Zenra Video Downloader
+
+A Windows app with real users that we designed, built and still run ourselves — releases, licensing, payments, updates and support. The same team builds client apps.
+
+What it does
+:   Saves videos, playlists and channels in up to 4K, up to five at a time.
+
+Under the hood
+:   Python, a proper Windows installer and one-click automatic updates.
+
+Product work
+:   Free trial, license keys, payments, update notices and WhatsApp support.
+
+## Cross-platform or native?
+
+Two ways to build an app. We recommend the one that fits your users, your budget and how fast you need to launch.
+
+| Compared | Cross-platform | Native |
+| --- | --- | --- |
+| Built with | Flutter, React Native, Electron or Tauri | Swift for Apple, Kotlin for Android, C# or C++ for Windows |
+| One codebase for | iPhone and Android, or Windows and Mac | One platform at a time |
+| Cost and time | Lower — most of the work is shared | Higher — each platform is built separately |
+| Best for | Most business apps and internal tools | Apps that need top speed or deep device features |
+
+Deciding between a desktop app and a web app? Read [Desktop app vs web app — which should you build?](https://zenraai.com/blog/desktop-app-vs-web-app/)
+
+## How the project runs
+
+Clear stages, a fixed quote and a working preview while we build — most projects are delivered within days.
+
+1. ### Discovery & scope
+
+   Who will use the app, on which devices, and what it must do on day one — agreed in writing.
+
+   A feature list and a fixed quote
+2. ### Design
+
+   Screens and flows designed for each platform, so the app feels at home on Windows, Mac or a phone.
+
+   Designs you can click through
+3. ### Build with test builds
+
+   We build fast, in short milestones, and send test versions you can install and try as we go.
+
+   Test builds while we build
+4. ### Test, package & launch
+
+   Tested on real devices, packaged as installers or store builds, signed where needed and published.
+
+   A launched app and a handover session
+5. ### Updates & support
+
+   Automatic updates, crash monitoring, fixes and new features after launch.
+
+   A support plan that fits
+
+## Technologies we use
+
+We pick tools that suit your project and your team. A typical selection:
+
+### Desktop apps
+
+- Python & PySide6 (Qt)
+- Electron
+- Tauri
+- C# & .NET
+- Swift for macOS
+- Inno Setup installers
+
+### Mobile apps
+
+- Flutter
+- React Native
+- Expo
+- Swift & SwiftUI
+- Kotlin
+
+### Backend & services
+
+- Supabase
+- Firebase
+- Node.js
+- Python (FastAPI)
+- Stripe
+- GitHub Releases
+
+## Ways to work together
+
+Start with a fixed-scope project, or keep us on monthly — whichever fits the work.
+
+### App prototype
+
+A clickable prototype or a first working version to test the idea with real users.
+
+**Best for:** validating an app idea quickly.
+
+**Billing:** one fixed price.
+
+### Fixed-scope app build
+
+The complete app: design, development, packaging and launch.
+
+**Best for:** a defined app with clear features.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly app care
+
+Updates, fixes, new features and new OS versions, every month.
+
+**Best for:** apps with active users.
+
+**Billing:** monthly, flexible terms.
+
+## Common questions
+
+About app development. Can't find your answer? [Send us your question](https://zenraai.com/contact/?service=apps). Guide: [Desktop app vs web app](https://zenraai.com/blog/desktop-app-vs-web-app/)
+
+Which platforms can you build for?
+
+Windows, macOS, iPhone (iOS) and Android. Many apps can share one codebase across platforms; when speed or a native feel matters most, we build natively. We recommend the best approach in your proposal.
+
+How long does it take to build an app?
+
+Fast. Most apps are delivered within a few days, and bigger apps usually take about 5–6 days — sometimes a little more or less. Mobile apps also go through App Store and Google Play review, which Apple and Google control and which usually takes from a day to a few days. We agree the exact timeline with you before we start.
+
+How much does an app cost?
+
+A Windows or Mac desktop app starts from $999, and an iPhone and Android app from $1,499. The final price depends on the platforms, features and integrations — you get a fixed quote before we start. Developer accounts and store fees are paid by you directly.
+
+Can you publish the app on the App Store and Google Play?
+
+Yes. We prepare the store listing, screenshots and privacy details and handle the submission. The app is published under your own developer account, so it stays yours.
+
+Can the app update itself?
+
+Yes. Desktop apps get one-click automatic updates — the same approach our own Windows apps use. Mobile apps update through the App Store and Google Play.
+
+Can you add licensing, subscriptions or in-app purchases?
+
+Yes — free trials, license keys, subscriptions and in-app purchases, connected to the payment method that suits your business and each store's rules.
+
+Can you turn our website or Windows app into a Mac or mobile app?
+
+Often, yes. We review what you already have and reuse as much as possible — the logic, the design or the backend — so the new app costs less and stays consistent.
+
+Who owns the app and the code?
+
+You do. The source code is in your repository, and the store accounts, signing certificates and backend are in your name.
+
+## Often paired with
+
+[**Custom AI tool development** — AI assistants, document AI and AI features](https://zenraai.com/services/ai-tool-development/)[**Custom web development** — Websites, web apps and landing pages](https://zenraai.com/services/custom-web-development/)
+
+## Let's build your app.
+
+Tell us who the app is for and which devices it should run on. We'll reply within one business day with questions and next steps.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/services/custom-web-development/
+Title: Custom Web Development Services — Websites & Web Apps | Zenra AI
+Description: Custom websites, web apps and landing pages — fast, secure, SEO-ready and easy to update. Built with modern frameworks, at a fixed price, in days.
+
+# Custom web development
+
+Fast, secure websites and web apps built around how your business works — from a sharp company website to a client portal or SaaS product — easy to update and ready for Google and AI search.
+
+- Fixed quote before we start
+- Delivered in days
+- You own everything
+
+## At a glance
+
+- DeliveryMost websites in a few days; bigger web apps in about 5–6 days
+- PriceFrom $199 — a fixed quote, paid by milestone
+- You receiveDesigns, source code, easy editing and documentation
+- Built withNext.js, React, Node.js, Python or WordPress
+
+## Is this for you?
+
+Custom web development is a good fit when one of these sounds familiar.
+
+- Your website looks dated or loads slowly on phones
+- You need a portal, dashboard or web app — not just pages
+- Visitors leave without contacting you
+- Your team can't update the site without a developer
+
+## What we build
+
+From a single landing page to a full web application — each one fast, secure and easy to run.
+
+### Business & company websites
+
+Clear structure, sharp copy and fast pages that make your offer easy to understand — and easy to buy.
+
+### Web applications
+
+Client portals, booking systems, dashboards and SaaS products, with accounts, roles and payments.
+
+### Landing pages
+
+One page, one goal: built to turn campaign traffic into inquiries, with fast load times and clean tracking.
+
+### Easy editing
+
+Update pages, posts and products yourself — WordPress or a headless CMS, set up the way your team works.
+
+### APIs & integrations
+
+Connect your CRM, payments, booking, email and analytics — or build the API your app needs.
+
+### AI features
+
+Smart search, an assistant that answers from your own content, and agents that reply to and qualify new leads.
+
+### SEO & AI-search foundations
+
+Technical SEO, schema markup and fast Core Web Vitals, so Google and AI assistants can understand and cite you.
+
+### Redesigns & migrations
+
+Move to a faster, modern stack without losing rankings — redirects, metadata and content carried over.
+
+### Care & maintenance
+
+Updates, backups, security checks, uptime monitoring and small changes every month.
+
+## What every website and web app includes
+
+The basics that decide whether a site brings customers — built in from the start, not sold as extras.
+
+- Mobile-first design that works on every screen
+- Built to pass Google's Core Web Vitals
+- Titles, descriptions, schema markup and an XML sitemap
+- Structured for AI search: clear answers, FAQs and llms.txt
+- Readable contrast, keyboard navigation and alt text
+- Analytics, conversion tracking and a cookie banner
+- HTTPS, spam-protected forms and reliable hosting
+- Source code in your repository, plus a handover guide
+
+## This website is an example
+
+zenraai.com is built the way we build client sites: hand-coded, fast on a phone, readable on every screen, with structured data on every page, an llms.txt file for AI assistants, and analytics with a consent banner.
+
+- ### Fast by design
+
+  No heavy page builders or plugins — lean code that loads quickly even on mobile networks.
+- ### Search and AI ready
+
+  Clean titles, schema markup, a sitemap and clear answers that assistants can quote.
+- ### Measured from day one
+
+  Every button that matters — quotes, downloads, WhatsApp — is tracked as an event.
+- ### Privacy built in
+
+  Analytics and advertising tags ask for consent where the law requires it, and anyone can switch them off in Cookie settings.
+
+## How the project runs
+
+Clear stages, a fixed quote and a working preview while we build — most projects are delivered within days.
+
+1. ### Discovery & scope
+
+   Goals, users, pages or features, and the content and examples you like — agreed in writing.
+
+   A sitemap or feature list and a fixed quote
+2. ### UX & design
+
+   Wireframes and designs in your brand for the key pages and screens, reviewed together.
+
+   Designs to review and approve
+3. ### Build with live previews
+
+   We build fast, write or polish the copy, and share a working preview link as we go.
+
+   A live preview link while we build
+4. ### Test & launch
+
+   Speed, security, accessibility and every device checked; domain, analytics and redirects set up.
+
+   A launched site and a handover session
+5. ### Care & grow
+
+   Optional monthly updates, new features, content and improvements based on real data.
+
+   A monthly report and plan
+
+## Technologies we use
+
+We pick tools that suit your project and your team. A typical selection:
+
+### Front-end
+
+- HTML & CSS
+- TypeScript
+- React
+- Next.js
+- Astro
+- Tailwind CSS
+
+### Back-end & data
+
+- Node.js
+- Python (FastAPI)
+- PostgreSQL
+- Supabase
+- REST & GraphQL APIs
+
+### CMS & hosting
+
+- WordPress
+- Headless CMS
+- Vercel
+- Netlify
+- Cloudflare
+- GitHub Pages
+
+## Ways to work together
+
+Start with a fixed-scope project, or keep us on monthly — whichever fits the work.
+
+### Fixed-scope build
+
+A defined website or web app with one price, paid by milestone.
+
+**Best for:** new websites, web apps and redesigns.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly development
+
+New features, pages, content and improvements every month.
+
+**Best for:** products and sites that keep growing.
+
+**Billing:** monthly, flexible terms.
+
+### Care plan
+
+Updates, backups, security checks and small changes.
+
+**Best for:** keeping a site fast, safe and current.
+
+**Billing:** a simple monthly plan.
+
+## Common questions
+
+About custom web development. Can't find your answer? [Send us your question](https://zenraai.com/contact/?service=web). Guide: [Desktop app vs web app](https://zenraai.com/blog/desktop-app-vs-web-app/)
+
+How much does a custom website or web app cost?
+
+A landing page starts from $199, a business website from $499 and a web app with accounts or payments from $1,499. The final price depends on the pages or features, the integrations and who writes the content — you get a fixed quote before we start.
+
+How long does it take?
+
+Fast. Landing pages and business websites are usually delivered within a few days. Bigger web apps with accounts, payments or dashboards usually take about 5–6 days — sometimes a little more or less, depending on scope. Your proposal includes the agreed delivery date.
+
+What's the difference between a website and a web app?
+
+A website mainly presents information and brings inquiries. A web app is software people log in to and use — a client portal, a booking system, a dashboard or a SaaS product. Many businesses start with a website and add app features later.
+
+Can I edit the website myself?
+
+Yes. We set up easy editing for the pages and posts you change often, and show you how to use it in a short handover session.
+
+Will my website rank on Google?
+
+We build every site on solid SEO foundations: speed, structure, metadata and schema. Rankings also depend on content and competition, so we can help with ongoing SEO after launch — and we never promise a #1 position.
+
+Can you connect it to our CRM, payments or booking system?
+
+Yes. We integrate the tools you already use — CRMs, payment providers, booking, email and analytics — through their APIs.
+
+Can you redesign my site without losing rankings?
+
+Yes. We map every old URL to the new one, keep or improve titles and metadata, and set up redirects so search engines and visitors land in the right place.
+
+Who owns the website and the code?
+
+You do. The code lives in your repository, and the domain and hosting are in your name — often on a free or low-cost plan.
+
+Will my website show up in ChatGPT, Gemini and other AI answers?
+
+We build every site so AI assistants can read and cite it: clear answers, structured data, fast pages, a sitemap and an llms.txt file. Whether an assistant mentions you also depends on your content and your reputation across the web, so we never promise a specific result.
+
+## Often paired with
+
+[**E-commerce store development** — Shopify, WooCommerce and store management](https://zenraai.com/services/ecommerce-development/)[**App development** — Windows, Mac, iPhone and Android apps](https://zenraai.com/services/app-development/)
+
+## Let's build something that performs.
+
+Share your current site or your idea, and what you want visitors to do. We'll reply within one business day with questions and next steps.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/services/ecommerce-development/
+Title: E-commerce Website Development — Shopify & WooCommerce | Zenra AI
+Description: Shopify, WooCommerce and custom e-commerce websites built to sell — payments, shipping, migrations, speed and monthly store management, delivered in days.
+
+# E-commerce store development
+
+Online stores on Shopify, WooCommerce or a custom stack — designed to sell, connected to your payments and shipping, and managed month to month if you'd rather focus on your products and customers.
+
+- Fixed quote before we start
+- Delivered in days
+- You own everything
+
+## At a glance
+
+- DeliveryMost stores in a few days; bigger stores and migrations in about 5–6 days
+- PriceFrom $499 — a fixed quote, optional monthly management
+- You receiveYour store, admin access, training and documentation
+- PlatformsShopify, WooCommerce or a custom storefront
+
+## Is this for you?
+
+E-commerce store development is a good fit when one of these sounds familiar.
+
+- You sell through social media or DMs and need a real store
+- Your store is slow, or visitors add to cart but don't buy
+- You're moving platforms and can't lose data or rankings
+- You want someone to run the store day to day
+
+## What we build and run
+
+Everything between your products and a paid order — designed, connected and tested end to end.
+
+### Shopify stores
+
+A fast, on-brand Shopify store with the theme, apps and settings configured properly from day one.
+
+### WooCommerce stores
+
+Flexible WordPress stores for brands that want full control of their content and hosting.
+
+### Payments & checkout
+
+Cards, PayPal, Apple Pay, Google Pay and local payment options — tested end to end before launch.
+
+### Shipping, taxes & fulfilment
+
+Rates, zones, taxes and order flows set up for the countries you sell to.
+
+### Product catalog
+
+Products, variants, collections and SEO-ready product pages, imported cleanly at any size.
+
+### Store migrations
+
+Move products, customers, orders and SEO from another platform without losing data or rankings.
+
+### Speed & conversion
+
+Faster pages, better product pages and a smoother checkout, measured before and after.
+
+### AI for your store
+
+A shopping assistant that answers product questions and an agent that handles “where is my order?” around the clock.
+
+### Integrations & apps
+
+Email, reviews, inventory, accounting and order updates connected to your store.
+
+## Monthly store management
+
+Prefer to focus on products and customers? We run the store for you, every month — with a clear scope, a fixed monthly price and a report you can read in five minutes.
+
+- New products, prices and stock updates
+- Promotions, discount codes and seasonal sales
+- Theme and app updates, tested before they go live
+- Speed, uptime and checkout checks
+- Order, inventory and payment issues fixed fast
+- A monthly report on sales, traffic and conversion
+- Small design changes and new landing pages
+- Priority support on WhatsApp and email
+
+## Shopify or WooCommerce?
+
+Both run millions of stores. Here's how they differ — we'll recommend the one that fits your products, budget and team.
+
+| Compared | Shopify | WooCommerce |
+| --- | --- | --- |
+| What it is | An all-in-one, hosted store platform | A free plugin that turns a WordPress site into a store |
+| Hosting and security | Included and handled by Shopify | Your own hosting, kept updated by you or your developer |
+| Running costs | A monthly Shopify plan, plus paid apps and payment fees | Hosting and domain, plus paid extensions and payment fees |
+| Ease of use | The easiest to run day to day | More flexible, with a little more upkeep |
+| Best for | Most brands that want to start selling fast | Brands that want full control or already use WordPress |
+
+Read the full guide: [Shopify vs WooCommerce — which is better for your store?](https://zenraai.com/blog/shopify-vs-woocommerce/)
+
+## How the project runs
+
+Clear stages, a fixed quote and a working preview while we build — most projects are delivered within days.
+
+1. ### Discovery & plan
+
+   Your products, markets, payments and shipping — and the right platform for them.
+
+   A store plan with a platform recommendation
+2. ### Design
+
+   A store design that fits your brand and makes products easy to buy on a phone.
+
+   Store designs to review
+3. ### Build & catalog
+
+   Theme, apps, products, collections and content, built in a preview store you can click through.
+
+   A preview store with your products
+4. ### Test & launch
+
+   Test orders through every payment method, shipping rule and email before going live.
+
+   A launched store and training
+5. ### Manage & grow
+
+   Optional monthly management, improvements and new features.
+
+   A monthly sales and conversion report
+
+## Technologies we use
+
+We pick tools that suit your project and your team. A typical selection:
+
+### Platforms
+
+- Shopify
+- Shopify Plus
+- WooCommerce
+- WordPress
+- Next.js storefronts
+
+### Payments
+
+- Shopify Payments
+- Stripe
+- PayPal
+- Apple Pay & Google Pay
+- Local payment gateways
+
+### Store tools & data
+
+- Google Analytics 4
+- Google Merchant Center
+- Klaviyo
+- Mailchimp
+- Review apps
+- Shipping apps
+
+## Ways to work together
+
+Start with a fixed-scope project, or keep us on monthly — whichever fits the work.
+
+### Store build
+
+A new store or migration with one price, paid by milestone.
+
+**Best for:** launching or moving a store.
+
+**Billing:** deposit to start, then by milestone.
+
+### Monthly store management
+
+We run the day-to-day: products, promotions, updates, checks and reports.
+
+**Best for:** owners who'd rather focus on products and customers.
+
+**Billing:** monthly, agreed in advance.
+
+### Store + AI agent
+
+An agent that answers product and order questions on your store and WhatsApp.
+
+**Best for:** stores that get the same questions every day.
+
+**Billing:** build price, then a monthly care plan.
+
+## Common questions
+
+About e-commerce store development. Can't find your answer? [Send us your question](https://zenraai.com/contact/?service=ecommerce). Guide: [Shopify vs WooCommerce](https://zenraai.com/blog/shopify-vs-woocommerce/)
+
+Shopify or WooCommerce — which is better for me?
+
+Shopify is the easiest to run and scales smoothly — ideal for most brands. WooCommerce gives more control and can cost less to run if you're comfortable with WordPress. We recommend one in your proposal based on your products, budget and team.
+
+How much does an online store cost?
+
+A new Shopify or WooCommerce store starts from $499. The final price depends on the number of products, the design and the integrations — you get a fixed quote before we start. Platform and app subscriptions are paid directly by you.
+
+How long does it take?
+
+Fast. A new store is usually ready within a few days. Bigger stores and migrations usually take about 5–6 days, depending on catalog size and integrations. We agree the exact timeline with you before we start.
+
+Can you migrate my store without losing SEO?
+
+Yes. We move products, customers and orders, keep URLs or redirect them, and carry over titles and descriptions so your rankings are protected.
+
+Who owns the store?
+
+You do. The store, domain and payment accounts are created in your name from day one.
+
+Which payment methods can I accept?
+
+Cards, PayPal, Apple Pay and Google Pay are available in most countries, plus local methods depending on where you sell. We confirm what's available for your business before we start.
+
+What does monthly store management include?
+
+Product updates, promotions, app and theme updates, speed and checkout checks, fixes and a monthly report. The exact scope and price are agreed in advance.
+
+Can you add AI to my store?
+
+Yes. A shopping assistant can answer product questions from your catalog, and an AI agent can handle order-status and return questions on your store and WhatsApp, handing anything unusual to your team.
+
+## Often paired with
+
+[**Custom web development** — Websites, web apps and landing pages](https://zenraai.com/services/custom-web-development/)[**AI agent development** — Agents for support, sales and operations](https://zenraai.com/services/ai-agent-development/)
+
+## Let's build a store that sells.
+
+Tell us what you sell and where you sell it today. We'll reply within one business day with questions and a recommended platform.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/tools/
+Title: Zenra AI Apps — Video Downloader, AI Clip Maker & Video Splitter
+Description: Zenra AI apps for Windows, with Mac coming soon: Video Downloader for 4K playlists and channels, AI Viral Clips for shorts, and the free Video Splitter.
+
+# Apps for creators
+
+Apps we design, build and support ourselves — for creators, marketers and anyone who works with video. Available for Windows today, with Mac versions coming soon. Each one updates itself automatically.
+
+Available now
+
+## Zenra Video Downloader
+
+Download videos, whole playlists and channels from YouTube, TikTok, Instagram, Facebook, X, Snapchat and more — up to five at once, in up to 4K or as MP3.
+
+- 1-day free trial
+- From $1 a month
+- Windows 10 and 11
+- Mac coming soon
+
+Launching soonPre-orders open
+
+## Zenra AI Viral Clips
+
+Turns long podcasts, interviews, vlogs and speeches into ready-to-post 9:16 clips — with the speaker in frame, word-by-word captions and titles, up to 4K.
+
+- 30-day free trial
+- From $4 a month
+- Windows 10 and 11
+- Mac coming soon
+
+Free
+
+## Zenra Video Splitter
+
+Split any video into equal clips in seconds, in original quality, with cuts placed at natural pauses. Ideal for WhatsApp Status, Shorts and Reels.
+
+- Free, no watermark
+- No re-encoding
+- Windows 10 and 11
+- Mac coming soon
+
+## Need a tool built for your business?
+
+The team behind these apps also builds AI agents, custom AI tools and desktop apps for clients. Tell us what you need.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/tools/zenra-ai-viral-clips/
+Title: Zenra AI Viral Clips — AI Clip Maker for Shorts, Reels & TikTok
+Description: AI clip maker for Windows: turns long videos and podcasts into viral 9:16 Shorts, Reels and TikToks with captions, titles and speaker tracking. Free trial.
+
+**Zenra AI Viral Clips**Launching soon
+
+# Turn long videos into viral clips, automatically.
+
+Add a podcast, interview, vlog or speech. The AI finds every strong moment, keeps the right person in frame, adds word-by-word captions and titles — and gives you ready-to-post 9:16 clips, up to 4K.
+
+- **Launching soon**
+- Windows 10 and 11 (64-bit)
+- Mac version coming soon
+- 30-day free trial, no card
+
+Made for every kind of long video
+
+- Podcasts
+- Interviews
+- Vlogs
+- Speeches
+- Stand-up comedy
+- Streams
+- Webinars
+- Classes
+- Documentaries
+
+## A professional editor inside your PC
+
+Everything an editor does to make a clip work — done for you, clip after clip.
+
+### Finds every viral moment
+
+The AI reads your whole video like an editor — a strong hook, a complete story, a payoff — and makes a clip of each moment. Longer videos give more clips, and your best clip is always #01.
+
+### Clean starts and endings
+
+Clips start with the question and end when the answer is finished, never on a cut-off word. Intros, sponsor reads and “thanks for watching” outros are left out.
+
+### Follows whoever is talking
+
+Speaker detection watches lips and listens to voices, so the frame stays on the person talking — with instant cuts, like a real editor.
+
+### Split screen for conversations
+
+When two people go back and forth, you see both: one on top, one below. Panels with three or four people stay lively instead of one long monologue.
+
+### Vlogs and on-the-go videos
+
+The whole person stays in view and the frame widens when they move. What a vlogger holds up stays in frame, and phone clips inside a vlog fill the screen.
+
+### Word-by-word captions
+
+Each word lights up as it's spoken. Five styles, words always in the right order, and no “um” or “uh”.
+
+### Titles and hashtags
+
+Every clip gets a title and hashtags. Files are named **Title - 01.mp4**, and one click copies the title for posting.
+
+### Up to 4K quality
+
+Original, 4K, 2K or 1080p. Intel, NVIDIA and AMD graphics speed up the final videos automatically.
+
+### Your logo on every clip
+
+Add your logo once and it sits small and soft in the top-left corner of every clip, like a TV channel logo. No Zenra watermark.
+
+### Same clips, or new ones
+
+Run a video again and get the same clips instantly — perfect for changing captions, logo or quality. **New clips** finds only moments you haven't made yet.
+
+### 13 languages plus auto detect
+
+English, Spanish, Portuguese, French, German, Italian, Turkish, Russian, Arabic, Hindi, Urdu, Punjabi and Indonesian.
+
+### Free AI built in
+
+Runs on a free Groq key. Want more speed? Add your own Gemini, ChatGPT, Claude, OpenRouter or DeepSeek key.
+
+## Always the right framing
+
+Your video is wide; a short is tall. Shot by shot, the app decides what belongs in the frame.
+
+### Follows the speaker
+
+The frame stays on whoever is talking and cuts instantly when someone else speaks.
+
+### Split screen
+
+A quick back-and-forth shows both people — one on top, one below — for that part only.
+
+### The whole person
+
+Vlogs and walk-and-talks keep the person head to toe, and the frame opens up when they move.
+
+### The whole picture
+
+Scenery, a drone shot or a moment with nobody in it is shown whole on a soft background — nothing important is cut.
+
+On **Auto (smart)** the app picks the framing for every shot. You can also choose **Follow speaker**, **Split screen** or **Full frame** in Settings.
+
+## Captions that keep people watching
+
+Every word lights up the moment it's spoken. Pick one of five styles — or turn captions off.
+
+A caption never mixes two speakers, and the words always appear in the order they're said.
+
+## How it works
+
+Four steps from a long video to clips you can post.
+
+1. ### Add your video
+
+   Drag it onto the app or click BROWSE. Long videos are welcome — longer videos give more clips.
+2. ### Pick your style
+
+   Choose the quality (up to 4K), clip length (15 seconds to 3 minutes), caption style and your logo.
+3. ### Make viral clips
+
+   Press MAKE VIRAL CLIPS. The AI finds the moments and edits each clip — they appear one by one.
+4. ### Post them
+
+   Every clip has PLAY, COPY TITLE and SHOW IN FOLDER. Start with #01 — it's your best clip.
+
+## A desktop app, not another upload
+
+Most AI clip makers run online. Zenra AI Viral Clips runs on your own PC — here's what that changes.
+
+| Compared | Zenra AI Viral Clips | Online clip makers |
+| --- | --- | --- |
+| Where it runs | On your own Windows PC | On the service's servers |
+| Your video | Stays on your PC — only the audio is sent for transcription when you use a Groq key | Uploaded to the service before it can be clipped |
+| Long 4K videos | No upload wait — start right away | Must finish uploading first |
+| Watermark | None — only your own logo, if you add one | Common on free plans |
+| Pricing | From $4 a month, or $35 once for lifetime | Usually a monthly subscription |
+| Without internet | Works for up to 7 days after a plan check, with simpler titles | Doesn't work |
+
+## Simple pricing
+
+Try everything free for 30 days. Prices are in US dollars and the same in every country.
+
+**30-day free trial**Every feature, no card, no sign-up. When it ends, pick a plan inside the app.
+
+**Pre-orders are open**Pre-order any plan now and get your license key on launch day. Your plan starts when you activate it, and if you change your mind before launch, we refund you in full.
+
+### Monthly
+
+$4
+
+per month
+
+30 days of full access
+
+### 6 months
+
+$10$24
+
+Only $1.67 a month
+
+Save 58%
+
+183 days of full access
+
+### Yearly
+
+Best value
+
+$15$48
+
+Only $1.25 a month
+
+Save 69%
+
+365 days of full access
+
+### Lifetime
+
+Forever
+
+$35
+
+Pay once
+
+Use it forever, with every update
+
+- Every feature
+- Clips up to 4K
+- AI titles and captions
+- Free updates
+- WhatsApp support
+- One key per PC
+
+### Paying from any country
+
+Tap the WhatsApp button on any plan and tell us your country. We'll share the payment options available to you — such as bank transfer, mobile wallets or Binance — and send your license key as soon as payment is confirmed.
+
+## How to buy and activate
+
+Quick and personal: everything happens on WhatsApp.
+
+1. ### Try it free
+
+   Install the app. Your 30-day free trial starts by itself.
+2. ### Open UPGRADE
+
+   Click UPGRADE at the top right of the app to see the plans.
+3. ### Buy on WhatsApp
+
+   Tap BUY WITH WHATSAPP. Your plan and Device ID are written in the message for you.
+4. ### Pay and get your key
+
+   After payment you receive a license key that starts with ZVC-.
+5. ### Activate
+
+   Paste it under ALREADY HAVE A KEY? and press ACTIVATE. Done.
+
+## Complete guide
+
+Everything you need, from installing the app to using your own AI key.
+
+Install the app
+
+1. At launch, click **Download** at the top of this page. You get **ZenraAIViralClips.exe**.
+2. Open it and click **Next** until **Finish**. No admin password is needed. Tick **Create a desktop shortcut** if you like.
+3. If Windows shows “Windows protected your PC”, click **More info**, then **Run anyway**. New apps without a paid certificate show this once.
+4. Open Zenra AI Viral Clips. Your 30-day free trial starts by itself (internet is needed the first time).
+
+Get your free Groq key (2 minutes)
+
+Groq is a free AI service. Its key lets the app write the words and run the AI editor — the best results, at no cost.
+
+1. Open [console.groq.com/keys](https://console.groq.com/keys) and sign in with Google or email.
+2. Click **Create API Key**, type any name and copy the key. It starts with **gsk\_**.
+3. In the app, open SETTINGS → GROQ AI KEY, paste the key and press SAVE KEY.
+4. Press TEST KEY — you should see **Key works**.
+
+Your key is saved encrypted on your PC. Without a key the app still works offline — just slower, and with simpler titles.
+
+Make your first clips
+
+1. On the CREATE tab, drag your video onto the window or click BROWSE (Ctrl + O). MP4, MKV, MOV, AVI, WEBM and most other video files work.
+2. **Quality** — Original keeps your video's quality (a 4K video gives 4K clips). 4K, 2K and 1080p are there too.
+3. **Clip length** — 15 sec, 30 sec, 45 sec, 1 min, 2 min or 3 min.
+4. **Captions** — Viral Yellow, Green Pop, Zenra Cyan, Hormozi, Clean White or Off. **Logo** — click Add logo and choose a PNG.
+5. Press MAKE VIRAL CLIPS. Clips appear one by one with their title and viral score. STOP keeps every clip already made.
+
+Find and post your clips
+
+- Every clip card has PLAY, COPY TITLE (title and hashtags) and SHOW IN FOLDER.
+- Clips are saved in **Downloads\Zenra AI Viral Clips\** in a folder named after your video, as **Title - 01.mp4**, **Title - 02.mp4** and so on — 01 is the best clip.
+- The MY CLIPS tab keeps every video you've clipped, with OPEN FOLDER, COPY ALL TITLES and VIEW CLIPS.
+
+Same clips again, or new ones
+
+- Same video + same clip length = the same clips, instantly — no waiting for the AI. Perfect for changing the captions, logo or quality.
+- After a run, press NEW CLIPS to get only moments you haven't made yet — never a repeat. When every good moment is used, the app tells you.
+
+Settings explained
+
+- **Framing** — Auto (smart), Follow speaker, Split screen or Full frame (no crop).
+- **Number of clips** — Auto (every viral moment), or up to 5, 10, 15, 20, 30 or 50.
+- **Video language** — Auto detect, or choose one of 13 languages.
+- **Offline speech model** — used when there's no internet: Fast, Better or Best (slow).
+- **Save clips to** — any folder you like.
+
+Use your own AI key (optional)
+
+Free Groq works well. With your own paid key the AI reads the whole video at once — no free-limit waiting, faster, and the strongest models pick the clips. Typical cost: about 1–5 US cents per one-hour video.
+
+1. Get an API key from Google Gemini, OpenAI (ChatGPT), Anthropic Claude, OpenRouter or DeepSeek.
+2. In the app: SETTINGS → YOUR OWN AI KEY → choose the provider.
+3. Paste your key and press SAVE KEY — it's tested automatically.
+4. Leave the AI model on **Auto** (recommended).
+
+The words (speech-to-text) still come from free Groq or the offline model. If your key runs out of credit, the app switches back to Groq by itself, so your job never stops.
+
+Updates
+
+The app updates itself. When a new version is ready you see a popup — one click, and it installs and reopens. You can also check at any time in SETTINGS → CHECK FOR UPDATES.
+
+Fix common problems
+
+- **“Windows protected your PC”** — click More info, then Run anyway.
+- **“Groq key not accepted”** — make a new key at console.groq.com/keys, paste it, press SAVE KEY, then TEST KEY.
+- **Clips are slow** — choose 1080p quality, or set the offline speech model to Fast.
+- **Free Groq limit reached** — the app moves to another model by itself. For many long videos a day, add your own AI key.
+- **Something went wrong** — press COPY DETAILS in the message and send it to us on WhatsApp. Logs are in SETTINGS → OPEN LOGS.
+
+## System requirements
+
+Runs on most modern Windows PCs — a Mac version is coming soon. More memory and a recent graphics chip make long 4K videos faster.
+
+Windows
+:   Windows 10 or 11, 64-bit — Installs without an admin password
+
+Internet
+:   For the AI and your plan check — Works up to 7 days offline after a check
+
+Memory
+:   8 GB RAM recommended — Long 4K videos like more
+
+Graphics
+:   Any — Intel, NVIDIA and AMD speed up the final videos
+
+AI key
+:   Free Groq key — Recommended — or your own AI key
+
+Disk space
+:   Room for your clips — 4K clips are large files
+
+## Frequently asked questions
+
+Still unsure? [Ask us on WhatsApp](https://wa.me/923023404198?text=Hi%21%20I%20have%20a%20question%20about%20Zenra%20AI%20Viral%20Clips.).
+
+Is there a free trial?
+
+Yes. Every new PC gets a 30-day free trial with every feature. No card and no sign-up.
+
+What do I need to use it?
+
+A Windows 10 or 11 (64-bit) PC and an internet connection. For the best results, add a free Groq key — it takes about two minutes (see the complete guide). A Mac version is coming soon.
+
+Which videos work best?
+
+Podcasts, interviews, vlogs, speeches, stand-up comedy, streams, webinars, classes and documentaries. MP4, MKV, MOV, AVI, WEBM and most other video files work, up to 4K.
+
+How many clips will I get?
+
+On Auto you get a clip of every strong moment, so longer videos give more clips. A one-hour podcast gives about 30 clips of 15 seconds, or about 10 clips of 3 minutes. You can also limit it to 5, 10, 15, 20, 30 or 50.
+
+Is my video uploaded anywhere?
+
+No. Your video stays on your PC — finding faces, framing, captions and rendering all happen on your computer. With a Groq key, the audio is sent to Groq to write the words, and the text is read by the AI editor (Groq or your own AI key). Without a key, nothing from your video leaves your PC.
+
+Do the clips have a watermark?
+
+No. There is no Zenra watermark. Only your own logo appears, if you add one.
+
+Which languages are supported?
+
+Auto detect, plus English, Spanish, Portuguese, French, German, Italian, Turkish, Russian, Arabic, Hindi, Urdu, Punjabi and Indonesian.
+
+How do I buy a plan?
+
+In the app, click UPGRADE, choose a plan and tap BUY WITH WHATSAPP. Tell us your country and we'll share the payment options available to you. After payment you receive a license key — paste it in the app and press ACTIVATE.
+
+Which payment methods do you accept?
+
+We share the options available in your country on WhatsApp — for example bank transfer, mobile wallets or Binance. Prices are in US dollars and the same in every country.
+
+Can I use one key on two PCs?
+
+Each key works on one PC. If you change your computer, message us on WhatsApp and we'll help.
+
+Does it work without internet?
+
+The AI and the plan check need internet. After a check, the app keeps working for up to 7 days offline, using the offline speech model and simpler titles.
+
+How do I get new versions?
+
+The app updates itself. When a new version is ready you see a popup — one click and it installs and reopens.
+
+Windows shows a blue warning screen. Is it safe?
+
+Yes. New apps without a code-signing certificate can show a SmartScreen warning. Click More info, then Run anyway.
+
+## Turn one long video into weeks of posts.
+
+A one-hour podcast gives about 30 clips of 15 seconds — titles, captions and framing done.
+
+No card. No sign-up. Updates itself automatically.
+
+---
+
+URL: https://zenraai.com/tools/zenra-video-downloader/
+Title: Zenra Video Downloader — 4K Video & Playlist Downloader for PC
+Description: Video downloader for Windows PC: save YouTube, TikTok, Instagram, Facebook and X videos, playlists and whole channels in up to 4K or MP3. Free trial.
+
+**Zenra Video Downloader**Available now
+
+# Download videos, playlists and channels in HD and 4K.
+
+Save videos from YouTube, TikTok, Instagram, Facebook, X, Snapchat and more — one at a time, or whole playlists, channels and accounts at once — in up to 4K or as MP3.
+
+- Version **3.3**
+- Windows 10 and 11
+- Mac version coming soon
+- 1-day free trial
+- No sign-up
+
+Works with the sites you use
+
+- YouTube
+- TikTok
+- Instagram
+- Facebook
+- X (Twitter)
+- Snapchat
+- And many more
+
+## Built for bulk, built for speed
+
+From one clip to an entire channel: fast, reliable downloads in the quality you choose.
+
+### Up to five at once
+
+Choose 1 to 5 downloads at the same time in Settings — with the live speed shown on screen.
+
+### Playlists, channels and accounts
+
+Paste a playlist, channel or account link and save every video into its own folder in one go.
+
+### Best quality
+
+4K, 1440p, 1080p or MP3 audio — or let **Best quality** pick the highest available.
+
+### Pause and resume
+
+Pause any download and continue later, right where it stopped.
+
+### Always up to date
+
+The download engine updates itself automatically, so downloads keep working when websites change.
+
+### Plays on every phone and TV
+
+MP4 mode (on by default) saves standard H.264 + AAC files that play on phones, smart TVs and every media player.
+
+### Continues where it stopped
+
+If a big playlist or channel download stops, Retry skips the videos already saved and continues with the rest.
+
+### No duplicates
+
+Videos already in your folder are recognized and skipped — no second copies.
+
+### Clean file names
+
+Every file is named with the original video title — no codes or extra characters.
+
+## How it works
+
+Copy, paste, download. Paste many links at once for bulk downloads.
+
+1. ### Copy the link
+
+   Copy the link of a video, playlist, channel or account from your browser or app.
+2. ### Paste it
+
+   Paste one link or many into Zenra Video Downloader.
+3. ### Choose the quality
+
+   Pick 4K, 1440p, 1080p, MP3 — or Best quality.
+4. ### Download
+
+   Downloads run side by side. Click Open to go straight to the file.
+
+## Why a desktop downloader?
+
+Online downloader websites are fine for one quick video. For playlists, channels and 4K, a desktop app does more.
+
+| Compared | Zenra Video Downloader | Online downloader websites |
+| --- | --- | --- |
+| Playlists and channels | Paste one link and every video is saved | Usually one video at a time |
+| Downloads at once | Up to five, side by side | One |
+| Quality | Up to 4K, or MP3 audio | Often limited to lower resolutions |
+| Big downloads | Pause, resume and skip videos already saved | Start again if something fails |
+| Ads and pop-ups | None | Common |
+
+## Simple pricing
+
+Start with a 1-day free trial. Prices are in US dollars and the same in every country.
+
+### Monthly
+
+$1
+
+per month
+
+30 days of full access
+
+### 6 months
+
+$2
+
+Only $0.33 a month
+
+180 days of full access
+
+### Yearly
+
+$3
+
+Only $0.25 a month
+
+365 days of full access
+
+### Lifetime
+
+Best value
+
+$10
+
+Pay once
+
+Use it forever, with every update
+
+- All supported sites
+- HD, 4K and MP3
+- Playlists, channels and accounts
+- Automatic engine updates
+- WhatsApp support
+- One key per PC
+
+### Paying from any country
+
+Tap Buy on WhatsApp and tell us your country. We'll share the payment options available to you and send your license key as soon as payment is confirmed.
+
+## How to buy and activate
+
+Everything happens on WhatsApp — quick and personal.
+
+1. ### Install and try free
+
+   Use every feature free for one full day.
+2. ### Open Upgrade
+
+   In the app, click Upgrade to see all plans.
+3. ### Buy on WhatsApp
+
+   Press **Buy with WhatsApp** — a ready message opens in the chat.
+4. ### Activate your key
+
+   After payment, paste your key under **Already have a key?** and press **Activate**.
+
+## Frequently asked questions
+
+Need help? [Ask us on WhatsApp](https://wa.me/923023404198?text=Hi%21%20I%20have%20a%20question%20about%20Zenra%20Video%20Downloader.).
+
+Is Zenra Video Downloader free?
+
+Every new PC gets a 1-day free trial with full access. After that, plans cost $1 for a month, $2 for 6 months, $3 for a year or $10 for lifetime access.
+
+How much does Zenra Video Downloader cost?
+
+Monthly $1, 6 months $2, Yearly $3 and Lifetime $10 — in US dollars, the same in every country. Every new PC also gets a 1-day free trial.
+
+Which websites are supported?
+
+YouTube, TikTok, Instagram, Facebook, X (Twitter), Snapchat and many other video websites.
+
+Can I download a whole playlist, channel or account?
+
+Yes. Paste the playlist, channel or account link and the app saves every video into its own folder — several at a time.
+
+Which qualities can I choose?
+
+4K, 1440p, 1080p or MP3 audio — or Best quality, which picks the highest quality the video offers.
+
+Will the videos play on my phone and TV?
+
+Yes. With MP4 mode on (it's on by default), videos are saved as standard MP4 files (H.264 video with AAC sound), which phones, tablets, smart TVs and every media player can play. If a site sends another format, the app converts it automatically.
+
+What if a big download stops halfway?
+
+Press Retry. The app skips the videos that are already saved and continues with the rest — a channel download that stopped at video 50 continues from video 51.
+
+Will I get duplicate files?
+
+No. Videos that are already in your folder are recognized and skipped, and two different videos with the same title are saved side by side.
+
+How do I get new versions?
+
+The app updates itself. When a new version is ready you see a banner — one click and it installs and reopens. The download engine also stays up to date automatically.
+
+Does it work on my computer?
+
+Zenra Video Downloader works on Windows 10 and Windows 11. A Mac version is coming soon.
+
+Is there a Mac version?
+
+Not yet. A Mac version is coming soon — today the app runs on Windows 10 and Windows 11.
+
+How do I buy and activate a plan?
+
+Open the app, click UPGRADE, choose a plan and tap BUY WITH WHATSAPP. Tell us your country and we'll share the payment options available to you. After payment you receive a license key — paste it in the app and press ACTIVATE.
+
+Which payment methods do you accept?
+
+We share the options available in your country on WhatsApp — for example bank transfer, mobile wallets or Binance.
+
+Can I use one key on two computers?
+
+Each license key works on one PC. If you change your computer, message us on WhatsApp and we'll help.
+
+Windows shows a blue warning screen. Is it safe?
+
+Yes. New apps without a code-signing certificate can show a SmartScreen warning. Click More info, then Run anyway.
+
+Is it legal to download videos?
+
+Download only content you own, have permission to use, or that the platform allows you to save, and follow each platform's terms. Respect the rights of creators.
+
+## Try it free for a full day.
+
+Every feature unlocked. No card and no sign-up.
+
+Please download only content you own or have permission to use, and follow each platform's terms.
+
+---
+
+URL: https://zenraai.com/tools/zenra-video-splitter/
+Title: Zenra Video Splitter — Free Video Splitter for WhatsApp Status
+Description: Free Windows app that splits any video into equal parts in seconds, in original quality, with cuts at natural pauses — for WhatsApp Status, Shorts and Reels.
+
+**Zenra Video Splitter**Free
+
+# Split any video into equal clips in seconds.
+
+Pick a video, type how many clips you want, choose a folder — done. Equal clips in original quality, ready for WhatsApp Status, Shorts and Reels.
+
+- Version **1.0.0**
+- Windows 10 and 11 (64-bit)
+- Mac version coming soon
+- Free, no watermark
+
+## Simple outside, smart inside
+
+Made for people who post a lot and don't want to edit every clip by hand.
+
+### Very fast
+
+No slow re-encoding — a 20-minute video splits into 20 clips in a few seconds.
+
+### Original quality
+
+Clips are copied straight from your video, so they look exactly like the original.
+
+### Exactly your number
+
+Ask for 10 clips, get 10 equal clips — every time, with any video.
+
+### Smart cut points
+
+Cuts move to natural pauses, so no word gets cut in half.
+
+### Status-ready lengths
+
+Close to a 60-second, 90-second or 3-minute limit? No clip goes over it — perfect for WhatsApp Status, Shorts and Reels.
+
+### Offline and private
+
+Everything happens on your PC. Nothing is uploaded, and there's no watermark.
+
+## How to use it
+
+Four steps. That's it.
+
+1. ### Select a video
+
+   Click Browse or drag your video onto the app.
+2. ### Number of clips
+
+   Type how many parts you want — the app shows how long each clip will be.
+3. ### Choose a folder
+
+   Your video's folder is filled in for you. Change it if you like.
+4. ### Split
+
+   Press Split Video, then Open Folder to see your clips.
+
+## Frequently asked questions
+
+Need help? [Ask us on WhatsApp](https://wa.me/923023404198?text=Hi%21%20I%20have%20a%20question%20about%20Zenra%20Video%20Splitter.).
+
+Is Zenra Video Splitter free?
+
+Yes. Zenra Video Splitter is free — no watermark, no sign-up and no upload.
+
+Does it lose video quality?
+
+No. In most cases the clips are copied without re-encoding, so they keep 100% of the original quality. Only when the video's structure needs it are a few frames at a cut re-encoded, at very high quality.
+
+Will my clips fit WhatsApp Status, Shorts and Reels?
+
+Yes. When your clips are close to a 60- or 90-second limit (or 3 minutes for Shorts and Reels), the app makes sure no clip goes over it.
+
+Which video formats work?
+
+MP4, MKV, MOV, AVI, WEBM and most other video files.
+
+Does it work on my computer?
+
+Zenra Video Splitter works on Windows 10 and Windows 11 (64-bit). A Mac version is coming soon.
+
+How do I split a video for WhatsApp Status?
+
+Open the app, pick your video, type how many parts you want and press Split Video. When the parts are close to WhatsApp's 60- or 90-second limit, the app makes sure none goes over it. Then post the parts to your Status in order. [See the step-by-step guide](https://zenraai.com/blog/split-video-for-whatsapp-status/).
+
+How do I get new versions?
+
+The app updates itself. When a new version is ready you see a popup — one click and it installs and reopens.
+
+Windows shows a blue warning screen. Is it safe?
+
+Yes. New apps without a code-signing certificate can show a SmartScreen warning. Click More info, then Run anyway.
+
+## Want clips that pick themselves?
+
+Zenra AI Viral Clips finds the best moments in a long video and adds captions, titles and speaker framing automatically.
+
+The splitter is free, with no card and no sign-up. It updates itself automatically.
+
+---
+
+URL: https://zenraai.com/blog/
+Title: Insights — AI, Websites, E-commerce & Video Guides | Zenra AI
+Description: Practical guides from Zenra AI on AI agents, custom AI tools, websites, online stores and video — written by the team that builds them.
+
+# Insights
+
+Practical guides on AI tools, websites, online stores and video — written by the team that builds them. No fluff, just what works.
+
+## All articles
+
+AI4 min read
+
+### AI agent vs chatbot: what's the difference, and which do you need?
+
+A chatbot answers questions. An AI agent also takes actions in your apps. How they differ, what each costs to run, and how to choose.
+
+Read the article
+
+Page: https://zenraai.com/blog/ai-agent-vs-chatbot/
+
+Apps4 min read
+
+### Desktop app vs web app: which should your business build?
+
+Compare speed, offline use, updates, cost and reach — with real examples — and find out which one fits your users and your budget.
+
+Read the article
+
+Page: https://zenraai.com/blog/desktop-app-vs-web-app/
+
+E-commerce4 min read
+
+### Shopify vs WooCommerce: which is better for your online store?
+
+A plain comparison of costs, ease of use, control, payments and growth — and a simple way to decide which fits your store.
+
+Read the article
+
+Page: https://zenraai.com/blog/shopify-vs-woocommerce/
+
+Video3 min read
+
+### How to split a long video for WhatsApp Status on a PC (free)
+
+Split any video into equal parts for WhatsApp Status, Shorts or Reels — free, in original quality, with no watermark and no upload.
+
+Read the article
+
+Page: https://zenraai.com/blog/split-video-for-whatsapp-status/
+
+Video4 min read
+
+### How to turn one long video into 30 short clips
+
+A practical workflow for turning podcasts, interviews and vlogs into Shorts, Reels and TikToks — what makes a clip work, and how to do it in hours, not days.
+
+Read the article
+
+Page: https://zenraai.com/blog/turn-long-videos-into-short-clips/
+
+AI3 min read
+
+### What is AI tool development? 5 ways custom AI tools help small businesses
+
+What custom AI tools are, where they save real time and money, and how to start a first project without wasting budget.
+
+Read the article
+
+Page: https://zenraai.com/blog/what-is-ai-tool-development/
+
+E-commerce3 min read
+
+### E-commerce website vs. Facebook page: which is better for selling online?
+
+Selling through social media is a great start. Here's how it compares with your own online store, and the signs it's time to build one.
+
+Read the article
+
+Page: https://zenraai.com/blog/ecommerce-website-vs-facebook-page/
+
+Guides4 min read
+
+### How to download videos on a PC in HD and 4K (2026 guide)
+
+A step-by-step guide to saving videos, playlists and audio on Windows in the quality you want — and how to do it responsibly.
+
+Read the article
+
+Page: https://zenraai.com/blog/how-to-download-videos-on-pc/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/ai-agent-vs-chatbot/
+Title: AI Agent vs Chatbot: What's the Difference? | Zenra AI
+Description: A chatbot answers questions. An AI agent also takes actions in your apps. Here's how they differ, what each costs to run, and how to choose for your business.
+
+AI
+
+# AI agent vs chatbot: what's the difference, and which do you need?
+
+Both talk to your customers. The difference is what happens after the answer — and that decides which one your business needs.
+
+Updated November 3, 20264 min readZenra AI team
+
+Chatbots and AI agents both use AI models, and both can hold a conversation. The difference is what they are allowed to do. A chatbot answers. An AI agent can also **act**: look things up in your systems, update records and complete a task from start to finish.
+
+This guide explains the difference in plain terms, shows when each one is the right choice, and lists the questions to ask before you build either.
+
+## The short answer
+
+- A **chatbot** answers questions from the information you give it — your FAQs, policies, product details or documents.
+- An **AI agent** works through a task step by step and uses tools to get it done — for example, it reads a customer's message, checks the order in your store, and replies with the real delivery status.
+- **Automation** (tools like Zapier or n8n) runs fixed steps between apps. It is reliable for predictable work but can't handle situations nobody wrote a rule for.
+
+## Side-by-side comparison
+
+| Compared | Chatbot | AI agent |
+| --- | --- | --- |
+| What it does | Answers questions | Answers and takes actions |
+| Uses your apps | Rarely | Yes — store, CRM, email, calendar, databases |
+| Handles new situations | Within its knowledge | Yes, within the limits you set |
+| Needs approval rules | Not usually | Yes, for anything important |
+| Best for | FAQs and simple support | Varied work that needs judgment |
+
+## When a chatbot is enough
+
+A chatbot is the right choice when people mostly need information, not action:
+
+- Opening hours, prices, policies and product details.
+- Questions answered by your help center or documents.
+- Guiding visitors to the right page or the right person.
+
+It's quick to build, cheap to run and easy to keep accurate. A good chatbot shows where each answer came from and hands the conversation to a person when it isn't sure.
+
+## When you need an AI agent
+
+You need an agent when the answer depends on live data or the job isn't finished until something is done:
+
+- **Customer support:** "Where is my order?", returns, changes and refunds that need a look at the order first.
+- **Sales:** replying to new leads in seconds, asking qualifying questions and booking calls into your calendar.
+- **Operations:** reading invoices, orders and forms and entering the data into your systems.
+- **Reporting:** collecting numbers from several tools and writing the weekly summary.
+
+If your team copies information between inboxes, apps and spreadsheets all day, that is usually the first job worth giving an agent.
+
+## How to keep an AI agent safe
+
+Because an agent can act, it needs clear limits. A well-built agent has:
+
+- **Least-privilege access** — only the tools and data its job needs, with keys you can revoke.
+- **Approval for important actions** — refunds, payments or messages to many customers wait for a person.
+- **Human handoff** — uncertain cases go to your team, with the context to decide quickly.
+- **Logs** of what it read, decided and did, so every step can be checked.
+- **Testing on real cases** from your business, including the tricky ones, before it goes live.
+
+## What it costs to run
+
+Both run on AI models that are billed by usage, so the monthly cost grows with the number of conversations and tasks. A chatbot usually costs less per conversation because it does fewer steps. An agent costs more per task but replaces more work. A good developer estimates the running cost before launch and keeps it low with the right-sized model for each step.
+
+## How to choose: a quick checklist
+
+- Does the answer depend on live data in your systems? → **Agent**
+- Does the job end with an action, like an update, a booking or a refund? → **Agent**
+- Are the questions answered by documents that rarely change? → **Chatbot**
+- Do you want to start small and prove the value first? → Start with a **chatbot or a one-task agent pilot**, then grow it.
+
+Not sure which you need? [Tell us about the task](https://zenraai.com/contact/?service=ai-agents) and we'll recommend the simplest option that works — chatbot, agent or plain automation.
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [The short answer](#the-short-answer)
+2. [Side-by-side comparison](#side-by-side-comparison)
+3. [When a chatbot is enough](#when-a-chatbot-is-enough)
+4. [When you need an AI agent](#when-you-need-an-ai-agent)
+5. [How to keep an AI agent safe](#how-to-keep-an-ai-agent-safe)
+6. [What it costs to run](#what-it-costs-to-run)
+7. [How to choose: a quick checklist](#how-to-choose)
+
+**AI agent development**
+
+Custom AI agents with approvals, logs and human handoff — delivered in days.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+AI3 min read
+
+### What is AI tool development? 5 ways custom AI tools help small businesses
+
+What custom AI tools are, where they save real time and money, and how to start a first project without wasting budget.
+
+Read the article
+
+Page: https://zenraai.com/blog/what-is-ai-tool-development/
+
+Apps4 min read
+
+### Desktop app vs web app: which should your business build?
+
+Compare speed, offline use, updates, cost and reach — with real examples — and find out which one fits your users and your budget.
+
+Read the article
+
+Page: https://zenraai.com/blog/desktop-app-vs-web-app/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/desktop-app-vs-web-app/
+Title: Desktop App vs Web App: Which Should You Build? | Zenra AI
+Description: Desktop app or web app? Compare speed, offline use, updates, cost and reach, see real examples, and find out which one fits your users and your budget.
+
+Apps
+
+# Desktop app vs web app: which should your business build?
+
+A web app runs in the browser; a desktop app is installed on Windows or Mac. Here's how to choose — from a team that builds and runs both.
+
+Updated November 3, 20264 min readZenra AI team
+
+A **web app** is software people use in their browser — a client portal, a booking system or a dashboard. A **desktop app** is installed on a Windows or Mac computer and runs on that machine. Both can look modern and both can connect to the same online services. What differs is where the work happens.
+
+## The short answer
+
+- Build a **web app** when many people need access from anywhere, on any device, with nothing to install.
+- Build a **desktop app** when the work is heavy — video, large files, AI on the device — when it must work offline, or when it needs the computer's own hardware.
+
+## Side-by-side comparison
+
+| Compared | Web app | Desktop app |
+| --- | --- | --- |
+| Where it runs | In the browser | On the user's computer |
+| Installation | None — open a link | An installer, once |
+| Works offline | Limited | Yes |
+| Heavy work | Done on your servers | Done on the user's computer |
+| Updates | Instant for everyone | Automatic updates, built in |
+| Reach | Any device with a browser | Windows and Mac computers |
+
+## When a web app is the better choice
+
+- Your customers or staff log in from many devices, including phones.
+- The app is mostly forms, records and dashboards.
+- Data must be shared live between many users.
+
+## When a desktop app is the better choice
+
+- **Heavy processing:** editing or rendering video, handling large files or running AI on the device.
+- **Offline work:** the app must keep working without a stable connection.
+- **Privacy:** files should stay on the user's computer instead of being uploaded.
+- **Hardware access:** the app uses the GPU, local folders or connected devices.
+
+Our own apps are examples. [Zenra AI Viral Clips](https://zenraai.com/tools/zenra-ai-viral-clips/) renders 4K clips on the user's own PC, so their video is never uploaded. [Zenra Video Downloader](https://zenraai.com/tools/zenra-video-downloader/) saves large files straight to the computer, several at a time.
+
+## Can you have both?
+
+Yes, and many products do. A shared backend can serve a web app, a desktop app and a mobile app at once. Some desktop apps are even built with web technology (Electron or Tauri), so much of the code is shared. A common path is to start with the version your users need most, then add the other once it proves itself.
+
+## What a proper desktop app needs
+
+A desktop app is more than its screens. Before launch, plan for:
+
+- A proper installer, with shortcuts and a clean uninstall.
+- Code signing where the platform requires it, so it opens without warnings.
+- Automatic updates, so every user stays on the latest version.
+- Licensing and payments, if you sell it.
+- Crash and error reporting, so problems are fixed fast.
+
+Planning an app? [Tell us who will use it and on which devices](https://zenraai.com/contact/?service=apps) — we'll recommend web, desktop, mobile or a mix, and build it in days.
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [The short answer](#the-short-answer)
+2. [Side-by-side comparison](#side-by-side-comparison)
+3. [When a web app is the better choice](#when-a-web-app-is-better)
+4. [When a desktop app is the better choice](#when-a-desktop-app-is-better)
+5. [Can you have both?](#can-you-have-both)
+6. [What a proper desktop app needs](#what-a-proper-desktop-app-needs)
+
+**App development**
+
+Windows, Mac, iPhone and Android apps — with installers, updates and licensing.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+AI4 min read
+
+### AI agent vs chatbot: what's the difference, and which do you need?
+
+A chatbot answers questions. An AI agent also takes actions in your apps. How they differ, what each costs to run, and how to choose.
+
+Read the article
+
+Page: https://zenraai.com/blog/ai-agent-vs-chatbot/
+
+E-commerce4 min read
+
+### Shopify vs WooCommerce: which is better for your online store?
+
+A plain comparison of costs, ease of use, control, payments and growth — and a simple way to decide which fits your store.
+
+Read the article
+
+Page: https://zenraai.com/blog/shopify-vs-woocommerce/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/ecommerce-website-vs-facebook-page/
+Title: E-commerce Website vs Facebook Page for Selling Online | Zenra AI
+Description: Selling through social media is a great start. Here's how it compares with your own online store, and the signs it's time to build one.
+
+E-commerce
+
+# E-commerce website vs. Facebook page: which is better for selling online?
+
+Selling through social media is a great start. Here's how it compares with your own online store, and the signs it's time to build one.
+
+Updated October 29, 20263 min readZenra AI team
+
+Many businesses start selling through a Facebook page, an Instagram profile or direct messages. It's free, fast and puts products in front of people who already follow you. But as orders grow, taking payments in chat, tracking stock in your head and relying on the algorithm starts to hold the business back.
+
+Here's an honest comparison, and the signs it's time to open your own store.
+
+## Selling through a Facebook or Instagram page
+
+**What works well:**
+
+- No setup cost, and you can start today.
+- Your audience is already there.
+- Conversations build trust, especially for new brands.
+
+**Where it struggles:**
+
+- Orders arrive in messages and have to be handled one by one.
+- No real checkout, so payments, addresses and confirmations are manual.
+- Reach depends on an algorithm you don't control.
+- Little data about who buys and why, which makes ads harder to optimize.
+- The platform owns the relationship with your customers.
+
+## Selling through your own online store
+
+**What works well:**
+
+- Customers can buy at any hour without waiting for a reply.
+- Card and wallet payments, shipping rates and order emails are automatic.
+- Product pages can rank in search engines and bring free traffic.
+- You own your customer list and can email past buyers.
+- Accurate tracking makes every advertising dollar easier to measure.
+
+**What to plan for:**
+
+- A setup cost and usually a monthly platform fee.
+- Someone has to keep products, prices and apps up to date.
+- A store still needs traffic — social media and ads remain important.
+
+## Side-by-side comparison
+
+| Compared | Facebook or Instagram page | Your own online store |
+| --- | --- | --- |
+| Cost to start | Free | Setup plus monthly fees |
+| Checkout and payments | Manual, in messages | Automatic, 24/7 |
+| Search engine traffic | Minimal | Yes, from product pages |
+| Customer data | Owned by the platform | Yours |
+| Ad tracking | Limited | Full conversion tracking |
+| Scales with orders | Hard | Easily |
+
+## Signs it's time to build a store
+
+- You spend hours a day answering “price?” and taking orders in messages.
+- Orders get lost, duplicated or delayed.
+- Customers ask to pay by card or want an order confirmation.
+- You're running ads and can't tell which ones bring sales.
+- You have more than twenty or so products, or several variants per product.
+- You want to sell beyond your local area.
+
+## You don't have to choose
+
+The strongest setup uses both. Social media brings discovery and conversation; the store handles checkout, payments and data. Link your social profiles to your store, and every post can send people to a product page that's ready to sell.
+
+## How to get started
+
+1. **Choose a platform.** Shopify is the easiest to run; WooCommerce gives more control if you already use WordPress.
+2. **Set up the essentials.** Payments, shipping zones, taxes, and clear policy pages for shipping, returns and privacy.
+3. **Make great product pages.** Good photos, honest descriptions, sizes and delivery times.
+4. **Add tracking.** Google Analytics 4 from day one, so you can see which channels bring sales.
+5. **Connect your social channels** so followers can shop in a tap.
+
+Want a store that's built to sell — and managed for you if you'd rather focus on the business? See our [e-commerce development service](https://zenraai.com/services/ecommerce-development/).
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [Selling through a Facebook or Instagram page](#selling-through-a-facebook-or-instagram-page)
+2. [Selling through your own online store](#selling-through-your-own-online-store)
+3. [Side-by-side comparison](#side-by-side-comparison)
+4. [Signs it's time to build a store](#signs-it-s-time-to-build-a-store)
+5. [You don't have to choose](#you-don-t-have-to-choose)
+6. [How to get started](#how-to-get-started)
+
+**E-commerce store development**
+
+Shopify and WooCommerce stores, built to sell and managed if you want.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+E-commerce4 min read
+
+### Shopify vs WooCommerce: which is better for your online store?
+
+A plain comparison of costs, ease of use, control, payments and growth — and a simple way to decide which fits your store.
+
+Read the article
+
+Page: https://zenraai.com/blog/shopify-vs-woocommerce/
+
+AI3 min read
+
+### What is AI tool development? 5 ways custom AI tools help small businesses
+
+What custom AI tools are, where they save real time and money, and how to start a first project without wasting budget.
+
+Read the article
+
+Page: https://zenraai.com/blog/what-is-ai-tool-development/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/how-to-download-videos-on-pc/
+Title: How to Download Videos on PC in HD and 4K (2026 Guide) | Zenra AI
+Description: A step-by-step guide to saving videos, playlists and audio on Windows in the quality you want — and how to do it responsibly.
+
+Guides
+
+# How to download videos on a PC in HD and 4K (2026 guide)
+
+A step-by-step guide to saving videos, playlists and audio on Windows in the quality you want — and how to do it responsibly.
+
+Updated October 21, 20263 min readZenra AI team
+
+Saving a video to your computer is useful for editing, presenting offline, archiving your own content or watching on a slow connection. This guide shows how to download videos, whole playlists and audio on a Windows PC in the quality you want, using [Zenra Video Downloader](https://zenraai.com/tools/zenra-video-downloader/).
+
+**Download responsibly.** Only download content you own, have permission to use, or that the platform allows you to save, and follow each platform's terms.
+
+## What you need
+
+- A Windows 10 or Windows 11 PC.
+- Zenra Video Downloader — every new PC gets a 1-day free trial with full access.
+- The link to the video, playlist or channel.
+
+## Step by step
+
+1. **Install the app.** Download it from the [product page](https://zenraai.com/tools/zenra-video-downloader/), open the installer and follow the steps. If Windows shows “Windows protected your PC”, click More info, then Run anyway — new apps without a paid certificate show this once.
+2. **Copy the link.** Open the video in your browser or app and copy its address. It works with YouTube, TikTok, Instagram, Facebook, X, Snapchat and many other sites.
+3. **Paste it into the app.** Paste one link, or several links at once for a batch.
+4. **Choose the quality.** Pick 4K, 1440p, 1080p or MP3 audio — or Best quality to get the highest version available.
+5. **Download.** Downloads run side by side, up to five at a time. When a file is ready, click Open to go straight to it.
+
+## Download a whole playlist or channel
+
+Paste a playlist or channel link instead of a single video. The app saves every video into its own folder, so a course, a series or a creator's Shorts stay organized. You can pause the batch and resume it later.
+
+## Getting the best quality
+
+- **Best quality** automatically picks the highest resolution the video offers.
+- **4K needs a 4K source.** If the original was uploaded in 1080p, that's the highest quality available.
+- **Higher quality means bigger files.** A few minutes of 4K video can take several hundred megabytes.
+- **MP3** saves just the audio — handy for podcasts, lectures and music you have rights to.
+
+## Troubleshooting
+
+- **A site stopped working.** Websites change often. Use the one-click engine update in the app to get the latest fixes.
+- **Downloads are slow.** Run fewer downloads at the same time, or check your connection.
+- **A video won't download.** Private, members-only and paid videos can't be downloaded.
+- **A download failed.** Open your history and press Retry.
+
+## Download responsibly
+
+Downloading is a convenience, not a license to reuse other people's work. Keep downloads for personal use unless you have permission, credit creators, and never re-upload content you don't own. If you're saving your own videos for editing — for example to turn a long video into short clips — you're in the clear.
+
+Ready to try it? [Get Zenra Video Downloader](https://zenraai.com/tools/zenra-video-downloader/) and use every feature free for a full day.
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [What you need](#what-you-need)
+2. [Step by step](#step-by-step)
+3. [Download a whole playlist or channel](#download-a-whole-playlist-or-channel)
+4. [Getting the best quality](#getting-the-best-quality)
+5. [Troubleshooting](#troubleshooting)
+6. [Download responsibly](#download-responsibly)
+
+**Zenra Video Downloader**
+
+Videos, playlists and channels in up to 4K or MP3. 1-day free trial.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+Video4 min read
+
+### How to turn one long video into 30 short clips
+
+A practical workflow for turning podcasts, interviews and vlogs into Shorts, Reels and TikToks — what makes a clip work, and how to do it in hours, not days.
+
+Read the article
+
+Page: https://zenraai.com/blog/turn-long-videos-into-short-clips/
+
+Video3 min read
+
+### How to split a long video for WhatsApp Status on a PC (free)
+
+Split any video into equal parts for WhatsApp Status, Shorts or Reels — free, in original quality, with no watermark and no upload.
+
+Read the article
+
+Page: https://zenraai.com/blog/split-video-for-whatsapp-status/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/shopify-vs-woocommerce/
+Title: Shopify vs WooCommerce: Which Is Better for Your Online Store?
+Description: Shopify or WooCommerce? A plain comparison of costs, ease of use, control, payments and growth — and a simple way to decide which fits your online store.
+
+E-commerce
+
+# Shopify vs WooCommerce: which is better for your online store?
+
+Both run millions of stores. The right one depends on how much control you want, who will run the store, and how fast you need to start selling.
+
+Updated November 3, 20264 min readZenra AI team
+
+Shopify and WooCommerce are the two most popular ways to build an online store. They solve the same problem in different ways. **Shopify** is a hosted platform you subscribe to: hosting, security and updates are handled for you. **WooCommerce** is a free plugin that turns a WordPress website into a store you host and control yourself.
+
+## The short answer
+
+- Choose **Shopify** if you want to start selling fast, with the least technical upkeep.
+- Choose **WooCommerce** if you want full control over your store and data, already run a WordPress site, or need features a hosted platform can't offer.
+
+## Side-by-side comparison
+
+| Compared | Shopify | WooCommerce |
+| --- | --- | --- |
+| What it is | An all-in-one, hosted store platform | A free plugin for WordPress |
+| Hosting and security | Included and handled by Shopify | Your own hosting, kept updated by you or your developer |
+| Running costs | A monthly plan, plus paid apps and payment fees | Hosting and domain, plus paid extensions and payment fees |
+| Ease of use | The easiest to run day to day | Flexible, with a little more upkeep |
+| Design and features | Themes and a large app store | Themes, plugins and full access to the code |
+| Payments | Shopify Payments where available, or other gateways | Stripe, PayPal and many local gateways through extensions |
+
+## When Shopify is the better choice
+
+- You want a professional store live quickly and don't want to manage hosting or updates.
+- Your team isn't technical and needs a simple admin for products, orders and discounts.
+- You expect to grow fast and want the platform to handle traffic spikes for you.
+
+## When WooCommerce is the better choice
+
+- You already have a WordPress website with content that ranks, and want the store on the same site.
+- You want full ownership of the code, the data and the hosting.
+- You need custom features, product types or checkout rules that a hosted platform makes difficult.
+
+## What about costs?
+
+Neither is "free" once you start selling. With Shopify you pay a monthly plan, any paid apps and payment processing fees. With WooCommerce the plugin is free, but you pay for hosting, a domain, any paid extensions and payment processing fees — and someone has to keep it updated. Both change their prices from time to time, so check the current plans on [Shopify's pricing page](https://www.shopify.com/pricing) and [WooCommerce.com](https://woocommerce.com/) before you decide.
+
+## Can you switch later?
+
+Yes. Products, customers and orders can be moved from one platform to the other. The important part is protecting your search rankings: keep or redirect every old URL and carry over titles and descriptions. Done carefully, customers and search engines barely notice the move.
+
+## How to decide in five minutes
+
+- Who will run the store every day — you, a non-technical team, or a developer?
+- Do you already have a WordPress site worth keeping?
+- Do you need anything unusual: custom product options, bookings, subscriptions or special checkout rules?
+- Which payment methods do your customers use, and are they available on each platform in your country?
+
+Still unsure? [Tell us what you sell and where](https://zenraai.com/contact/?service=ecommerce) — we'll recommend the platform that fits, and build the store in days.
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [The short answer](#the-short-answer)
+2. [Side-by-side comparison](#side-by-side-comparison)
+3. [When Shopify is the better choice](#when-shopify-is-better)
+4. [When WooCommerce is the better choice](#when-woocommerce-is-better)
+5. [What about costs?](#what-about-costs)
+6. [Can you switch later?](#can-you-switch-later)
+7. [How to decide in five minutes](#how-to-decide)
+
+**E-commerce store development**
+
+Shopify, WooCommerce and custom stores built to sell — delivered in days.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+E-commerce3 min read
+
+### E-commerce website vs. Facebook page: which is better for selling online?
+
+Selling through social media is a great start. Here's how it compares with your own online store, and the signs it's time to build one.
+
+Read the article
+
+Page: https://zenraai.com/blog/ecommerce-website-vs-facebook-page/
+
+AI4 min read
+
+### AI agent vs chatbot: what's the difference, and which do you need?
+
+A chatbot answers questions. An AI agent also takes actions in your apps. How they differ, what each costs to run, and how to choose.
+
+Read the article
+
+Page: https://zenraai.com/blog/ai-agent-vs-chatbot/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/split-video-for-whatsapp-status/
+Title: How to Split a Video for WhatsApp Status on PC (Free) | Zenra AI
+Description: Split a long video into equal parts for WhatsApp Status, Shorts or Reels on a Windows PC — free, in original quality, with no watermark and no upload.
+
+Video
+
+# How to split a long video for WhatsApp Status on a PC (free)
+
+Post a long video to your Status in parts — in the right order, in original quality, without cutting a word in half.
+
+Updated November 3, 20263 min readZenra AI team
+
+WhatsApp Status plays each video only up to a set length, so a longer video has to be posted in parts. Cutting it by hand in an editor is slow, the parts come out uneven, and a cut often lands in the middle of a word.
+
+This guide shows how to split any video into equal parts on a Windows PC in a few seconds, free, using [Zenra Video Splitter](https://zenraai.com/tools/zenra-video-splitter/). The same steps work for YouTube Shorts and Instagram Reels.
+
+## What you need
+
+- A Windows 10 or Windows 11 PC (64-bit).
+- Zenra Video Splitter — free, with no watermark and no sign-up.
+- Your video. MP4, MKV, MOV, AVI, WEBM and most other video files work.
+
+## Step by step
+
+1. **Install the app.** Download it from the [product page](https://zenraai.com/tools/zenra-video-splitter/) and run the installer. If Windows shows “Windows protected your PC”, click More info, then Run anyway — new apps without a paid certificate show this once.
+2. **Select your video.** Click Browse, or drag the video onto the app.
+3. **Type the number of clips.** The app shows how long each clip will be, so you can pick a number that fits your Status.
+4. **Choose a folder.** Your video's folder is filled in for you. The clips are saved in a new folder named after the video.
+5. **Press Split Video.** A 20-minute video splits into 20 clips in a few seconds. Click Open Folder to see them.
+
+## How many parts should you use?
+
+Divide the length of your video by the longest clip your Status allows, and round up. For example, a 10-minute video with a one-minute limit needs at least 10 parts.
+
+When your clips come out close to a 60- or 90-second limit — or 3 minutes for Shorts and Reels — the splitter makes sure no clip goes over it, so WhatsApp never trims the end of a part.
+
+## Why the quality stays the same
+
+Most video splitters re-encode the whole video, which takes time and softens the picture. Zenra Video Splitter copies the clips straight from your original file in most cases, so they look exactly like it. Only when a video's structure needs it are a few frames at a cut re-encoded, at very high quality.
+
+It also moves each cut to a natural pause, so nobody's sentence is cut in half between two parts.
+
+## Post the parts in order
+
+- Move the clips to your phone — with a USB cable or the cloud folder you already use.
+- Post part 1 first. Status shows updates in the order you post them.
+- Make the first part strong: it decides whether people keep watching.
+
+Everything happens on your PC: nothing is uploaded, and there's no watermark on your clips.
+
+## Want clips that pick themselves?
+
+Splitting gives you equal parts. If you'd rather post only the best moments — with captions, titles and the speaker kept in frame — [Zenra AI Viral Clips](https://zenraai.com/tools/zenra-ai-viral-clips/) finds them for you. Read [how to turn one long video into 30 short clips](https://zenraai.com/blog/turn-long-videos-into-short-clips/).
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [What you need](#what-you-need)
+2. [Step by step](#step-by-step)
+3. [How many parts should you use?](#how-many-parts)
+4. [Why the quality stays the same](#why-quality-stays-the-same)
+5. [Post the parts in order](#post-the-parts)
+6. [Want clips that pick themselves?](#want-clips-that-pick-themselves)
+
+**Zenra Video Splitter**
+
+Split any video into equal clips in seconds. Free, no watermark.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+Video4 min read
+
+### How to turn one long video into 30 short clips
+
+A practical workflow for turning podcasts, interviews and vlogs into Shorts, Reels and TikToks — what makes a clip work, and how to do it in hours, not days.
+
+Read the article
+
+Page: https://zenraai.com/blog/turn-long-videos-into-short-clips/
+
+Guides4 min read
+
+### How to download videos on a PC in HD and 4K (2026 guide)
+
+A step-by-step guide to saving videos, playlists and audio on Windows in the quality you want — and how to do it responsibly.
+
+Read the article
+
+Page: https://zenraai.com/blog/how-to-download-videos-on-pc/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/turn-long-videos-into-short-clips/
+Title: How to Turn One Long Video Into 30 Short Clips | Zenra AI
+Description: A practical workflow for turning podcasts, interviews and vlogs into Shorts, Reels and TikToks — what makes a clip work, and how to do it in hours, not days.
+
+Video
+
+# How to turn one long video into 30 short clips
+
+A practical workflow for turning podcasts, interviews and vlogs into Shorts, Reels and TikToks — what makes a clip work, and how to do it in hours, not days.
+
+Updated October 21, 20264 min readZenra AI team
+
+A one-hour podcast, interview or webinar is the most efficient content most creators and businesses ever make. The problem is that very few people watch an hour of anything from someone they don't know yet. Short vertical clips are how new viewers find you — and a single long video can feed YouTube Shorts, Instagram Reels and TikTok for weeks.
+
+This guide covers what makes a short clip work, the manual workflow editors use, and a faster way to do the same job with AI.
+
+## Why clips from long videos work
+
+Short-form feeds reward frequency and strong openings. Long-form content is where trust is built. Clipping connects the two: each short introduces one idea, and the people who like it go looking for the full conversation. You aren't inventing new content every day — you're putting the best moments of work you've already done in front of more people.
+
+- **You already have the material.** One recording can produce dozens of posts.
+- **You can post consistently.** A backlog of clips makes a daily schedule realistic.
+- **You learn what lands.** Each clip tests a different idea, hook or guest.
+
+## What makes a short clip work
+
+The best clips share four things, whatever the topic:
+
+1. **A hook in the first two seconds.** A question, a bold claim, a surprising number or a strong reaction. If the clip starts with “so, um, anyway”, most viewers are gone.
+2. **One complete idea.** A setup and a payoff. The clip should end when the point lands — not mid-sentence, and not half a minute later.
+3. **The speaker in frame.** In a 9:16 crop of a wide video, the person talking has to stay centered — and when two people go back and forth, viewers want to see both.
+4. **Readable captions.** Many people scroll with the sound off. Big, high-contrast captions that highlight each word as it's spoken keep them watching.
+
+Length matters less than completeness. Fifteen to sixty seconds is ideal for discovery; up to three minutes works when the story needs it.
+
+## The manual workflow (and why it takes so long)
+
+Here's how an editor usually clips a long video by hand:
+
+1. Watch or transcribe the whole video.
+2. Mark every moment with a strong hook and a clear payoff.
+3. Cut each clip so it starts and ends cleanly.
+4. Reframe it to 9:16 and keep the active speaker in the shot, cut by cut.
+5. Add word-by-word captions and fix the transcript errors.
+6. Write a title and hashtags, export, and name the files.
+
+For a one-hour video and twenty or thirty clips, that's easily a full working day — often more. It's why many teams post far less than they could.
+
+## The faster workflow with AI
+
+Modern tools can do most of those steps automatically. Our own app, [Zenra AI Viral Clips](https://zenraai.com/tools/zenra-ai-viral-clips/), was built for exactly this job on Windows:
+
+1. **Add your video** — drag it onto the app. Long videos are welcome; longer videos give more clips.
+2. **Pick your style** — quality up to 4K, clip length from 15 seconds to 3 minutes, one of five caption styles and your logo.
+3. **Make the clips** — the AI transcribes the video, finds the strongest moments, frames the speaker (with a split screen for back-and-forth conversations) and adds captions and titles.
+4. **Review and post** — clips are ranked, so start with #01. One click copies the title and hashtags.
+
+Your video is processed on your own PC, and there's no watermark. The app is launching soon with a 30-day free trial.
+
+## How many clips can one video give you?
+
+It depends on how dense the conversation is, but as a guide, a one-hour podcast gives about thirty clips of 15 seconds, or about ten clips of three minutes. Interviews and panels with lots of back-and-forth usually give more strong moments than a scripted talk.
+
+## Tips for posting your clips
+
+- **Lead with your best.** Post the strongest clip first; it sets how the platform judges the next ones.
+- **Test hooks.** The same moment with a different first line can perform very differently.
+- **Keep a steady schedule.** One or two clips a day beats ten in one afternoon.
+- **Post everywhere.** The same vertical clip works on Shorts, Reels and TikTok.
+- **Watch retention, not just views.** The share of people who watch to the end tells you which ideas to make more of.
+
+## Quick checklist
+
+- Hook in the first two seconds
+- One complete idea, clean start and end
+- Speaker centered; both people visible in conversations
+- Word-by-word captions, easy to read on a phone
+- Clear title, a few relevant hashtags, your logo
+
+Need a custom video pipeline for your brand or platform? We build those too — see [custom AI tool development](https://zenraai.com/services/ai-tool-development/).
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [Why clips from long videos work](#why-clips-from-long-videos-work)
+2. [What makes a short clip work](#what-makes-a-short-clip-work)
+3. [The manual workflow (and why it takes so long)](#the-manual-workflow-and-why-it-takes-so-long)
+4. [The faster workflow with AI](#the-faster-workflow-with-ai)
+5. [How many clips can one video give you?](#how-many-clips-can-one-video-give-you)
+6. [Tips for posting your clips](#tips-for-posting-your-clips)
+7. [Quick checklist](#quick-checklist)
+
+**Zenra AI Viral Clips**
+
+Turns long videos into captioned 9:16 clips automatically. Launching soon.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+Video3 min read
+
+### How to split a long video for WhatsApp Status on a PC (free)
+
+Split any video into equal parts for WhatsApp Status, Shorts or Reels — free, in original quality, with no watermark and no upload.
+
+Read the article
+
+Page: https://zenraai.com/blog/split-video-for-whatsapp-status/
+
+Guides4 min read
+
+### How to download videos on a PC in HD and 4K (2026 guide)
+
+A step-by-step guide to saving videos, playlists and audio on Windows in the quality you want — and how to do it responsibly.
+
+Read the article
+
+Page: https://zenraai.com/blog/how-to-download-videos-on-pc/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/blog/what-is-ai-tool-development/
+Title: What Is AI Tool Development? 5 Ways It Helps Small Businesses
+Description: What custom AI tools are, where they save real time and money, and how to start a first project without wasting budget.
+
+AI
+
+# What is AI tool development? 5 ways custom AI tools help small businesses
+
+What custom AI tools are, where they save real time and money, and how to start a first project without wasting budget.
+
+Updated October 21, 20263 min readZenra AI team
+
+“AI tool development” means building software that uses AI models to do a specific job inside your business — answering questions from your own documents, turning invoices into data, drafting replies, or adding smart search to your product. It's different from subscribing to a general chatbot: a custom tool fits your workflow, connects to your systems and belongs to you.
+
+This article explains what that looks like in practice, five places it pays off for small businesses, and how to start without wasting budget.
+
+## What counts as an AI tool?
+
+Most useful business AI tools fall into a handful of patterns:
+
+- **Assistants** that answer customer or staff questions from your own content.
+- **Document processing** that reads forms, invoices, contracts or emails and extracts the fields you need.
+- **Workflow automation** where AI handles the steps between apps: sorting, summarizing, drafting, routing.
+- **Content tools** that help produce product descriptions, reports or short video clips faster.
+- **AI features** inside an existing website or app, such as search, summaries or recommendations.
+
+## Off-the-shelf or custom?
+
+Ready-made AI products are a great place to start. Custom tools make sense when the task is specific to your business or touches your own systems.
+
+| Compared | Off-the-shelf AI app | Custom AI tool |
+| --- | --- | --- |
+| Speed to start | Minutes | A few days |
+| Fit to your workflow | Generic | Built around it |
+| Connects to your systems | Limited | Yes, through APIs |
+| Data and ownership | Stays on their platform | In your accounts |
+| Cost model | Per-seat subscription | Build cost plus usage |
+
+## 5 ways custom AI tools help small businesses
+
+### 1. Answer customer questions instantly
+
+An assistant trained on your website, policies and product details can answer common questions at any hour, show where the answer came from, and hand the conversation to a person when it should. **Measure:** response time, share of questions resolved without a person, customer satisfaction.
+
+### 2. Turn documents into data
+
+Instead of typing invoice totals, order details or form fields by hand, a tool can read the document, extract the data and send it to your accounting or CRM system — flagging anything it isn't sure about. **Measure:** hours saved per week, error rate.
+
+### 3. Automate the steps between apps
+
+Many jobs are a chain: an email arrives, someone reads it, updates a spreadsheet and creates a task. AI can handle the reading and deciding; automation handles the rest. **Measure:** turnaround time, items handled per day.
+
+### 4. Create content faster
+
+Draft product descriptions in your brand voice, summarize long reports, or turn a long video into short clips with captions — the approach behind our own app, [Zenra AI Viral Clips](https://zenraai.com/tools/zenra-ai-viral-clips/). People stay in charge of the final version. **Measure:** time per piece, output per week.
+
+### 5. Get answers from your own data
+
+Ask questions in plain language across your documents, tickets or sales notes, and get summaries and reports without digging. **Measure:** time to find information, decisions made with data.
+
+## How to start without wasting budget
+
+1. **Pick one repetitive task** that takes real time every week.
+2. **Measure it today** — how long it takes and what mistakes cost.
+3. **Prototype on real examples** before building the full tool.
+4. **Keep a person in the loop** for anything that affects customers or money.
+5. **Estimate running costs** per task, not just the build cost.
+
+## What does it cost?
+
+There are two parts: building the tool, and running it. Build cost depends on the number of steps, integrations and screens. Running cost depends on how often the AI is used and which model does the work — for many business tasks it's a few cents per task or less, and smart caching and model choice keep it predictable. A small prototype is the cheapest way to find out whether the full build is worth it.
+
+## Questions to ask an AI developer
+
+- How will our data be stored, and is it used to train anyone's models?
+- Which model will you use, and can it be changed later?
+- How will we know when the AI is wrong, and what happens then?
+- Who owns the code and the AI accounts?
+- What will it cost to run each month?
+
+Thinking about a first AI project? [Tell us about the task](https://zenraai.com/contact/?service=ai-tools) and we'll suggest the simplest version worth building.
+
+**Written by the Zenra AI team**We build AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps — and write about what we learn.
+
+**On this page**
+
+1. [What counts as an AI tool?](#what-counts-as-an-ai-tool)
+2. [Off-the-shelf or custom?](#off-the-shelf-or-custom)
+3. [5 ways custom AI tools help small businesses](#5-ways-custom-ai-tools-help-small-businesses)
+4. [How to start without wasting budget](#how-to-start-without-wasting-budget)
+5. [What does it cost?](#what-does-it-cost)
+6. [Questions to ask an AI developer](#questions-to-ask-an-ai-developer)
+
+**Custom AI tool development**
+
+Custom assistants, document processing and automations, with a fixed quote.
+
+## Keep reading
+
+[All articles](https://zenraai.com/blog/)
+
+AI4 min read
+
+### AI agent vs chatbot: what's the difference, and which do you need?
+
+A chatbot answers questions. An AI agent also takes actions in your apps. How they differ, what each costs to run, and how to choose.
+
+Read the article
+
+Page: https://zenraai.com/blog/ai-agent-vs-chatbot/
+
+Apps4 min read
+
+### Desktop app vs web app: which should your business build?
+
+Compare speed, offline use, updates, cost and reach — with real examples — and find out which one fits your users and your budget.
+
+Read the article
+
+Page: https://zenraai.com/blog/desktop-app-vs-web-app/
+
+## Tell us what you're building.
+
+Share a few details about your project. We reply within one business day with questions or next steps — no obligation.
+
+Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/contact/
+Title: Contact Zenra AI — Start a Project or Get a Free Estimate
+Description: Tell us about your project — AI agents, custom AI tools, websites, online stores or Windows, Mac and mobile apps. We reply within one business day.
+
+# Start a project
+
+Tell us a little about what you need. We'll reply within one business day with questions or next steps — no obligation, and no pressure.
+
+## What happens next
+
+1. We reply within one business day with any questions.
+2. A free 30-minute call to understand your goals.
+3. A written proposal with scope, timeline and a fixed quote.
+
+## Prefer to chat?
+
+Message us on WhatsApp for a quick answer, or send an email.
+
+[support@zenraai.com](mailto:support@zenraai.com)
+
+## Using one of our apps?
+
+For help with Zenra Video Downloader, Zenra AI Viral Clips or Zenra Video Splitter, message our support team.
+
+## Follow Zenra AI
+
+News, launches and updates from the team.
+
+---
+
+URL: https://zenraai.com/privacy/
+Title: Privacy Policy | Zenra AI
+Description: How Zenra AI collects, uses and protects information on zenraai.com and in our apps, including analytics cookies, the contact form and license checks.
+
+# Privacy policy
+
+Last updated November 3, 2026
+
+This policy explains what information Zenra AI (“we”, “us”) collects when you use zenraai.com and our apps — Zenra AI Viral Clips, Zenra Video Downloader and Zenra Video Splitter — and how we use it. If you have a question, email [support@zenraai.com](mailto:support@zenraai.com).
+
+**In short:** we collect as little as possible. Website analytics run only with your consent where the law requires it. Your videos stay on your PC. We never sell your information, and advertising cookies are used only if you allow them.
+
+## Information we collect on this website
+
+### Analytics
+
+If you allow it, we use Google Analytics 4 to understand how people use the site: pages viewed, approximate location (country and city), device and browser type, how you arrived, and clicks on buttons such as Download and Contact. Google Analytics uses cookies (for example `_ga`). Google Analytics 4 does not log or store IP addresses. Google Signals is off.
+
+If we turn it on, Microsoft Clarity also helps us see, in aggregate, how pages are used — for example where people click and how far they scroll — so we can fix confusing pages. Clarity follows the same consent choice as Google Analytics, masks text you type into forms, and is not used for advertising.
+
+Visitors in the European Economic Area, the United Kingdom and Switzerland are asked for consent first, and analytics and advertising stay off unless you accept. Everyone can change their choice at any time with **Cookie settings** in the footer.
+
+### Advertising
+
+If you allow it, we use the Meta Pixel (from Meta, the company behind Facebook and Instagram) and Google advertising tags, loaded through Google Tag Manager. They record which pages you visit on zenraai.com and actions such as clicking Download, Contact or WhatsApp, or sending the contact form. We use this to measure our ads and to show Zenra AI ads to people who visited our site. Meta and Google may link this to your account with them under their own privacy policies. We never send them what you type into the contact form.
+
+### Contact form
+
+When you send the contact form we receive your name, email, company or website (if given), the service, budget and timeline you chose, how you found us (if given) and your message. The form is delivered to our inbox by Web3Forms, a form-delivery service. If the form opens WhatsApp instead, your message is sent through WhatsApp.
+
+### WhatsApp and email
+
+If you message us, we receive your name, phone number or email address and the messages you send. WhatsApp is operated by WhatsApp LLC under its own privacy policy.
+
+## Information our apps process
+
+- **Trial and license checks** (Viral Clips and Video Downloader): an anonymous device ID generated on your PC, your plan, trial and expiry dates and your license key are stored with our database provider, Supabase, to activate your plan and prevent misuse.
+- **Update checks** (all apps): the apps download a small version file from GitHub to see whether an update is available. GitHub may log your IP address when files are downloaded.
+- **Zenra AI Viral Clips**: your videos are processed on your PC. If you add a Groq key or your own AI key, the audio (for speech-to-text) and the transcript text are sent to the provider you chose — Groq, Google, OpenAI, Anthropic, OpenRouter or DeepSeek — under that provider's terms. Your keys are stored encrypted on your PC and are never sent to us.
+- **Zenra Video Downloader**: videos are downloaded directly from the source website to your PC. We don't receive the links you paste or the files you download.
+- **Zenra Video Splitter**: works entirely on your PC. Nothing is uploaded.
+- **Support details**: we only see error details or logs if you choose to send them to us.
+
+## How we use information
+
+- To reply to inquiries and to plan, deliver and support projects.
+- To provide our apps: trials, licenses, updates and support.
+- To keep our website and apps secure and prevent misuse.
+- To understand what's useful and improve the website and our products.
+- To measure our ads and show Zenra AI ads to people who visited our website — only if you allow advertising cookies.
+- To meet legal, tax and accounting obligations.
+
+If you're in the EEA or the UK, we rely on your consent (analytics and advertising), the performance of a contract (licenses and projects), our legitimate interests (security, product improvement and replying to inquiries) and legal obligations.
+
+## Cookies and local storage
+
+| Name | Purpose | Duration |
+| --- | --- | --- |
+| `_ga`, `_ga_*` | Google Analytics: tells visits apart and measures how the site is used. Set only when analytics are allowed. | Up to 2 years |
+| `_clck`, `_clsk` | Microsoft Clarity (only if we turn it on): groups page views into a visit. Set only when analytics are allowed. | Up to 1 year |
+| `_fbp`, `_fbc` | Meta Pixel: measures visits from Facebook and Instagram ads and builds ad audiences. Set only when advertising is allowed. | Up to 90 days |
+| `_gcl_*` | Google advertising (through Google Tag Manager): measures visits from Google ads. Set only when advertising is allowed. | Up to 90 days |
+| `zenra_consent` (local storage) | Remembers whether you accepted or declined cookies. | Until you clear it |
+
+You can change your choice at any time with **Cookie settings** in the footer, or by clearing cookies in your browser.
+
+## Who we share information with
+
+We share information only with service providers that help us run the website and apps, and only as needed: Google (analytics and advertising), Meta (advertising), Microsoft (Clarity, if we turn it on), Web3Forms (contact form delivery), Supabase (license database), GitHub (website hosting and app downloads), WhatsApp (messaging) and — only when you add a key in Viral Clips — the AI provider you chose. We may also disclose information if the law requires it. We don't sell personal information. Advertising partners receive browsing data only if you allow advertising cookies — see Advertising above.
+
+## International transfers
+
+Our providers may process information in countries other than yours, including the United States. Where required, they use safeguards such as standard contractual clauses.
+
+## How long we keep information
+
+- Inquiries: for as long as needed to respond and handle any project that follows, then deleted.
+- Client project records: for as long as required by tax and accounting rules.
+- License records: for the life of your license and a reasonable period after it ends.
+- Analytics: no longer than 14 months.
+
+## Your rights
+
+Depending on where you live, you can ask to access, correct, delete or export your information, object to or restrict how we use it, and withdraw consent at any time. Email [support@zenraai.com](mailto:support@zenraai.com) and we'll respond within 30 days. You can also complain to your local data protection authority.
+
+California residents: we don't sell personal information for money. If you allow advertising cookies, Meta and Google receive browsing data from our site for advertising, which California law may call sharing for cross-context behavioral advertising. You can opt out at any time with Cookie settings in the footer (choose Decline).
+
+## Children
+
+Our website and apps are not directed at children under 13 (or under 16 in the EEA), and we don't knowingly collect their information.
+
+## Security
+
+We use reasonable technical and organizational measures to protect information, including encrypted connections, restricted access and keys stored securely. No method of transmission or storage is completely secure.
+
+## Changes
+
+We may update this policy. When we do, we'll change the date at the top of this page.
+
+## Contact
+
+Zenra AI — [support@zenraai.com](mailto:support@zenraai.com)
+
+---
+
+URL: https://zenraai.com/terms/
+Title: Terms of Use | Zenra AI
+Description: The terms for using zenraai.com and Zenra AI apps: software license, plans and payments, refunds, acceptable use and liability.
+
+# Terms of use
+
+Last updated November 3, 2026
+
+These terms apply when you use zenraai.com and the apps published by Zenra AI (“we”, “us”): Zenra AI Viral Clips, Zenra Video Downloader and Zenra Video Splitter. By using the website or the apps, you agree to them. Questions: [support@zenraai.com](mailto:support@zenraai.com).
+
+## Client projects
+
+Services such as AI development, web development, design and store management are provided under a written proposal or agreement. If that document and these terms differ, the signed proposal or agreement applies.
+
+## Using the website
+
+You may use the website for lawful purposes. Please don't try to disrupt it, access it in unauthorized ways or copy its content for commercial use without permission. Articles and guides are general information, not professional advice for your situation.
+
+## Software license
+
+- We grant you a personal, non-exclusive, non-transferable license to install and use our apps. A paid license key works on one PC.
+- Free trials give full access for the stated period, once per PC.
+- You may not resell, share or publish license keys, or reverse engineer, modify or redistribute the apps, except where the law allows it.
+- We may update the apps to add features, fix problems or keep them working with other services.
+
+## Plans and payments
+
+- Prices are shown on this website or inside the app. Zenra AI Viral Clips prices are in US dollars.
+- You buy a plan through WhatsApp using a payment method we agree with you. Your license key is sent after payment is confirmed.
+- Time-limited plans last for the stated number of days from activation. A new key adds its days after your current plan. Lifetime plans give access for as long as we offer the app, including the updates we release.
+
+## Refunds
+
+Every paid app has a free trial so you can check it works for you before buying, so purchases are generally non-refundable. If a technical problem we can't fix stops an app from working on your PC, contact us within 7 days of purchase and we'll review a refund.
+
+### Pre-orders
+
+Before an app launches, you can pre-order a plan. Your license key is sent on launch day, and the plan starts when you activate it. If you change your mind before launch, tell us and we'll refund your payment in full.
+
+## Acceptable use
+
+You are responsible for how you use the apps and for the content you process with them. Download, edit and publish only content you own or have permission to use, and follow the terms of the platforms you use. Don't use our apps or website for anything illegal or harmful.
+
+## Third-party services
+
+Some features depend on services we don't control, such as video platforms, AI providers and WhatsApp. Their terms apply to your use of them, and they may change in ways that affect our apps.
+
+## Intellectual property
+
+The website, our apps, the Zenra AI name and logo belong to us. For client projects, ownership of deliverables is set out in the proposal; in general, it passes to the client once the project is paid in full.
+
+## Disclaimers
+
+The website and apps are provided “as is”. We work hard to keep them reliable, but we can't promise they will always be available, error-free or compatible with every third-party service.
+
+## Limitation of liability
+
+To the extent the law allows, we are not liable for indirect or consequential losses, and our total liability for any claim is limited to the amount you paid us in the 12 months before the claim.
+
+## Changes
+
+We may update these terms. When we do, we'll change the date at the top of this page. Continuing to use the website or apps means you accept the updated terms.
+
+## Contact
+
+Zenra AI — [support@zenraai.com](mailto:support@zenraai.com)
+
