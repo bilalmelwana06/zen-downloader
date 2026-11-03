@@ -1,6 +1,6 @@
 # Zenra AI — full text of the main pages
 
-> Zenra AI is an AI and software development studio, founded in 2025 and working remote-first with clients worldwide. It designs, builds and launches AI agents, custom AI tools, websites and web apps, online stores, and Windows, Mac and mobile apps. It also makes its own apps for creators: Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter.
+> Zenra AI is an AI and software development company working with clients worldwide. It designs, builds and launches AI agents, custom AI tools, websites and web apps, online stores, and Windows, Mac and mobile apps. It also makes its own apps for creators: Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter.
 
 Source: https://zenraai.com — this file is generated from the website. Short version: https://zenraai.com/llms.txt
 
@@ -96,7 +96,7 @@ A reply within one business day, in clear English, with answers you can act on.
 
 ## Software we build — and use ourselves.
 
-We design, ship and support our own apps — on Windows today, with Mac versions on the way — with licensing, payments and automatic updates for real users. The same team and standards go into client work.
+We design, ship and support our own apps — on Windows today, with Mac versions on the way — with licensing, payments and automatic updates. The same standards go into every client project.
 
 **Zenra Video Downloader**Available now
 
@@ -206,14 +206,14 @@ Updates, backups, monitoring and small fixes, so everything keeps running.
 
 ## Why teams choose Zenra AI
 
-Big-agency standards without the layers. The people you talk to are the people who build — and they answer quickly.
+Agency-grade quality, delivered in days — with clear communication and one point of contact from the first call to launch.
 
 - ### AI-first, not AI-everything
 
   We use AI where it measurably saves time or money — and plain, reliable software everywhere else.
 - ### Product-company habits
 
-  We ship and support our own apps, so we plan for real users, updates and support from day one.
+  We ship and support our own apps, so we plan for users, updates and support from day one.
 - ### No hand-offs
 
   Strategy, design, development and support in one team, with one point of contact.
@@ -225,11 +225,11 @@ Big-agency standards without the layers. The people you talk to are the people w
   Clean, documented work in your own accounts, so any capable developer can continue it.
 - ### Worldwide, on your time
 
-  Remote-first, in English, with calls scheduled around your time zone.
+  Clients around the world, in English, with calls scheduled around your time zone.
 
 ## Who we work with
 
-Founders and growing companies around the world — usually with a clear goal and a small team that needs to move fast.
+Founders and growing companies around the world — usually with a clear goal and a team that needs to move fast.
 
 - ### Startups & founders
 
@@ -256,7 +256,7 @@ Something else on your mind? [Ask us directly](https://zenraai.com/contact/) —
 
 How much does a project cost?
 
-Projects start from $199 for a landing page, $499 for a business website, an online store or an AI chatbot, $799 for an AI agent pilot and $999 for a desktop app. After a short chat we send a fixed quote in writing, split into milestones, so you know the full price before any work starts. See all [starting prices](https://zenraai.com/services/#pricing).
+It depends on your budget and on what you want to build. Start by [filling in the project form](https://zenraai.com/contact/) and sharing your idea — a few lines are enough. We'll reply with a free estimate within one business day, and after a short chat you get a fixed quote in writing, split into milestones, before any work starts.
 
 How long does a project take?
 
@@ -333,18 +333,18 @@ Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
 ---
 
 URL: https://zenraai.com/about/
-Title: About Zenra AI — AI & Software Development Studio
-Description: Zenra AI is a remote-first studio building AI agents, custom AI tools, websites, online stores and Windows, Mac and mobile apps for businesses worldwide.
+Title: About Zenra AI — AI & Software Development Company
+Description: Zenra AI is an AI and software development company: AI agents, custom AI tools, websites, online stores and Windows, Mac and mobile apps for clients worldwide.
 
 # About Zenra AI
 
-We're an AI and software development studio. We build AI agents, custom AI tools, websites, web apps, online stores and Windows, Mac and mobile apps for businesses around the world — and our own apps for creators.
+Zenra AI is an AI and software development company. We build AI agents, custom AI tools, websites, web apps, online stores and Windows, Mac and mobile apps for businesses around the world — and our own apps for creators.
 
 Most businesses don't need more software. They need the right software — built well, explained clearly and owned by them.
 
 That's why Zenra AI exists. We start by understanding the problem, build only what helps, and make sure you own — and can run — everything we deliver.
 
-We began by building products of our own: a video downloader, a video splitter and an AI app that turns long videos into short clips. Shipping software to real users — with licensing, payments, automatic updates and support — taught us what makes technology work outside a demo.
+We began by building products of our own: a video downloader, a video splitter and an AI app that turns long videos into short clips. Shipping software to customers — with licensing, payments, automatic updates and support — taught us what makes technology work outside a demo.
 
 Today we bring the same discipline to client work. Strategy, design, development and support sit with one team, so you get one plan, one point of contact and people who care whether the project works long after launch.
 
@@ -354,9 +354,8 @@ The short version — for new clients, partners, journalists and AI assistants.
 
 ## Key facts
 
-- CompanyZenra AI — an AI and software development studio
-- Founded2025
-- Where we workRemote-first, with clients worldwide, in English
+- CompanyZenra AI — an AI and software development company
+- Where we workWorldwide, in English, across time zones
 - ServicesAI agents, custom AI tools, websites and web apps, online stores, and Windows, Mac & mobile apps
 - Our appsZenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter
 - How we workFixed quotes in USD, paid by milestone — most projects delivered within days
@@ -385,9 +384,9 @@ Six principles that shape every project, from a landing page to an AI system.
 
   AI moves fast. We test new tools on our own products first, so you get what works — not what's hyped.
 
-### Remote-first studio
+### Global delivery
 
-We work online with clients around the world.
+We work with clients around the world, across time zones.
 
 ### English, on your time
 
@@ -399,7 +398,7 @@ One clear price for defined work, paid by milestone.
 
 ### Products we run
 
-Three apps for Windows — designed, shipped and supported in-house, with Mac versions coming soon.
+Three apps for Windows — designed, shipped and supported by our team, with Mac versions coming soon.
 
 ## Software we've built
 
@@ -411,14 +410,14 @@ Our own products are the clearest example of how we work.
 
 ## How we work
 
-Remote-first, written-first and built around your time zone — with a fixed quote before we start and delivery in days, not months.
+Written-first and built around your time zone — with a fixed quote before we start and delivery in days, not months.
 
 - ### One team, idea to launch
 
   No hand-offs between agencies. The people who plan your project build, launch and improve it.
 - ### Product-company habits
 
-  We plan for real users, updates and support from day one — because we run our own apps.
+  We plan for users, updates and support from day one — because we run our own apps.
 - ### Secure access
 
   We ask only for the access we need, never share passwords and hand everything back at the end.
@@ -548,7 +547,6 @@ Updates, backups, monitoring and small fixes, so everything keeps running.
 
 You know the full price before we start, and you pay as approved work is delivered.
 
-- Clear starting prices — from $199 for a landing page ([see all prices](https://zenraai.com/services/#pricing))
 - A fixed price for the agreed scope
 - Usually a deposit to start, then payment by milestone
 - Changes outside the scope are quoted before we do them
@@ -694,7 +692,7 @@ Best for
 
 ## App development
 
-Windows, Mac, iPhone and Android apps built for real users — with installers, licensing, payments, automatic updates and the app store launch.
+Production-ready Windows, Mac, iPhone and Android apps — with installers, licensing, payments, automatic updates and the app store launch.
 
 Typical projects
 :   - Windows or Mac desktop app
@@ -705,24 +703,6 @@ Best for
 :   - Businesses whose customers need an app
     - Teams that need a desktop tool
     - Founders launching an app product
-
-## Starting prices
-
-Clear prices from day one. Every project gets a fixed quote after a short chat, and most are delivered within days.
-
-| Project | Starting price | Typical delivery |
-| --- | --- | --- |
-| [Landing page](https://zenraai.com/services/custom-web-development/) | From $199 | 1–2 days |
-| [Business website](https://zenraai.com/services/custom-web-development/) | From $499 | 3–5 days |
-| [Web app or client portal](https://zenraai.com/services/custom-web-development/) | From $1,499 | About 5–6 days |
-| [Shopify or WooCommerce store](https://zenraai.com/services/ecommerce-development/) | From $499 | 3–5 days |
-| [AI chatbot trained on your documents](https://zenraai.com/services/ai-tool-development/) | From $499 | 2–4 days |
-| [Custom AI tool](https://zenraai.com/services/ai-tool-development/) | From $999 | About 5–6 days |
-| [AI agent pilot (one workflow)](https://zenraai.com/services/ai-agent-development/) | From $799 | 3–5 days |
-| [Windows or Mac desktop app](https://zenraai.com/services/app-development/) | From $999 | About 5–6 days |
-| [iPhone and Android app](https://zenraai.com/services/app-development/) | From $1,499 | About 5–6 days, plus store review |
-
-Prices in US dollars. Hosting, platform subscriptions and AI usage are paid by you directly, never marked up.
 
 ## Popular combinations
 
@@ -811,7 +791,7 @@ Yes. A landing page, an AI prototype, a pilot agent or a first version of your a
 
 How do you price projects?
 
-Every project gets a fixed quote, paid by milestone, and starts from the prices in the table above — from $199 for a landing page. Ongoing work, like store management or agent care, has a monthly fee agreed in advance.
+Every project starts with a free estimate. Share your idea and your budget through the [project form](https://zenraai.com/contact/), and after a short chat we send a fixed quote, paid by milestone. Ongoing work, like store management or agent care, has a monthly fee agreed in advance.
 
 How fast can you deliver?
 
@@ -844,7 +824,7 @@ AI agents that do real work across your apps — answering customers, replying t
 ## At a glance
 
 - DeliveryMost agents in a few days; bigger builds in about 5–6 days
-- PriceFrom $799 — a fixed quote, paid by milestone
+- PricingA free estimate, then a fixed quote — paid by milestone
 - You receiveA working agent, admin controls, logs, documentation and training
 - Built-in safetyApprovals, human handoff, audit logs and a stop switch
 
@@ -1046,7 +1026,7 @@ Most tools with an API — CRMs, help desks, online stores, email, calendars, sp
 
 How much does an AI agent cost?
 
-A pilot agent for one workflow starts from $799, and a production agent with several integrations, approvals and monitoring usually from $1,999. You get a fixed quote before we start. AI usage is billed to your own AI account, and we estimate it upfront.
+It depends on your budget and the job you want the agent to do — how many apps it connects to and how much it handles on its own. Start by [filling in the project form](https://zenraai.com/contact/?service=ai-agents) and sharing your idea, even if it's rough. We'll reply with a free estimate, and after a short chat you get a fixed quote before any work starts. AI usage is billed to your own AI account, and we estimate it upfront.
 
 How long does it take?
 
@@ -1087,7 +1067,7 @@ Custom AI tools that do one job brilliantly — answer questions from your docum
 ## At a glance
 
 - DeliveryA prototype in a few days; a full tool in about 5–6 days
-- PriceFrom $499 — a fixed quote, paid by milestone
+- PricingA free estimate, then a fixed quote — paid by milestone
 - You receiveSource code, admin settings, documentation and training
 - AI modelsOpenAI, Claude, Gemini or open-source — swappable later
 
@@ -1163,8 +1143,6 @@ AI is only useful when it fits the work. These rules keep projects practical, me
 
   Least-privilege access, encrypted secrets and providers that don't train on your data — or models on your own servers.
 
-Built in-house
-
 ## Our own AI product: Zenra AI Viral Clips
 
 A Windows app that watches a long video like an editor: it transcribes the speech, finds the strongest moments, follows whoever is talking and renders captioned 9:16 clips on the user's own PC, up to 4K.
@@ -1176,7 +1154,7 @@ Under the hood
 :   Speech-to-text, face and speaker tracking, an AI editor for moment selection, GPU-accelerated rendering.
 
 Product work
-:   Licensing, payments, automatic updates and support for real users.
+:   Licensing, payments, automatic updates and customer support.
 
 ## How the project runs
 
@@ -1268,7 +1246,7 @@ About custom AI tool development. Can't find your answer? [Send us your question
 
 How much does a custom AI tool cost?
 
-An AI chatbot trained on your documents starts from $499, and a custom AI tool from $999. A system connected to several apps costs more. After a short chat we send a fixed quote — and we can start with a small prototype, so you see value before committing to the full build.
+It depends on your budget and on what the tool needs to do — a focused assistant is a much smaller project than a system connected to several apps. Start by [filling in the project form](https://zenraai.com/contact/?service=ai-tools) and sharing your idea, even if it's rough. We'll reply with a free estimate, and after a short chat you get a fixed quote before any work starts. We can also start with a small prototype, so you see the value before the full build.
 
 How long does it take?
 
@@ -1316,7 +1294,7 @@ Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
 
 URL: https://zenraai.com/services/app-development/
 Title: Windows, Mac & Mobile App Development Services | Zenra AI
-Description: Windows, Mac, iPhone and Android apps built for real users — installers, auto-updates, licensing, payments and app store launch. Fixed quote, fast delivery.
+Description: Production-ready Windows, Mac, iPhone and Android apps — installers, auto-updates, licensing, payments and app store launch. Free estimate, fast delivery.
 
 # Windows, Mac & mobile app development
 
@@ -1329,7 +1307,7 @@ Desktop and mobile apps your customers will actually use — for Windows, Mac, i
 ## At a glance
 
 - DeliveryMost apps in a few days; bigger apps in about 5–6 days
-- PriceFrom $999 — a fixed quote, paid by milestone
+- PricingA free estimate, then a fixed quote — paid by milestone
 - You receiveSource code, installers or store builds, documentation and training
 - PlatformsWindows, macOS, iOS and Android — one codebase where it fits
 
@@ -1395,11 +1373,9 @@ The parts that decide whether people keep using an app — built in from the sta
 - Code signing in your name where the platform requires it
 - Source code in your repository, plus a handover guide
 
-Built in-house
-
 ## Our own app: Zenra Video Downloader
 
-A Windows app with real users that we designed, built and still run ourselves — releases, licensing, payments, updates and support. The same team builds client apps.
+A Windows app we designed, built and run end to end — releases, licensing, payments, updates and customer support. The same standards go into every client app.
 
 What it does
 :   Saves videos, playlists and channels in up to 4K, up to five at a time.
@@ -1525,7 +1501,7 @@ Fast. Most apps are delivered within a few days, and bigger apps usually take ab
 
 How much does an app cost?
 
-A Windows or Mac desktop app starts from $999, and an iPhone and Android app from $1,499. The final price depends on the platforms, features and integrations — you get a fixed quote before we start. Developer accounts and store fees are paid by you directly.
+It depends on your budget and on your app — the platforms, the features and the integrations. Start by [filling in the project form](https://zenraai.com/contact/?service=apps) and sharing your idea, even if it's rough. We'll reply with a free estimate, and after a short chat you get a fixed quote before any work starts. Developer accounts and store fees are paid by you directly.
 
 Can you publish the app on the App Store and Google Play?
 
@@ -1574,7 +1550,7 @@ Fast, secure websites and web apps built around how your business works — from
 ## At a glance
 
 - DeliveryMost websites in a few days; bigger web apps in about 5–6 days
-- PriceFrom $199 — a fixed quote, paid by milestone
+- PricingA free estimate, then a fixed quote — paid by milestone
 - You receiveDesigns, source code, easy editing and documentation
 - Built withNext.js, React, Node.js, Python or WordPress
 
@@ -1751,7 +1727,7 @@ About custom web development. Can't find your answer? [Send us your question](ht
 
 How much does a custom website or web app cost?
 
-A landing page starts from $199, a business website from $499 and a web app with accounts or payments from $1,499. The final price depends on the pages or features, the integrations and who writes the content — you get a fixed quote before we start.
+It depends on your budget and on what you need — the pages or features, the integrations and who writes the content. Start by [filling in the project form](https://zenraai.com/contact/?service=web) and sharing your idea, even if it's rough. We'll reply with a free estimate, and after a short chat you get a fixed quote before any work starts.
 
 How long does it take?
 
@@ -1812,7 +1788,7 @@ Online stores on Shopify, WooCommerce or a custom stack — designed to sell, co
 ## At a glance
 
 - DeliveryMost stores in a few days; bigger stores and migrations in about 5–6 days
-- PriceFrom $499 — a fixed quote, optional monthly management
+- PricingA free estimate, then a fixed quote — optional monthly management
 - You receiveYour store, admin access, training and documentation
 - PlatformsShopify, WooCommerce or a custom storefront
 
@@ -1989,7 +1965,7 @@ Shopify is the easiest to run and scales smoothly — ideal for most brands. Woo
 
 How much does an online store cost?
 
-A new Shopify or WooCommerce store starts from $499. The final price depends on the number of products, the design and the integrations — you get a fixed quote before we start. Platform and app subscriptions are paid directly by you.
+It depends on your budget and on your store — the number of products, the design and the integrations. Start by [filling in the project form](https://zenraai.com/contact/?service=ecommerce) and sharing your idea, even if it's rough. We'll reply with a free estimate, and after a short chat you get a fixed quote before any work starts. Platform and app subscriptions are paid by you directly.
 
 How long does it take?
 
