@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Connecting your account | Zenra AI</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<meta name="theme-color" content="#05070C">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>
+@font-face{font-family:"Mona Sans";src:url("/assets/fonts/mona-sans.woff2") format("woff2");font-weight:200 900;font-stretch:75% 125%;font-display:swap}
+:root{--g:linear-gradient(135deg,#06B6D4 0%,#3B82F6 35%,#8B5CF6 68%,#EC4899 100%);--bg:#05070C;--s1:#0B1019;--s2:#111827;--tx:#F2F5FB;--mu:#9AA6BF;color-scheme:dark}
+*{box-sizing:border-box;margin:0;padding:0}
+body{min-height:100vh;display:flex;align-items:center;justify-content:center;font-family:"Mona Sans","Segoe UI",system-ui,sans-serif;font-weight:700;color:var(--tx);
+  background:radial-gradient(45% 50% at 10% 0%,rgba(6,182,212,.16),transparent 70%),radial-gradient(40% 45% at 95% 5%,rgba(236,72,153,.14),transparent 70%),var(--bg);
+  padding-block:24px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.card{width:100%;max-width:460px;padding:30px;border-radius:24px;border:1.5px solid transparent;background:linear-gradient(var(--s1),var(--s1)) padding-box,var(--g) border-box;display:flex;flex-direction:column;gap:14px}
+h1{font-size:22px;font-weight:820;letter-spacing:-.01em}
+p{color:var(--mu);font-size:14px;line-height:1.55;font-weight:600}
+.gt{background:var(--g);-webkit-background-clip:text;background-clip:text;color:transparent}
+.btn{display:inline-flex;justify-content:center;align-items:center;gap:8px;padding:12px 18px;border-radius:14px;border:0;background:var(--g);color:#fff;font:inherit;font-size:15px;font-weight:800;text-decoration:none;cursor:pointer}
+.btn.ghost{background:linear-gradient(var(--s1),var(--s1)) padding-box,var(--g) border-box;border:1.5px solid transparent}
+textarea{width:100%;min-height:86px;padding:10px 12px;border-radius:12px;border:1px solid rgba(255,255,255,.12);background:var(--s2);color:var(--tx);font:12px ui-monospace,Consolas,monospace;resize:vertical}
+.spin{width:22px;height:22px;border-radius:50%;border:3px solid rgba(255,255,255,.15);border-top-color:#8B5CF6;animation:r 1s linear infinite}
+@keyframes r{to{transform:rotate(360deg)}}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+footer{font-size:12.5px;color:var(--mu);font-weight:700}
+footer a{text-decoration:none}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main class="card">
+  <div class="row"><div class="spin" id="spin"></div><h1 id="t">Connecting your account…</h1></div>
+  <p id="m">Sending you back to <b>Zenra Social Manager</b> on your computer.</p>
+  <div id="manual" hidden>
+    <div class="row"><a class="btn" id="go" href="#">Continue to Zenra Social Manager</a></div>
+    <p style="margin-top:12px" id="hint">Didn't open? Copy this address and paste it into <b>Accounts → “Didn't come back automatically?”</b> in Zenra Social Manager:</p>
+    <textarea id="addr" readonly></textarea>
+    <div class="row" style="margin-top:8px"><button class="btn ghost" id="copy" type="button">Copy address</button></div>
+  </div>
+  <footer>Powered By <a class="gt" href="https://zenraai.com/">Zenra AI</a></footer>
+</main>
+<script>
+(function () {
+  // This page only forwards a login result back to the Zenra Social Manager running on this computer
+  // (http://localhost:<port>). It sends nothing anywhere else and loads no third-party code.
+  var q = new URLSearchParams(location.search);
+  var state = q.get("state") || "";
+  var m = /^(\d{2,5})-/.exec(state);
+  var port = m ? parseInt(m[1], 10) : 0;
+  var $ = function (id) { return document.getElementById(id); };
+  $("addr").value = location.href;
+  $("copy").onclick = function () {
+    var a = $("addr"); a.select();
+    if (navigator.clipboard) navigator.clipboard.writeText(a.value).then(function () { $("copy").textContent = "Copied"; }, function () {});
+  };
+  if (!q.get("code") && !q.get("error")) {
+    $("spin").hidden = true; $("t").textContent = "Account connection page";
+    $("m").innerHTML = "This page finishes connecting social accounts to <b>Zenra Social Manager</b>. Start from the Accounts page in the app.";
+    return;
+  }
+  if (!(port > 0 && port < 65536)) {
+    $("spin").hidden = true; $("t").textContent = "Almost done";
+    $("m").textContent = "Copy the address below and paste it into Zenra Social Manager to finish.";
+    $("manual").hidden = false; $("go").hidden = true; $("hint").hidden = true;
+    return;
+  }
+  var target = "http://localhost:" + port + "/social/oauth/callback" + location.search;
+  $("go").href = target;
+  setTimeout(function () { $("spin").hidden = true; $("t").textContent = "One more click"; $("manual").hidden = false; }, 2500);
+  location.replace(target);
+})();
+</script>
+</body>
+</html>
