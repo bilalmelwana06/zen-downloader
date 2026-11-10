@@ -1,5 +1,5 @@
 /* ============================================================================
-   ZENRA AI WEBSITE — SETTINGS
+   ZENRA AI WEBSITE - SETTINGS
    This is the only file you need to edit. Change a value, save, upload.
    ========================================================================== */
 window.ZENRA_CONFIG = {
@@ -22,18 +22,18 @@ window.ZENRA_CONFIG = {
         Leave it empty ("") and Clarity is not loaded. */
   clarityId: "",
 
-  /* 3) CONTACT FORM (Web3Forms — free)
+  /* 3) CONTACT FORM (Web3Forms - free)
         Your Access Key from web3forms.com.
         While it is empty, the form opens WhatsApp with the message instead. */
   web3formsKey: "35fecebf-3f02-478f-b9fc-430c94c1a53e",
 
-  /* 4) ZENRA AI VIRAL CLIPS — LAUNCH SWITCH (Windows)
+  /* 4) ZENRA AI VIRAL CLIPS - LAUNCH SWITCH (Windows)
         false = every Viral Clips button shows "Windows · Coming soon".
         true  = the buttons become "Download for Windows" and "Buy" everywhere on the site.
         (The installer must already be on GitHub Releases as ZenraAIViralClips.exe) */
   viralClipsLaunched: false,
 
-  /* 5) MAC VERSIONS — DOWNLOAD LINKS
+  /* 5) MAC VERSIONS - DOWNLOAD LINKS
         Every app shows "Mac · Coming soon" until you paste its Mac download link here.
         Paste the link between the quotes, save and upload: on every page the button
         becomes "Download for Mac" and "Mac coming soon" becomes "macOS".
