@@ -150,11 +150,11 @@ Save videos from YouTube, TikTok, Instagram, Facebook, X, Snapchat and more - on
 
   Updates itself, resumes big downloads and skips duplicates.
 
-Launching soonPre-orders open
+Available now
 
 ### Zenra AI Viral Clips
 
-Turns a long podcast, interview or vlog into ready-to-post 9:16 clips - the AI finds the best moments, keeps the speaker in frame and adds word-by-word captions.
+Turns a long podcast, interview, vlog or sports video into ready-to-post clips in 9:16, 4:5, 1:1 or 16:9. The AI finds the best moments, keeps the speaker or the action in frame and adds word-by-word captions.
 
 WindowsMac - coming soon
 
@@ -1178,7 +1178,7 @@ AI is only useful when it fits the work. These rules keep projects practical, me
 
 ## Our own AI product: Zenra AI Viral Clips
 
-A Windows app that watches a long video like an editor: it transcribes the speech, finds the strongest moments, follows whoever is talking and renders captioned 9:16 clips on the user's own PC, up to 4K.
+A Windows app that watches a long video like an editor: it transcribes the speech, finds the strongest moments, follows whoever is talking and renders captioned short clips in every social size on the user's own PC, up to 4K.
 
 What it does
 :   Turns one long video into ready-to-post clips with captions, titles and hashtags.
@@ -2276,11 +2276,11 @@ Download videos, whole playlists and channels from YouTube, TikTok, Instagram, F
 - Windows 10 and 11
 - Mac coming soon
 
-Launching soonPre-orders open
+Available now
 
 ## Zenra AI Viral Clips
 
-Turns long podcasts, interviews, vlogs and speeches into ready-to-post 9:16 clips - with the speaker in frame, word-by-word captions and titles, up to 4K.
+Turns long podcasts, interviews, vlogs and sports videos into ready-to-post clips in 9:16, 4:5, 1:1 or 16:9, with the speaker or the action in frame, word-by-word captions and titles, up to 4K.
 
 - 30-day free trial
 - From $4 a month
@@ -2307,16 +2307,16 @@ Prefer email? Write to [support@zenraai.com](mailto:support@zenraai.com)
 ---
 
 URL: https://zenraai.com/tools/zenra-ai-viral-clips/
-Title: Zenra AI Viral Clips: AI Clips for Shorts, Reels & TikTok
-Description: AI clip maker for Windows: turns long videos and podcasts into viral 9:16 Shorts, Reels and TikToks with captions, titles and speaker tracking. Free trial.
+Title: Zenra AI Viral Clips: AI Clip Maker for Shorts, Reels & TikTok
+Description: AI clip maker for Windows. Turns long videos into Shorts, Reels and TikToks in 9:16, 4:5, 1:1 or 16:9 with captions, titles and auto framing. 30-day free trial.
 
-**Zenra AI Viral Clips**Launching soon
+**Zenra AI Viral Clips**Available now
 
 # Turn long videos into viral clips, automatically.
 
-Add a podcast, interview, vlog or speech. The AI finds every strong moment, keeps the right person in frame, adds word-by-word captions and titles - and gives you ready-to-post 9:16 clips, up to 4K.
+Zenra AI Viral Clips is a Windows app that cuts long videos into short clips for YouTube Shorts, Instagram Reels and TikTok. Add a podcast, interview, vlog or sports video. The AI finds the strong moments, keeps the speaker or the action in frame, adds word-by-word captions and a title, and saves every clip in 9:16, 4:5, 1:1 or 16:9, up to 4K.
 
-- **Launching soon**
+- Version **3.0**
 - Windows 10 and 11 (64-bit)
 - Mac version coming soon
 - 30-day free trial, no card
@@ -2332,14 +2332,16 @@ Made for every kind of long video
 - Webinars
 - Classes
 - Documentaries
+- Sports
+- Golf
 
 ## A professional editor inside your PC
 
-Everything an editor does to make a clip work - done for you, clip after clip.
+Everything an editor does to make a clip work, done for you, clip after clip.
 
 ### Finds every viral moment
 
-The AI reads your whole video like an editor - a strong hook, a complete story, a payoff - and makes a clip of each moment. Longer videos give more clips, and your best clip is always #01.
+The AI reads your whole video like an editor (a strong hook, a complete story, a payoff) and makes a clip of each moment. Longer videos give more clips, and your best clip is always #01.
 
 ### Clean starts and endings
 
@@ -2347,23 +2349,35 @@ Clips start with the question and end when the answer is finished, never on a cu
 
 ### Follows whoever is talking
 
-Speaker detection watches lips and listens to voices, so the frame stays on the person talking - with instant cuts, like a real editor.
+Speaker detection watches lips and listens to voices, so the frame stays on the person talking and cuts the moment someone else speaks, like a real editor.
 
 ### Split screen for conversations
 
 When two people go back and forth, you see both: one on top, one below. Panels with three or four people stay lively instead of one long monologue.
 
-### Vlogs and on-the-go videos
+### Follows the action
 
-The whole person stays in view and the frame widens when they move. What a vlogger holds up stays in frame, and phone clips inside a vlog fill the screen.
+In sports and vlogs the whole person stays in view. After a shot the frame moves with the ball when it can be seen, so the clip shows where it went. What a vlogger holds up stays in frame too.
+
+### Every clip size
+
+9:16 for Shorts, Reels and TikTok. 4:5 and 1:1 for feed posts. 16:9 for YouTube, X and LinkedIn. Choose the size before you make the clips and the framing fits it.
+
+### Scorecards stay on the clip
+
+Golf scorecards and other score graphics are kept on screen when the picture is cropped, and they never cover a face.
+
+### Videos without talking
+
+Golf ASMR, silent vlogs and music videos get clips built around the action: the sound of the hit and the camera cuts. No made-up captions.
 
 ### Word-by-word captions
 
-Each word lights up as it's spoken. Five styles, words always in the right order, and no “um” or “uh”.
+Each word lights up as it's spoken. Eight styles, words always in the right order, and no “um” or “uh”.
 
-### Titles and hashtags
+### Titles, hashtags and a hook title
 
-Every clip gets a title and hashtags. Files are named **Title - 01.mp4**, and one click copies the title for posting.
+Every clip gets a title and hashtags. Files are named **Title - 01.mp4**, and one click copies the title for posting. Turn on the hook title and the title also shows at the top of the clip, in one of three looks.
 
 ### Up to 4K quality
 
@@ -2375,19 +2389,19 @@ Add your logo once and it sits small and soft in the top-left corner of every cl
 
 ### Same clips, or new ones
 
-Run a video again and get the same clips instantly - perfect for changing captions, logo or quality. **New clips** finds only moments you haven't made yet.
+Run a video again and get the same clips instantly. That is handy for changing captions, logo, size or quality. **New clips** finds only moments you haven't made yet.
 
 ### 13 languages plus auto detect
 
 English, Spanish, Portuguese, French, German, Italian, Turkish, Russian, Arabic, Hindi, Urdu, Punjabi and Indonesian.
 
-### Free AI built in
+### Free AI built in, more if you want
 
-Runs on a free Groq key. Want more speed? Add your own Gemini, ChatGPT, Claude, OpenRouter or DeepSeek key.
+Runs on a free Groq key. You can add another free key (Gemini, Cerebras, Mistral or OpenRouter free models) or a paid one (ChatGPT, Claude, DeepSeek, Grok or OpenRouter).
 
 ## Always the right framing
 
-Your video is wide; a short is tall. Shot by shot, the app decides what belongs in the frame.
+Your video is wide and a short is tall. Shot by shot, the app decides what belongs in the frame.
 
 ### Follows the speaker
 
@@ -2399,17 +2413,71 @@ A quick back-and-forth shows both people (one on top, one below) for that part o
 
 ### The whole person
 
-Vlogs and walk-and-talks keep the person head to toe, and the frame opens up when they move.
+Vlogs, walk-and-talks and sports keep the person head to toe. The frame moves with them, and with the ball after a shot.
 
 ### The whole picture
 
-Scenery, a drone shot or a moment with nobody in it is shown whole on a soft background - nothing important is cut.
+A title card, a leaderboard or two people far apart is shown whole on a soft background, so nothing you need to read or see is cut.
 
-On **Auto (smart)** the app picks the framing for every shot. You can also choose **Follow speaker**, **Split screen** or **Full frame** in Settings.
+On **Auto (smart)** the app picks the framing for every shot. You can also choose **Follow speaker**, **Split screen** or **Full frame** in Settings. A face is never cut by the frame, the hook title or a scorecard.
+
+## One video, every clip size
+
+Choose the clip size on the CREATE tab before you press MAKE VIRAL CLIPS. The framing, the captions and the title are fitted to the size you pick.
+
+### Shorts, Reels and TikTok
+
+The tall size for YouTube Shorts, Instagram Reels, TikTok and Stories.
+
+### Instagram and Facebook feed
+
+Takes more of the screen in the feed than a square post.
+
+### Square posts
+
+Works in every feed, and fits two speakers side by side.
+
+### YouTube, X and LinkedIn
+
+The wide size, for highlight clips on YouTube, X and LinkedIn.
+
+Want the same moments in another size? Run the video again with a different size: the app remembers the clips it chose, so there is no AI wait.
 
 ## Captions that keep people watching
 
-Every word lights up the moment it's spoken. Pick one of five styles - or turn captions off.
+Every word lights up the moment it's spoken. Pick one of eight styles, or turn captions off.
+
+**The** **best** **advice**
+
+Viral Yellow: Podcasts
+
+**Look** **at** **this**
+
+Green Pop: Vlogs
+
+**I** **never** **quit**
+
+Zenra Cyan: Interviews
+
+**Stop** **waiting**
+
+Hormozi: Speeches
+
+And then this happened
+
+Clean White: Stand-up
+
+**This** **is** **how** **it** **works**
+
+Karaoke: Talks
+
+**Wait** **for** **it**
+
+TikTok: Lifestyle
+
+**Save** **par**
+
+Punch Words: Highlights
 
 A caption never mixes two speakers, and the words always appear in the order they're said.
 
@@ -2417,39 +2485,28 @@ A caption never mixes two speakers, and the words always appear in the order the
 
 Four steps from a long video to clips you can post.
 
-1. ### Add your video
-
-   Drag it onto the app or click BROWSE. Long videos are welcome - longer videos give more clips.
-2. ### Pick your style
-
-   Choose the quality (up to 4K), clip length (15 seconds to 3 minutes), caption style and your logo.
-3. ### Make viral clips
-
-   Press MAKE VIRAL CLIPS. The AI finds the moments and edits each clip - they appear one by one.
-4. ### Post them
-
-   Every clip has PLAY, COPY TITLE and SHOW IN FOLDER. Start with #01 - it's your best clip.
+1. **Add your video**: Drag it onto the app or click BROWSE. Long videos are welcome: the longer the video, the more clips you get.
+2. **Pick your style**: Choose the clip size (9:16, 4:5, 1:1 or 16:9), the quality up to 4K, the clip length from 15 seconds to 3 minutes, the caption style and your logo.
+3. **Make viral clips**: Press MAKE VIRAL CLIPS. The AI finds the moments and edits each clip. They appear one by one.
+4. **Post them**: Every clip has PLAY, COPY TITLE and SHOW IN FOLDER. Start with #01. It's your best clip.
 
 ## A desktop app, not another upload
 
-Most AI clip makers run online. Zenra AI Viral Clips runs on your own PC - here's what that changes.
+Most AI clip makers run online. Zenra AI Viral Clips runs on your own PC. Here is what that changes.
 
-| Compared | Zenra AI Viral Clips | Online clip makers |
-| --- | --- | --- |
-| Where it runs | On your own Windows PC | On the service's servers |
-| Your video | Stays on your PC, only the audio is sent for transcription when you use a Groq key | Uploaded to the service before it can be clipped |
-| Long 4K videos | No upload wait, start right away | Must finish uploading first |
-| Watermark | None - only your own logo, if you add one | Common on free plans |
-| Pricing | From $4 a month, or $35 once for lifetime | Usually a monthly subscription |
-| Without internet | Works for up to 7 days after a plan check, with simpler titles | Doesn't work |
+- **Where it runs**: Zenra AI Viral Clips: On your own Windows PC | Online clip makers: On the service's servers
+- **Your video**: Zenra AI Viral Clips: Stays on your PC. Only the audio is sent for transcription when you use a Groq key | Online clip makers: Uploaded to the service before it can be clipped
+- **Long 4K videos**: Zenra AI Viral Clips: No upload wait. Start right away | Online clip makers: Must finish uploading first
+- **Clip sizes**: Zenra AI Viral Clips: 9:16, 4:5, 1:1 and 16:9 from the same video | Online clip makers: Depends on the service and the plan
+- **Watermark**: Zenra AI Viral Clips: None. Only your own logo, if you add one | Online clip makers: Common on free plans
+- **Pricing**: Zenra AI Viral Clips: From $4 a month, or $35 once for lifetime | Online clip makers: Usually a monthly subscription
+- **Without internet**: Zenra AI Viral Clips: Works for up to 7 days after a plan check, with simpler titles | Online clip makers: Doesn't work
 
 ## Simple pricing
 
 Try everything free for 30 days. Prices are in US dollars and the same in every country.
 
 **30-day free trial**Every feature, no card, no sign-up. When it ends, pick a plan inside the app.
-
-**Pre-orders are open**Pre-order any plan now and get your license key on launch day. Your plan starts when you activate it, and if you change your mind before launch, we refund you in full.
 
 ### Monthly
 
@@ -2506,93 +2563,91 @@ Tap the WhatsApp button on any plan and tell us your country. We'll share the pa
 
 Quick and personal: everything happens on WhatsApp.
 
-1. ### Try it free
+1. **Try it free**: Install the app. Your 30-day free trial starts by itself.
+2. **Open UPGRADE**: Click UPGRADE at the top right of the app to see the plans.
+3. **Buy on WhatsApp**: Tap BUY WITH WHATSAPP. Your plan and Device ID are written in the message for you.
+4. **Pay and get your key**: After payment you receive a license key that starts with ZVC-.
+5. **Activate**: Paste it under ALREADY HAVE A KEY? and press ACTIVATE. Done.
 
-   Install the app. Your 30-day free trial starts by itself.
-2. ### Open UPGRADE
-
-   Click UPGRADE at the top right of the app to see the plans.
-3. ### Buy on WhatsApp
-
-   Tap BUY WITH WHATSAPP. Your plan and Device ID are written in the message for you.
-4. ### Pay and get your key
-
-   After payment you receive a license key that starts with ZVC-.
-5. ### Activate
-
-   Paste it under ALREADY HAVE A KEY? and press ACTIVATE. Done.
+The UPGRADE page inside the app. One key works on one PC; a new key adds its days after your current plan.
 
 ## Complete guide
 
-Everything you need, from installing the app to using your own AI key.
+Everything you need, from installing the app to adding another AI key.
 
 Install the app
 
-1. At launch, click **Download** at the top of this page. You get **ZenraAIViralClips.exe**.
+1. Click **Download** at the top of this page. You get **ZenraAIViralClips.exe**.
 2. Open it and click **Next** until **Finish**. No admin password is needed. Tick **Create a desktop shortcut** if you like.
 3. If Windows shows “Windows protected your PC”, click **More info**, then **Run anyway**. New apps without a paid certificate show this once.
 4. Open Zenra AI Viral Clips. Your 30-day free trial starts by itself (internet is needed the first time).
 
 Get your free Groq key (2 minutes)
 
-Groq is a free AI service. Its key lets the app write the words and run the AI editor - the best results, at no cost.
+Groq is a free AI service. Its key lets the app write the words and run the AI editor, which gives the best results at no cost.
 
 1. Open [console.groq.com/keys](https://console.groq.com/keys) and sign in with Google or email.
-2. Click **Create API Key**, type any name and copy the key. It starts with **gsk\_**.
+2. Click **Create API Key**, type any name and copy the key. It starts with **gsk_**.
 3. In the app, open SETTINGS → GROQ AI KEY, paste the key and press SAVE KEY.
-4. Press TEST KEY - you should see **Key works**.
+4. Press TEST KEY. You should see **Key works**.
 
-Your key is saved encrypted on your PC. Without a key the app still works offline - just slower, and with simpler titles.
+Your key is saved encrypted on your PC. Without a key the app still works offline, only slower and with simpler titles.
 
 Make your first clips
 
 1. On the CREATE tab, drag your video onto the window or click BROWSE (Ctrl + O). MP4, MKV, MOV, AVI, WEBM and most other video files work.
-2. **Quality** - Original keeps your video's quality (a 4K video gives 4K clips). 4K, 2K and 1080p are there too.
-3. **Clip length** - 15 sec, 30 sec, 45 sec, 1 min, 2 min or 3 min.
-4. **Captions** - Viral Yellow, Green Pop, Zenra Cyan, Hormozi, Clean White or Off. **Logo** - click Add logo and choose a PNG.
-5. Press MAKE VIRAL CLIPS. Clips appear one by one with their title and viral score. STOP keeps every clip already made.
+2. **Quality**: Original keeps your video's quality (a 4K video gives 4K clips). 4K, 2K and 1080p are there too.
+3. **Clip length**: 15 sec, 30 sec, 45 sec, 1 min, 2 min or 3 min.
+4. **Captions**: Viral Yellow, Green Pop, Zenra Cyan, Hormozi, Clean White, Karaoke, TikTok, Punch Words or Off. **Logo**: click Add logo and choose a PNG.
+5. **Clip size**: 9:16 for Reels, TikTok and Shorts, 4:5 for the Instagram and Facebook feed, 1:1 for a square post or 16:9 for YouTube, X and LinkedIn.
+6. **Hook title on the clip**: Off, Big Title, Post Card or Black Box. It shows the clip's title at the top, like the header of a viral reel.
+7. Press MAKE VIRAL CLIPS. Clips appear one by one with their title and viral score. STOP keeps every clip already made.
 
 Find and post your clips
 
 - Every clip card has PLAY, COPY TITLE (title and hashtags) and SHOW IN FOLDER.
-- Clips are saved in **Downloads\Zenra AI Viral Clips\** in a folder named after your video, as **Title - 01.mp4**, **Title - 02.mp4** and so on - 01 is the best clip.
+- Clips are saved in **Downloads\Zenra AI Viral Clips\** in a folder named after your video, as **Title - 01.mp4**, **Title - 02.mp4** and so on. 01 is the best clip.
 - The MY CLIPS tab keeps every video you've clipped, with OPEN FOLDER, COPY ALL TITLES and VIEW CLIPS.
 
 Same clips again, or new ones
 
-- Same video + same clip length = the same clips, instantly - no waiting for the AI. Perfect for changing the captions, logo or quality.
-- After a run, press NEW CLIPS to get only moments you haven't made yet - never a repeat. When every good moment is used, the app tells you.
+- The same video with the same clip length gives the same clips again, with no waiting for the AI. Use it to change the captions, logo, clip size or quality.
+- After a run, press NEW CLIPS to get only moments you haven't made yet, never a repeat. When every good moment is used, the app tells you.
 
 Settings explained
 
-- **Framing** - Auto (smart), Follow speaker, Split screen or Full frame (no crop).
-- **Number of clips** - Auto (every viral moment), or up to 5, 10, 15, 20, 30 or 50.
-- **Video language** - Auto detect, or choose one of 13 languages.
-- **Offline speech model** - used when there's no internet: Fast, Better or Best (slow).
-- **Save clips to** - any folder you like.
+- **Framing**: Auto (smart), Follow speaker, Split screen or Full frame (no crop).
+- **Number of clips**: Auto (every viral moment), or up to 5, 10, 15, 20, 30 or 50.
+- **Video language**: Auto detect, or choose one of 13 languages.
+- **Offline speech model**: used when there's no internet. Fast, Better or Best (slow).
+- **Scorecards and score graphics**: On keeps a golf scorecard or score graphic on the clip when the picture is cropped.
+- **Save clips to**: any folder you like.
 
-Use your own AI key (optional)
+Add another AI key, free or paid (optional)
 
-Free Groq works well. With your own paid key the AI reads the whole video at once - no free-limit waiting, faster, and the strongest models pick the clips. Typical cost: about 1-5 US cents per one-hour video.
+The free Groq key is enough for most people. Settings has two more cards under it, one for free keys and one for paid keys. Only one key runs the AI editor at a time: choose a company in one card and the other card switches to Off.
 
-1. Get an API key from Google Gemini, OpenAI (ChatGPT), Anthropic Claude, OpenRouter or DeepSeek.
-2. In the app: SETTINGS → YOUR OWN AI KEY → choose the provider.
-3. Paste your key and press SAVE KEY - it's tested automatically.
+- **More free AI keys**: Google Gemini, Cerebras, Mistral or the free models on OpenRouter. No bank card is needed. Use one when the free Groq limit is reached, or to try another AI. A free key allows a set amount of work per minute, so a long video can take a little longer.
+- **Paid AI keys**: OpenAI (ChatGPT), Anthropic Claude, DeepSeek, xAI Grok or OpenRouter. The AI reads the whole video at once, so there is no free-limit waiting and the strongest models pick the clips. You pay the AI company directly, about 1 to 5 US cents per one-hour video.
+
+1. In the app, open SETTINGS and go to MORE FREE AI KEYS or PAID AI KEYS.
+2. Choose the AI company, then click **Get a key** to open its key page.
+3. Paste your key and press SAVE KEY. It is tested automatically.
 4. Leave the AI model on **Auto** (recommended).
 
-The words (speech-to-text) still come from free Groq or the offline model. If your key runs out of credit, the app switches back to Groq by itself, so your job never stops.
+The words (speech-to-text) still come from free Groq or the offline model. If your key runs out of credit or reaches its limit, the app switches back to Groq by itself, so your job never stops. Every key is saved encrypted on your PC.
 
 Updates
 
-The app updates itself. When a new version is ready you see a popup - one click, and it installs and reopens. You can also check at any time in SETTINGS → CHECK FOR UPDATES.
+The app updates itself. When a new version is ready you see a popup. One click, and it installs and reopens. You can also check at any time in SETTINGS → CHECK FOR UPDATES.
 
 Fix common problems
 
-- **“Windows protected your PC”** - click More info, then Run anyway.
-- **“Groq key not accepted”** - make a new key at console.groq.com/keys, paste it, press SAVE KEY, then TEST KEY.
-- **Clips are slow** - choose 1080p quality, or set the offline speech model to Fast.
-- **Free Groq limit reached** - the app moves to another model by itself. For many long videos a day, add your own AI key.
-- **Something went wrong** - press COPY DETAILS in the message and send it to us on WhatsApp. Logs are in SETTINGS → OPEN LOGS.
+- **“Windows protected your PC”**: click More info, then Run anyway.
+- **“Groq key not accepted”**: make a new key at console.groq.com/keys, paste it, press SAVE KEY, then TEST KEY.
+- **Clips are slow**: choose 1080p quality, or set the offline speech model to Fast.
+- **Free Groq limit reached**: the app moves to another model by itself. For many long videos a day, add a second free key or a paid key in Settings.
+- **Something went wrong**: press COPY DETAILS in the message and send it to us on WhatsApp. SETTINGS → OPEN LOGS (FOR SUPPORT) opens the folder with the app's log file. It records what the app did, never your keys, and helps us find a problem fast.
 
 ## System requirements
 
@@ -2611,7 +2666,7 @@ Graphics
 :   Any: Intel, NVIDIA and AMD speed up the final videos
 
 AI key
-:   Free Groq key: Recommended - or your own AI key
+:   Free Groq key: Recommended. Other free and paid keys work too
 
 Disk space
 :   Room for your clips: 4K clips are large files
@@ -2620,17 +2675,29 @@ Disk space
 
 Still unsure? [Ask us on WhatsApp](https://wa.me/923023404198?text=Hi%21%20I%20have%20a%20question%20about%20Zenra%20AI%20Viral%20Clips.).
 
+What is Zenra AI Viral Clips?
+
+Zenra AI Viral Clips is a Windows app from Zenra AI that turns long videos into short clips for YouTube Shorts, Instagram Reels, TikTok and feed posts. The AI picks the strong moments, frames the speaker or the action, adds word-by-word captions and a title, and saves every clip on your PC, up to 4K.
+
 Is there a free trial?
 
 Yes. Every new PC gets a 30-day free trial with every feature. No card and no sign-up.
 
 What do I need to use it?
 
-A Windows 10 or 11 (64-bit) PC and an internet connection. For the best results, add a free Groq key - it takes about two minutes (see the complete guide). A Mac version is coming soon.
+A Windows 10 or 11 (64-bit) PC and an internet connection. For the best results, add a free Groq key. It takes about two minutes (see the complete guide). A Mac version is coming soon.
 
 Which videos work best?
 
-Podcasts, interviews, vlogs, speeches, stand-up comedy, streams, webinars, classes and documentaries. MP4, MKV, MOV, AVI, WEBM and most other video files work, up to 4K.
+Podcasts, interviews, vlogs, speeches, stand-up comedy, streams, webinars, classes, documentaries and sports such as golf. Videos without talking work too: the clips are built around the action. MP4, MKV, MOV, AVI, WEBM and most other video files work, up to 4K.
+
+Which clip sizes can it make?
+
+Four. 9:16 for YouTube Shorts, Instagram Reels and TikTok, 4:5 for the Instagram and Facebook feed, 1:1 for square posts, and 16:9 for YouTube, X and LinkedIn. You choose the size before making the clips and the framing fits it.
+
+Does it work for sports and golf videos?
+
+Yes. The whole player stays in the frame, and after a shot the frame moves with the ball when it can be seen. Golf scorecards and score graphics stay on the clip without covering a face. A video with no talking gets clips built around the action, with no made-up captions.
 
 How many clips will I get?
 
@@ -2638,7 +2705,11 @@ On Auto you get a clip of every strong moment, so longer videos give more clips.
 
 Is my video uploaded anywhere?
 
-No. Your video stays on your PC - finding faces, framing, captions and rendering all happen on your computer. With a Groq key, the audio is sent to Groq to write the words, and the text is read by the AI editor (Groq or your own AI key). Without a key, nothing from your video leaves your PC.
+No. Your video stays on your PC. Finding faces, framing, captions and rendering all happen on your computer. With a Groq key, the audio is sent to Groq to write the words, and the text is read by the AI editor (Groq, or another AI key if you added one). Without a key, nothing from your video leaves your PC.
+
+Do I have to pay for the AI?
+
+No. The app runs on a free Groq key. You can also add another free key (Google Gemini, Cerebras, Mistral or the free models on OpenRouter) or a paid key (ChatGPT, Claude, DeepSeek, Grok or OpenRouter). One key runs the AI editor at a time, and if it stops working the app goes back to Groq by itself.
 
 Do the clips have a watermark?
 
@@ -2650,11 +2721,11 @@ Auto detect, plus English, Spanish, Portuguese, French, German, Italian, Turkish
 
 How do I buy a plan?
 
-In the app, click UPGRADE, choose a plan and tap BUY WITH WHATSAPP. Tell us your country and we'll share the payment options available to you. After payment you receive a license key - paste it in the app and press ACTIVATE.
+In the app, click UPGRADE, choose a plan and tap BUY WITH WHATSAPP. Tell us your country and we'll share the payment options available to you. After payment you receive a license key. Paste it in the app and press ACTIVATE.
 
 Which payment methods do you accept?
 
-We share the options available in your country on WhatsApp - for example bank transfer, mobile wallets or Binance. Prices are in US dollars and the same in every country.
+We share the options available in your country on WhatsApp, for example bank transfer, mobile wallets or Binance. Prices are in US dollars and the same in every country.
 
 Can I use one key on two PCs?
 
@@ -2666,7 +2737,7 @@ The AI and the plan check need internet. After a check, the app keeps working fo
 
 How do I get new versions?
 
-The app updates itself. When a new version is ready you see a popup - one click and it installs and reopens.
+The app updates itself. When a new version is ready you see a popup. One click and it installs and reopens.
 
 Windows shows a blue warning screen. Is it safe?
 
@@ -2674,7 +2745,7 @@ Yes. New apps without a code-signing certificate can show a SmartScreen warning.
 
 ## Turn one long video into weeks of posts.
 
-A one-hour podcast gives about 30 clips of 15 seconds - titles, captions and framing done.
+A one-hour podcast gives about 30 clips of 15 seconds, with the titles, captions and framing done.
 
 No card. No sign-up. Updates itself automatically.
 
@@ -3846,7 +3917,7 @@ Modern tools can do most of those steps automatically. Our own app, [Zenra AI Vi
 3. **Make the clips** - the AI transcribes the video, finds the strongest moments, frames the speaker (with a split screen for back-and-forth conversations) and adds captions and titles.
 4. **Review and post** - clips are ranked, so start with #01. One click copies the title and hashtags.
 
-Your video is processed on your own PC, and there's no watermark. The app is launching soon with a 30-day free trial.
+Your video is processed on your own PC, and there's no watermark. The app comes with a 30-day free trial.
 
 ## How many clips can one video give you?
 
@@ -3884,7 +3955,7 @@ Need a custom video pipeline for your brand or platform? We build those too - se
 
 **Zenra AI Viral Clips**
 
-Turns long videos into captioned 9:16 clips automatically. Launching soon.
+Turns long videos into captioned clips for Shorts, Reels and TikTok. 30-day free trial.
 
 ## Keep reading
 

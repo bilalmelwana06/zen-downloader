@@ -12,7 +12,7 @@ Key facts:
 - Ownership: clients own the code, designs, domains and accounts from day one. NDA on request.
 - AI agents are built with approvals for important actions, human handoff, audit logs and least-privilege access.
 - Ready-made agent: Zenra AI Agent answers customers 24/7 on any website (WordPress, Shopify, Wix and more) or on a shareable chat link and QR code, replies in the customer's language, saves leads, hands chats to the team, learns from the business's website and files, and runs on free Cloudflare hosting. Page: https://zenraai.com/agents/zenra-ai-agent/
-- Own apps (Windows 10 and 11 today, Mac versions coming soon): Zenra Video Downloader: videos, playlists and channels from YouTube, TikTok, Instagram, Facebook, X and more in up to 4K or MP3, with a 1-day free trial, then $1 a month, $2 for 6 months, $3 a year or $10 lifetime; Zenra AI Viral Clips: turns long videos into ready-to-post 9:16 clips with captions, titles and speaker framing (launching soon, pre-orders open: $4 a month, $10 for 6 months, $15 a year or $35 lifetime, 30-day free trial at launch); Zenra Video Splitter: splits any video into equal clips in original quality, free.
+- Own apps (Windows 10 and 11 today, Mac versions coming soon): Zenra Video Downloader: videos, playlists and channels from YouTube, TikTok, Instagram, Facebook, X and more in up to 4K or MP3, with a 1-day free trial, then $1 a month, $2 for 6 months, $3 a year or $10 lifetime; Zenra AI Viral Clips (version 3.0, available now): turns long videos into ready-to-post clips in 9:16, 4:5, 1:1 or 16:9 with captions, titles, speaker framing and ball following for sports (30-day free trial, then $4 a month, $10 for 6 months, $15 a year or $35 lifetime); Zenra Video Splitter: splits any video into equal clips in original quality, free.
 - Replies to project inquiries within one business day.
 - Contact: support@zenraai.com or https://zenraai.com/contact/
 
@@ -31,7 +31,7 @@ Key facts:
 ## Tools
 - [Explore our Tools](https://zenraai.com/tools/): Explore Zenra AI tools for Windows, with Mac coming soon: Video Downloader for 4K playlists and channels, AI Viral Clips for shorts and the free Video Splitter.
 - [Zenra Video Downloader](https://zenraai.com/tools/zenra-video-downloader/): Video downloader for Windows PC: save YouTube, TikTok, Instagram, Facebook and X videos, playlists and whole channels in up to 4K or MP3. Free trial.
-- [Zenra AI Viral Clips](https://zenraai.com/tools/zenra-ai-viral-clips/): AI clip maker for Windows: turns long videos and podcasts into viral 9:16 Shorts, Reels and TikToks with captions, titles and speaker tracking. Free trial.
+- [Zenra AI Viral Clips](https://zenraai.com/tools/zenra-ai-viral-clips/): AI clip maker for Windows. Turns long videos into Shorts, Reels and TikToks in 9:16, 4:5, 1:1 or 16:9 with captions, titles and auto framing. 30-day free trial.
 - [Zenra Video Splitter](https://zenraai.com/tools/zenra-video-splitter/): Free Windows app that splits any video into equal parts in seconds, in original quality, with cuts at natural pauses - for WhatsApp Status, Shorts and Reels.
 
 ## Company

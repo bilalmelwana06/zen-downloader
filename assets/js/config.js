@@ -28,10 +28,10 @@ window.ZENRA_CONFIG = {
   web3formsKey: "35fecebf-3f02-478f-b9fc-430c94c1a53e",
 
   /* 4) ZENRA AI VIRAL CLIPS - LAUNCH SWITCH (Windows)
-        false = every Viral Clips button shows "Windows · Coming soon".
-        true  = the buttons become "Download for Windows" and "Buy" everywhere on the site.
-        (The installer must already be on GitHub Releases as ZenraAIViralClips.exe) */
-  viralClipsLaunched: false,
+        Launched on 11 November 2026 with version 3.0.
+        true  = the buttons are "Download for Windows" and "Buy" everywhere on the site.
+        Keep this on true. */
+  viralClipsLaunched: true,
 
   /* 5) MAC VERSIONS - DOWNLOAD LINKS
         Every app shows "Mac · Coming soon" until you paste its Mac download link here.
