@@ -58,11 +58,9 @@ Key facts:
 - [TikTok](https://www.tiktok.com/@zenraai): Zenra AI on TikTok
 - [LinkedIn](https://www.linkedin.com/company/zenraai/): Zenra AI on LinkedIn
 - [X](https://x.com/ZenraAi_): Zenra AI on X
-- [Threads](https://www.threads.com/@zenraai_): Zenra AI on Threads
 - [Pinterest](https://www.pinterest.com/ZenraAi/): Zenra AI on Pinterest
 - [Reddit](https://www.reddit.com/user/ZenraAi/): Zenra AI on Reddit
 - [Bilibili](https://space.bilibili.com/3747576828398109): Zenra AI on Bilibili
-- [WhatsApp](https://whatsapp.com/channel/0029Vb8oxCSFcow3mWseYc0G): Zenra AI on WhatsApp
 
 ## Optional
 - [Full text of the main pages](https://zenraai.com/llms-full.txt): every service, agent, tool, company and article page as plain text
