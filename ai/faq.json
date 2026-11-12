@@ -4,48 +4,103 @@
   "updated": "2026-11-12",
   "faqs": [
     {
-      "question": "How much does a project cost?",
-      "answer": "It depends on your budget and on what you want to build. Start by filling in the project form and sharing your idea. A few lines are enough. We'll reply with a free estimate within one business day, and after a short chat you get a fixed quote in writing, split into milestones, before any work starts.",
-      "source": "https://zenraai.com/"
+      "question": "What is Zenra AI?",
+      "answer": "Zenra AI is an AI and software development company. We design, build and launch AI agents, custom AI, websites, online stores and desktop and mobile apps for businesses worldwide. Our own products include Zenra AI Agent, Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter.",
+      "source": "https://zenraai.com/faq/"
     },
     {
-      "question": "How long does a project take?",
-      "answer": "Not long. Most projects (a website, an online store, an AI tool or a first version of your app) are delivered within a few days. Bigger projects usually take about 5 to 6 days, sometimes a little more or less. We agree the exact timeline with you before we start, and it's written into your proposal.",
-      "source": "https://zenraai.com/"
-    },
-    {
-      "question": "Do you build mobile and desktop apps?",
-      "answer": "Yes. We build Windows, Mac, iPhone and Android apps with installers, licensing, payments, automatic updates and the App Store and Google Play launch. See app development.",
-      "source": "https://zenraai.com/"
+      "question": "Which services do you offer?",
+      "answer": "We offer AI agent development, custom AI development, custom web development, e-commerce development and desktop and mobile app development. Each one works on its own or together with the others.",
+      "source": "https://zenraai.com/faq/"
     },
     {
       "question": "Do you work with clients in my country?",
       "answer": "Yes. We work remotely with clients around the world, in English, and schedule calls around your time zone.",
-      "source": "https://zenraai.com/"
+      "source": "https://zenraai.com/faq/"
     },
     {
-      "question": "Who owns the work when it's finished?",
-      "answer": "You do. Once the project is paid, the code, designs and content are yours. Domains, hosting, stores and AI accounts are set up in your name from the start.",
-      "source": "https://zenraai.com/"
+      "question": "Who do you usually work with?",
+      "answer": "Founders, small teams and growing companies that have a clear goal and need it built well and fast, from a first website or store to an AI agent inside an existing business.",
+      "source": "https://zenraai.com/faq/"
     },
     {
-      "question": "Will you sign an NDA?",
-      "answer": "Yes. We're happy to sign a mutual NDA before you share confidential details.",
-      "source": "https://zenraai.com/"
+      "question": "How much does a project cost?",
+      "answer": "It depends on your budget and on what you want to build. Fill in the project form and we will reply with a free estimate. After a short call you get a fixed quote in writing, split into milestones, before any work starts.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "Is the estimate really free?",
+      "answer": "Yes. The first call and the estimate are free, and there is no obligation to go ahead.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "How do payments work?",
+      "answer": "Usually a deposit to start and the rest by milestone. We agree on an international payment method that works for you, and the details are written into your proposal.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "Do you offer monthly plans?",
+      "answer": "Yes, for ongoing work such as store management, AI agent care, new features and support. The scope of each plan is agreed with you in advance.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "How long does a project take?",
+      "answer": "Most projects are delivered within a few days. Bigger projects usually take about 5 to 6 days, sometimes a little more or less. We agree the exact timeline with you before we start, and it is written into your proposal.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "What happens after I send the form?",
+      "answer": "We reply within one business day with any questions. Then we have a free 30-minute call about your goals, and you receive a written proposal with the scope, timeline and a fixed quote. You can read the full process on how we work.",
+      "source": "https://zenraai.com/faq/"
     },
     {
       "question": "How do we stay in touch during a project?",
       "answer": "By email, WhatsApp or video call, whatever suits you, plus short progress updates and a link to the latest working version while we build.",
-      "source": "https://zenraai.com/"
-    },
-    {
-      "question": "How do payments work?",
-      "answer": "Usually a deposit to start and the rest by milestone. We agree on an international payment method that works for you, and the details are in your proposal.",
-      "source": "https://zenraai.com/"
+      "source": "https://zenraai.com/faq/"
     },
     {
       "question": "What happens after launch?",
-      "answer": "We hand over every login, file and document, fix anything that isn't working as agreed, and offer optional monthly support, improvements and new features.",
+      "answer": "We hand over every login, file and document, fix anything that is not working as agreed, and offer optional monthly support, improvements and new features.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "Who owns the work when it is finished?",
+      "answer": "You do. Once the project is paid, the code, designs and content are yours. Domains, hosting, stores and AI accounts are set up in your name from the start.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "Will you sign an NDA?",
+      "answer": "Yes. We're happy to sign a mutual NDA before you share confidential details.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "How do you keep our data safe?",
+      "answer": "Every system gets only the access it needs, passwords are never shared, secrets stay out of the code and accounts are created in your name, so you stay in control.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "Which apps does Zenra AI make?",
+      "answer": "Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter for Windows 10 and 11, with Mac versions coming soon, and Zenra AI Agent, an AI chat agent for any website.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "Are the apps free?",
+      "answer": "Zenra Video Splitter is free. Zenra Video Downloader comes with a 1-day free trial and Zenra AI Viral Clips with a 30-day free trial. After the trial, plans start at $1 a month for the downloader and $4 a month for Viral Clips.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "How do I buy a plan or get a license key?",
+      "answer": "Use the buy buttons on the app page and tell us the plan you want. After payment you receive a license key to paste into the app.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "How do I get help with an app?",
+      "answer": "Use the support button on the app page or email support@zenraai.com.",
+      "source": "https://zenraai.com/faq/"
+    },
+    {
+      "question": "Do you build mobile and desktop apps?",
+      "answer": "Yes. We build Windows, Mac, iPhone and Android apps with installers, licensing, payments, automatic updates and the App Store and Google Play launch. See desktop and mobile app development.",
       "source": "https://zenraai.com/"
     },
     {

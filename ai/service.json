@@ -11,9 +11,9 @@
       "description": "AI agent development means building software that uses an AI model to understand a request, decide the next step and act in your tools, within limits you set."
     },
     {
-      "name": "Custom AI tool development",
+      "name": "Custom AI development",
       "url": "https://zenraai.com/services/ai-tool-development/",
-      "description": "Custom AI tool development means building AI software around your own data and workflow, such as an assistant that answers from your documents or a tool that pulls the fields out of invoices."
+      "description": "Custom AI development means building AI software around your own data and workflow, such as an assistant that answers from your documents or a tool that pulls the fields out of invoices."
     },
     {
       "name": "Custom web development",
@@ -21,14 +21,14 @@
       "description": "Custom web development means designing and coding a website or web app around your business instead of forcing it into a template, so it loads fast and grows with you."
     },
     {
-      "name": "E-commerce store development",
+      "name": "E-commerce development",
       "url": "https://zenraai.com/services/ecommerce-development/",
-      "description": "E-commerce store development means building an online store on Shopify, WooCommerce or custom code, with payments, shipping and everything else you need to sell."
+      "description": "E-commerce development means building an online store on Shopify, WooCommerce or custom code, with payments, shipping and everything else you need to sell."
     },
     {
-      "name": "Windows, Mac and mobile app development",
+      "name": "Desktop and mobile app development",
       "url": "https://zenraai.com/services/app-development/",
-      "description": "Windows, Mac and mobile app development means building software people install on a computer or phone, with installers, automatic updates, licensing and store launch included."
+      "description": "Desktop and mobile app development means building software people install on a computer or phone, for Windows, Mac, iPhone and Android, with installers, automatic updates, licensing and store launch included."
     }
   ],
   "products": [
