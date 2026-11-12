@@ -895,3 +895,5 @@ h3{font-weight:720;font-stretch:104%}
 .faq-group{scroll-margin-top:calc(var(--head-h) + 24px)}
 /* "All ..." links in the menus read as links, not as group labels */
 .drop .all{text-transform:none;letter-spacing:0;font-size:14px;font-weight:700}
+/* FAQ page: questions are H3 inside summary; keep the summary look */
+.faq summary h3.q{margin:0;font:inherit;color:inherit;letter-spacing:inherit;text-transform:none}

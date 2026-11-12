@@ -433,7 +433,7 @@ The short version for new clients, partners, journalists and AI assistants.
 
 - Company: Zenra AI, an AI and software development company
 - Where we work: Worldwide, in English, across time zones
-- Services: AI agent development, custom AI development, custom web development, e-commerce development and desktop and mobile app development
+- Services: AI agents, custom AI tools and chatbots, websites and web apps, online stores, and desktop and mobile apps
 - Our products: [Zenra AI Agent](https://zenraai.com/agents/zenra-ai-agent/), Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter
 - How we work: Fixed quotes in US dollars, paid by milestone, with most projects delivered within days
 - Contact: support@zenraai.com
@@ -665,91 +665,53 @@ Straight answers about working with Zenra AI. Find out how pricing works, how fa
 - Pricing and payments
 - Timelines and process
 - Ownership and security
-- Our apps and agents
+- Our own products
 
 ## About Zenra AI
 
-#### What is Zenra AI?
-
 Zenra AI is an AI and software development company. We design, build and launch AI agents, custom AI, websites, online stores and desktop and mobile apps for businesses worldwide. Our own products include Zenra AI Agent, Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter.
 
-#### Which services do you offer?
-
-We offer [AI agent development](https://zenraai.com/services/ai-agent-development/), [custom AI development](https://zenraai.com/services/ai-tool-development/), [custom web development](https://zenraai.com/services/custom-web-development/), [e-commerce development](https://zenraai.com/services/ecommerce-development/) and [desktop and mobile app development](https://zenraai.com/services/app-development/). Each one works on its own or together with the others.
-
-#### Do you work with clients in my country?
+We build [AI agents](https://zenraai.com/services/ai-agent-development/), [custom AI tools and chatbots](https://zenraai.com/services/ai-tool-development/), [websites and web apps](https://zenraai.com/services/custom-web-development/), [online stores](https://zenraai.com/services/ecommerce-development/) and [desktop and mobile apps](https://zenraai.com/services/app-development/). Each service works on its own or together with the others.
 
 Yes. We work remotely with clients around the world, in English, and schedule calls around your time zone.
-
-#### Who do you usually work with?
 
 Founders, small teams and growing companies that have a clear goal and need it built well and fast, from a first website or store to an AI agent inside an existing business.
 
 ## Pricing and payments
 
-#### How much does a project cost?
-
 It depends on your budget and on what you want to build. Fill in the [project form](https://zenraai.com/contact/) and we will reply with a free estimate. After a short call you get a fixed quote in writing, split into milestones, before any work starts.
-
-#### Is the estimate really free?
 
 Yes. The first call and the estimate are free, and there is no obligation to go ahead.
 
-#### How do payments work?
-
 Usually a deposit to start and the rest by milestone. We agree on an international payment method that works for you, and the details are written into your proposal.
-
-#### Do you offer monthly plans?
 
 Yes, for ongoing work such as store management, AI agent care, new features and support. The scope of each plan is agreed with you in advance.
 
 ## Timelines and process
 
-#### How long does a project take?
-
 Most projects are delivered within a few days. Bigger projects usually take about 5 to 6 days, sometimes a little more or less. We agree the exact timeline with you before we start, and it is written into your proposal.
-
-#### What happens after I send the form?
 
 We reply within one business day with any questions. Then we have a free 30-minute call about your goals, and you receive a written proposal with the scope, timeline and a fixed quote. You can read the full process on [how we work](https://zenraai.com/how-we-work/).
 
-#### How do we stay in touch during a project?
-
 By email, WhatsApp or video call, whatever suits you, plus short progress updates and a link to the latest working version while we build.
-
-#### What happens after launch?
 
 We hand over every login, file and document, fix anything that is not working as agreed, and offer optional monthly support, improvements and new features.
 
 ## Ownership and security
 
-#### Who owns the work when it is finished?
-
 You do. Once the project is paid, the code, designs and content are yours. Domains, hosting, stores and AI accounts are set up in your name from the start.
-
-#### Will you sign an NDA?
 
 Yes. We're happy to sign a mutual NDA before you share confidential details.
 
-#### How do you keep our data safe?
-
 Every system gets only the access it needs, passwords are never shared, secrets stay out of the code and accounts are created in your name, so you stay in control.
 
-## Our apps and agents
-
-#### Which apps does Zenra AI make?
+## Our own products
 
 [Zenra Video Downloader](https://zenraai.com/tools/zenra-video-downloader/), [Zenra AI Viral Clips](https://zenraai.com/tools/zenra-ai-viral-clips/) and [Zenra Video Splitter](https://zenraai.com/tools/zenra-video-splitter/) for Windows 10 and 11, with Mac versions coming soon, and [Zenra AI Agent](https://zenraai.com/agents/zenra-ai-agent/), an AI chat agent for any website.
 
-#### Are the apps free?
-
 Zenra Video Splitter is free. Zenra Video Downloader comes with a 1-day free trial and Zenra AI Viral Clips with a 30-day free trial. After the trial, plans start at $1 a month for the downloader and $4 a month for Viral Clips.
 
-#### How do I buy a plan or get a license key?
-
 Use the buy buttons on the app page and tell us the plan you want. After payment you receive a license key to paste into the app.
-
-#### How do I get help with an app?
 
 Use the support button on the app page or email support@zenraai.com.
 
