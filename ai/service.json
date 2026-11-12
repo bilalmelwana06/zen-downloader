@@ -1,0 +1,75 @@
+{
+  "name": "Zenra AI",
+  "url": "https://zenraai.com/services/",
+  "description": "Zenra AI is an AI and software development company that designs, builds and launches AI agents, custom AI tools, websites, online stores and Windows, Mac and mobile apps for businesses worldwide. It also makes Zenra AI Agent, Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter.",
+  "areaServed": "Worldwide",
+  "language": "en",
+  "capabilities": [
+    {
+      "name": "AI agent development",
+      "url": "https://zenraai.com/services/ai-agent-development/",
+      "description": "AI agent development means building software that uses an AI model to understand a request, decide the next step and act in your tools, within limits you set."
+    },
+    {
+      "name": "Custom AI tool development",
+      "url": "https://zenraai.com/services/ai-tool-development/",
+      "description": "Custom AI tool development means building AI software around your own data and workflow, such as an assistant that answers from your documents or a tool that pulls the fields out of invoices."
+    },
+    {
+      "name": "Custom web development",
+      "url": "https://zenraai.com/services/custom-web-development/",
+      "description": "Custom web development means designing and coding a website or web app around your business instead of forcing it into a template, so it loads fast and grows with you."
+    },
+    {
+      "name": "E-commerce store development",
+      "url": "https://zenraai.com/services/ecommerce-development/",
+      "description": "E-commerce store development means building an online store on Shopify, WooCommerce or custom code, with payments, shipping and everything else you need to sell."
+    },
+    {
+      "name": "Windows, Mac and mobile app development",
+      "url": "https://zenraai.com/services/app-development/",
+      "description": "Windows, Mac and mobile app development means building software people install on a computer or phone, with installers, automatic updates, licensing and store launch included."
+    }
+  ],
+  "products": [
+    {
+      "name": "Zenra AI Agent",
+      "type": "AI chat agent for websites",
+      "url": "https://zenraai.com/agents/zenra-ai-agent/",
+      "description": "An AI chatbot for your website that answers customers 24/7 in their language, saves every lead and hands chats to your team. Trained on your own business.",
+      "platform": "Setup app for Windows 10 and 11, chat works on any device"
+    },
+    {
+      "name": "Zenra Video Downloader",
+      "type": "Windows app",
+      "url": "https://zenraai.com/tools/zenra-video-downloader/",
+      "description": "Video downloader for Windows PC. Save YouTube, TikTok, Instagram, Facebook and X videos, playlists and whole channels in up to 4K or as MP3. Free trial.",
+      "platform": "Windows 10 and 11, Mac coming soon",
+      "price": "1-day free trial, then $1 a month, $2 for 6 months, $3 a year or $10 lifetime (USD)"
+    },
+    {
+      "name": "Zenra AI Viral Clips",
+      "type": "Windows app",
+      "url": "https://zenraai.com/tools/zenra-ai-viral-clips/",
+      "description": "AI clip maker for Windows that turns long videos into Shorts, Reels and TikToks in 9:16, 4:5, 1:1 or 16:9 with captions, titles and auto framing. Free trial.",
+      "platform": "Windows 10 and 11, Mac coming soon",
+      "price": "30-day free trial, then $4 a month, $10 for 6 months, $15 a year or $35 lifetime (USD)"
+    },
+    {
+      "name": "Zenra Video Splitter",
+      "type": "Windows app",
+      "url": "https://zenraai.com/tools/zenra-video-splitter/",
+      "description": "Free Windows app that splits any video into equal parts in seconds, in original quality, with cuts at natural pauses for WhatsApp Status, Shorts and Reels.",
+      "platform": "Windows 10 and 11, Mac coming soon",
+      "price": "Free"
+    }
+  ],
+  "pricing": "Every client project starts with a free estimate based on the client's idea and budget, followed by a fixed quote in US dollars, paid by milestone. Prices for Zenra AI's own apps are listed on each app page.",
+  "delivery": "Most projects are delivered within a few days. Bigger projects usually take about 5 to 6 days, sometimes a little more or less. The exact timeline is agreed with each client before work starts.",
+  "contact": {
+    "email": "support@zenraai.com",
+    "projectForm": "https://zenraai.com/contact/",
+    "replyTime": "Within one business day"
+  },
+  "updated": "2026-11-12"
+}

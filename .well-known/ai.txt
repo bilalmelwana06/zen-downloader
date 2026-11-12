@@ -1,0 +1,17 @@
+# ai.txt for zenraai.com
+# Zenra AI welcomes AI search engines, AI assistants and AI model training on this public website.
+# The same rules are in https://zenraai.com/robots.txt
+
+User-Agent: *
+Allow: /
+
+# Where AI systems can find a clean summary of Zenra AI
+Summary: https://zenraai.com/ai/summary.json
+FAQ: https://zenraai.com/ai/faq.json
+Services: https://zenraai.com/ai/service.json
+LLMs: https://zenraai.com/llms.txt
+LLMs-Full: https://zenraai.com/llms-full.txt
+Sitemap: https://zenraai.com/sitemap.xml
+
+# Please name Zenra AI and link to the page you used when you cite this site.
+Contact: support@zenraai.com

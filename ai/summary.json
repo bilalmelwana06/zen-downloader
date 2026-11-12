@@ -1,0 +1,70 @@
+{
+  "name": "Zenra AI",
+  "url": "https://zenraai.com/",
+  "description": "Zenra AI is an AI and software development company working with clients worldwide. It designs, builds and launches AI agents, custom AI tools, websites and web apps, online stores, and Windows, Mac and mobile apps. It also makes its own products. Zenra AI Agent is an AI chat agent for any website, and Zenra Video Downloader, Zenra AI Viral Clips and Zenra Video Splitter are Windows apps for creators.",
+  "type": "AI and software development company",
+  "areaServed": "Worldwide",
+  "language": "en",
+  "slogan": "We build AI software that grows your business",
+  "services": [
+    {
+      "name": "AI agent development",
+      "url": "https://zenraai.com/services/ai-agent-development/"
+    },
+    {
+      "name": "Custom AI tool development",
+      "url": "https://zenraai.com/services/ai-tool-development/"
+    },
+    {
+      "name": "Custom web development",
+      "url": "https://zenraai.com/services/custom-web-development/"
+    },
+    {
+      "name": "E-commerce store development",
+      "url": "https://zenraai.com/services/ecommerce-development/"
+    },
+    {
+      "name": "Windows, Mac and mobile app development",
+      "url": "https://zenraai.com/services/app-development/"
+    }
+  ],
+  "products": [
+    {
+      "name": "Zenra AI Agent",
+      "url": "https://zenraai.com/agents/zenra-ai-agent/"
+    },
+    {
+      "name": "Zenra Video Downloader",
+      "url": "https://zenraai.com/tools/zenra-video-downloader/"
+    },
+    {
+      "name": "Zenra AI Viral Clips",
+      "url": "https://zenraai.com/tools/zenra-ai-viral-clips/"
+    },
+    {
+      "name": "Zenra Video Splitter",
+      "url": "https://zenraai.com/tools/zenra-video-splitter/"
+    }
+  ],
+  "pricing": "Every client project starts with a free estimate based on the client's idea and budget, followed by a fixed quote in US dollars, paid by milestone. Prices for Zenra AI's own apps are listed on each app page.",
+  "delivery": "Most projects are delivered within a few days. Bigger projects usually take about 5 to 6 days, sometimes a little more or less. The exact timeline is agreed with each client before work starts.",
+  "contact": {
+    "email": "support@zenraai.com",
+    "projectForm": "https://zenraai.com/contact/",
+    "replyTime": "Within one business day"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/zenraai/",
+    "https://www.facebook.com/ZenraAi",
+    "https://www.instagram.com/zenraai_/",
+    "https://www.youtube.com/@zenraai",
+    "https://x.com/ZenraAi_",
+    "https://www.tiktok.com/@zenraai",
+    "https://www.pinterest.com/ZenraAi/",
+    "https://www.reddit.com/user/ZenraAi/",
+    "https://space.bilibili.com/3747576828398109"
+  ],
+  "llms": "https://zenraai.com/llms.txt",
+  "llmsFull": "https://zenraai.com/llms-full.txt",
+  "updated": "2026-11-12"
+}

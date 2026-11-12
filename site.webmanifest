@@ -1,13 +1,21 @@
 {
   "name": "Zenra AI",
   "short_name": "Zenra AI",
-  "description": "AI and software development company: AI agents, custom AI tools, websites, online stores and Windows, Mac & mobile apps, plus ready-made agents and tools.",
+  "description": "Zenra AI is an AI and software development company that builds AI agents, custom AI tools, websites, online stores and Windows, Mac and mobile apps, plus its own agents and apps.",
   "start_url": "/",
   "display": "browser",
   "background_color": "#05070C",
   "theme_color": "#05070C",
   "icons": [
-    {"src": "/assets/img/zenra-ai-logo-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "/assets/img/zenra-ai-logo-512.png", "sizes": "512x512", "type": "image/png"}
+    {
+      "src": "/assets/img/zenra-ai-logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/zenra-ai-logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
